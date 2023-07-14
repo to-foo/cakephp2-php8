@@ -1,0 +1,15 @@
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+CREATE TABLE IF NOT EXISTS `templates` (
+   `id` INT NOT NULL AUTO_INCREMENT ,
+   `name` VARCHAR(255) NOT NULL ,
+   `description` VARCHAR(255) NOT NULL ,
+   `testingmethod_id` INT NOT NULL DEFAULT '0' ,
+   `data` LONGTEXT NOT NULL ,
+   PRIMARY KEY (`id`)
+ ) ENGINE = MyISAM;
+ 
+COMMIT;

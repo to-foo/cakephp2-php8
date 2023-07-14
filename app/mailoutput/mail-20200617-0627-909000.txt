@@ -1,0 +1,112 @@
+To: torsten.foth@mbq-gmbh.de
+Subject: Dateiimport German Pipe
+From: info@zfp-datenbank.de
+X-Mailer: CakePHP Email
+Date: Wed, 17 Jun 2020 08:27:58 +0200
+Message-ID: <5ee9b7eee78c447dafeef8ccca2c54d2@TODD>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="e61a36bf06a56aaf839e0fcdec8c81e4"
+Content-Transfer-Encoding: 8bit
+
+--e61a36bf06a56aaf839e0fcdec8c81e4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Es wurden neue Auftragsdaten bereitgestellt.
+Folgende Dateien werden importiert.
+
+1592310739_0.csv
+##################################################
+Datei 1592310739_0.csv
+31 Datensätze gefunden
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079336
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079336
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079340
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079340
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079341
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079341
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079342
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079342
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079343
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079343
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079344
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079344
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079345
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079345
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079836
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079918
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079926
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079927
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079999
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080216
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080325
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080352
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080353
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080354
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080358
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080471
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080513
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080550
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080551
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080552
+0 Datensätze eingefügt
+
+This email was sent using the CakePHP Framework, http://cakephp.org.
+
+--e61a36bf06a56aaf839e0fcdec8c81e4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+	<title>Emails\html</title>
+</head>
+<body>
+	<p> Es wurden neue Auftragsdaten bereitgestellt.</p>
+<p> Folgende Dateien werden importiert.</p>
+<p> </p>
+<p> 1592310739_0.csv</p>
+<p> ##################################################</p>
+<p> Datei 1592310739_0.csv</p>
+<p> 31 Datensätze gefunden</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079336</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079336</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079340</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079340</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079341</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079341</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079342</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079342</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079343</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079343</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079344</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079344</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079345</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079345</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079836</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079918</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079926</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079927</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079999</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080216</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080325</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080352</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080353</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080354</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080358</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080471</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080513</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080550</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080551</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70080552</p>
+<p> 0 Datensätze eingefügt</p>
+<p> </p>
+
+	<p>This email was sent using the <a href="http://cakephp.org">CakePHP Framework</a></p>
+</body>
+</html>
+
+
+--e61a36bf06a56aaf839e0fcdec8c81e4--
+

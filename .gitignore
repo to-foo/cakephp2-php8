@@ -9,6 +9,7 @@
 /build
 /dist
 /tags
+/apps_data/*
 *.mo
 
 # IDE and editor specific files #

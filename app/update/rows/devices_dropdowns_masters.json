@@ -1,0 +1,6 @@
+{
+  "modus":"insert",
+  "model":"DevicesDropdownsMaster",
+  "field":"dropdowns_masters_id",
+  "string":"ALTER TABLE `devices_dropdowns_masters` ADD `dropdowns_masters_id` INT NOT NULL DEFAULT '0' AFTER `device_id`;"
+}

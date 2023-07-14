@@ -1,0 +1,6 @@
+{
+  "modus":"insert",
+  "model":"ReportVtstEvaluation",
+  "field":"position",
+  "string":"ALTER TABLE `report_vtst_evaluation` ADD `position` VARCHAR(250) NOT NULL AFTER `description`;"
+}

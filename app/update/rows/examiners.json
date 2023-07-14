@@ -1,0 +1,20 @@
+[
+  {
+    "modus":"insert",
+    "model":"Examiner",
+    "field":"send_infos",
+    "string":"ALTER TABLE `examiners` ADD `send_infos` TINYINT NOT NULL DEFAULT '0' AFTER `job`;"
+  },
+  {
+    "modus":"insert",
+    "model":"Examiner",
+    "field":"email",
+    "string":"ALTER TABLE `examiners` ADD `email` VARCHAR(255) NOT NULL AFTER `send_infos`;"
+  },
+  {
+    "modus":"insert",
+    "model":"Examiner",
+    "field":"user_id",
+    "string":"ALTER TABLE `examiners` ADD `user_id` VARCHAR(255) NOT NULL AFTER `email`;"
+  }
+]

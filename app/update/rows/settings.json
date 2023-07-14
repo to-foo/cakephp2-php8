@@ -1,0 +1,39 @@
+
+[
+  {
+    "modus":"insert",
+    "model":"Setting",
+    "field":"ContactManagerWidget",
+    "string":"ALTER TABLE `settings` ADD `ContactManagerWidget` TINYINT NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"insert",
+    "model":"Setting",
+    "field":"MonitoringManagerWidget",
+    "string":"ALTER TABLE `settings` ADD `MonitoringManagerWidget` TINYINT NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"insert",
+    "model":"Setting",
+    "field":"ExpeditingManagerWidget",
+    "string":"ALTER TABLE `settings` ADD `ExpeditingManagerWidget` TINYINT NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"insert",
+    "model":"Setting",
+    "field":"ProgressesEnabledWidget",
+    "string":"ALTER TABLE `settings` ADD `ProgressesEnabledWidget` TINYINT NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"insert",
+    "model":"Setting",
+    "field":"CertifcateManagerWidget",
+    "string":"ALTER TABLE `settings` ADD `CertifcateManagerWidget` TINYINT NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"insert",
+    "model":"Setting",
+    "field":"DeviceManagerWidget",
+    "string":"ALTER TABLE `settings` ADD `DeviceManagerWidget` TINYINT NOT NULL DEFAULT '0';"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "modus":"insert",
+    "model":"User",
+    "field":"examiner_id",
+    "string":"ALTER TABLE `users` ADD `examiner_id` VARCHAR(255) NOT NULL;"
+  }
+]

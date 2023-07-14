@@ -1,0 +1,8 @@
+[
+  {
+    "modus":"grant",
+    "aco":"Expeditings/indextemplate",
+    "aro":"1",
+    "action":"*"
+  }
+]

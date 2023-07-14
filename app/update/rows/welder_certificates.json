@@ -1,0 +1,21 @@
+[
+  {
+    "modus":"change",
+    "model":"WelderCertificate",
+    "field":"recertification_in_year",
+    "string":"ALTER TABLE `welder_certificates` CHANGE `recertification_in_year` `recertification_in_year` DECIMAL(11,0) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"change",
+    "model":"WelderCertificate",
+    "field":"renewal_in_year",
+    "string":"ALTER TABLE `welder_certificates` CHANGE `renewal_in_year` `renewal_in_year` DECIMAL(11,0) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"change",
+    "model":"WelderCertificate",
+    "field":"horizon",
+    "string":"ALTER TABLE `welder_certificates` CHANGE `horizon` `horizon` DECIMAL(10,0) NULL DEFAULT '0';"
+  }
+
+]

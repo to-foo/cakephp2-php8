@@ -1,0 +1,8 @@
+[
+  {
+    "modus":"insert",
+    "model":"ExpeditingEvent",
+    "field":"expediting_type_id",
+    "string":"ALTER TABLE `expediting_events` ADD `expediting_type_id` INT NOT NULL DEFAULT '0' AFTER `modified`;"
+  }
+]

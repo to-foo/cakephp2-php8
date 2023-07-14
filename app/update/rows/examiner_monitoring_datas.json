@@ -1,0 +1,20 @@
+[
+  {
+    "modus":"insert",
+    "model":"ExaminerMonitoringData",
+    "field":"expiration_date",
+    "string":"ALTER TABLE examiner_monitoring_datas add expiration_date date null default null;"
+  },
+  {
+    "modus":"insert",
+    "model":"ExaminerMonitoringData",
+    "field":"first_registration",
+    "string":"ALTER TABLE `examiner_monitoring_datas` CHANGE `first_registration` `first_registration` DATE NULL DEFAULT NULL;"
+  },
+  {
+    "modus":"insert",
+    "model":"ExaminerMonitoringData",
+    "field":"certified_date",
+    "string":"ALTER TABLE `examiner_monitoring_datas` CHANGE `certified_date` `certified_date` DATE NULL DEFAULT NULL;"
+  }
+]

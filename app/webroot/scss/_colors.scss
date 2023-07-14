@@ -1,0 +1,83 @@
+$border_radius: 3px;
+
+$error_color: #ff0000;
+$error_color_transparent_025: rgba(255, 0, 0, 0.25);
+$error_color_transparent: rgba(255, 0, 0, 0.125);
+$hint_color: #ff7e00;
+$hint_color_transparent: rgba(255, 126, 0, 0.25);
+$hint_color_transparent_25: rgba(255, 126, 0, 0.25);
+$success_color: rgba(3, 128, 0, 1);
+$success_color_transparent_025:   rgba(3, 128, 8, 0.25);
+
+$success_color_transparent: rgba(3, 128, 0, 0.125);
+$deactive_color: #636363;
+$deactive_color_transparent: rgba(99, 99, 99, 0.125);
+$deactive_color_transparent_25: rgba(99, 99, 99, 0.25);
+$intime_color: #3c5bbe;
+$intime_color_transparent: rgba(60, 91, 190, 0.125);
+$intime_color_transparent_25: rgba(60, 91, 190, 0.25);
+
+$testinstructions_color: #a122c0;
+$testinstructions_color_transparent: rgba(161, 34, 192, 0.25);
+
+$boxshadow_attention_field: rgba(161, 34, 192, 0.24) 0px 3px 8px;
+
+$body_bg_color: #fff;
+$a_color: rgba(66, 109, 134, 1);
+$a_round_bg_color_hover: #587da1;
+$a_round_bg_color_active: #314558;
+$standart_color_icon_bg_inactive: #aebbc8;
+
+$font_color: #07315c;
+$container_font_color: #4d4d4d;
+$container_topnavi_font_color_full: #6a9eb7;
+$container_topnavi_font_color: rgba(34, 115, 153, 0.4);
+$container_topnavi_font_color_1: rgba(34, 115, 153, 0.35);
+$container_topnavi_font_color_2: rgba(34, 115, 153, 0.5);
+$breadcrumb_font_color: #314558;
+
+$header_bg_color: #e7e5e5;
+$container_bg_color: rgba(34, 115, 153, 0.25);
+$form_bg_color: rgba(66, 109, 134, 0.1);
+$div_login_bg_color: rgba(255, 255, 255, 0.75);
+
+$div_input_box_shadow: inset 1px 1px 0px 0px rgba(0, 0, 0, 0.2);
+$div_box_shadow: 1.95px 1.95px 2.6px rgba(0, 0, 0, 0.15) ;
+
+$div_login_border_color: #00487a;
+
+$input_bg_color: #ffffff;
+$input_border_color: rgba(0, 0, 0, 0.3);
+
+$table_bg_color_1: #d6d3d3;
+$table_bg_color_2: rgba(66, 109, 134, 0.1);
+$table_bg_color_3: rgba(66, 109, 134, 0.15);
+$black_transparent: rgba(0, 0, 0, 0.1);
+
+$button_color_1: rgba(39, 130, 173, 1);
+$button_color_2: rgba(34, 115, 153, 1);
+$icon_color_1: rgba(39, 130, 173, 0.75);
+$icon_color_2: rgba(34, 115, 153, 0.75);
+
+$sub_headline: rgba(34, 115, 153, 0.15);
+
+$button_gradient: linear-gradient(to top, $button_color_2 0%, $button_color_1 50%);
+$h3_background_gradient: linear-gradient(67deg, $container_topnavi_font_color_2 0%, $container_topnavi_font_color_1 50%);
+$start_icon_background_gradient: linear-gradient(67deg, $icon_color_1 0%, $icon_color_2 50%);
+
+$animation_color: rgba(33, 141, 0, 0.25) 0px 2px 4px 0px, rgba(33, 141, 0, 0.5) 0px 2px 16px 0px;
+
+$log_gray: rgba(4, 24, 53, 0.54);
+$log_slateblack: rgba(0,0,0, 0.84);
+
+@keyframes mymove {
+  50% {box-shadow: rgba(161, 34, 192, 1) 0px 0px 16px;}
+}
+
+@keyframes mymove_success {
+  50% {box-shadow: $success_color 0px 0px 16px;}
+}
+
+@keyframes mymove_error {
+  50% {box-shadow: $error_color 0px 0px 16px;}
+}

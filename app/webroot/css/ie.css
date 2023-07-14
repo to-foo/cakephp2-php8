@@ -1,0 +1,267 @@
+#container table tr th a,  
+#dialog table tr th a 
+{ 
+}
+#container table tr th a { 
+	background-image: url(../img/icon_blue_negativ_sorting_ie.png); 
+}
+#dialog table tr th a { 
+	background-image: url(../img/icon_green_negativ_sorting_ie.png); 
+}
+#container table tr td.actions a, 
+#dialog table tr td.actions a 
+{ 
+	min-height: 30px; 
+}
+#container table tr td.actions a.icon_edit { 
+	background-image: url(../img/icon_blue_edit_ie.png);
+}
+#container table tr td.actions a.icon_view { 
+	background-image: url(../img/icon_blue_view_ie.png);
+}
+#container table tr td.actions a.icon_delete  { 
+	background-image: url(../img/icon_blue_delete_ie.png);
+}
+#container table tr td.actions a.icon_duplicate { 
+	background-image: url(../img/icon_blue_duplicat_ie.png);
+}
+#dialog table tr td.actions a.icon_duplicate { 
+	background-image: url(../img/icon_green_duplicat_ie.png);
+}
+#dialog table tr td.actions a.icon_edit { 
+	background-image: url(../img/icon_green_edit_ie.png);
+}
+#dialog table tr td.actions a.icon_view { 
+	background-image: url(../img/icon_green_view_ie.png);
+}
+#dialog table tr td.actions a.icon_delete  { 
+	background-image: url(../img/icon_green_delete_ie.png);
+}
+#dialog div.paging span { 
+	background-image: url(../img/icon_green_negativ_emty_ie.png); 
+}
+#container div.paging span { 
+	background-image: url(../img/icon_blue_negativ_emty_ie.png); 
+}
+#dialog div.paging span.prev { 
+	background-image: url(../img/icon_green_negativ_start_ie.png); 
+} 
+#container div.paging span.prev { 
+	background-image: url(../img/icon_blue_negativ_start_ie.png); 
+} 
+#dialog div.paging span.next { 
+	background-image: url(../img/icon_green_negativ_for_ie.png); 
+}
+#container div.paging span.next { 
+	background-image: url(../img/icon_blue_negativ_for_ie.png); 
+} 
+table tr td a.test_fail_icon { 
+	background-image: url(../img/icon_red_negativ_hint_ie.png); 
+}
+#container ul.listemax li.icon_discription span { 
+	height: 2em;
+	width: 2em; 
+	background-size: 1.8em auto; 
+	background-image: url(../img/icon_blue_negativ_emty_ie.png); 
+}
+#dialog ul.listemax li.icon_discription span { 
+	height: 1.8em;
+	width: 1.8em; 
+	margin-left: 0.5em; 
+	background-size: 1.6em auto; 
+	background-image: url(../img/icon_green_negativ_emty_ie.png); 
+}
+#container ul.listemax li.icon_status_open span { 
+	background-image: url(../img/icon_blue_negativ_lock_open_ie.png); 
+}
+#container ul.listemax li.icon_status_close span { 
+	background-image: url(../img/icon_blue_negativ_lock_close_ie.png); 
+}
+#container ul.listemax li.icon_delete span { 
+	background-image: url(../img/icon_blue_negativ_delete_ie.png); 
+}
+#container ul.listemax li.icon_edit span { 
+	background-image: url(../img/icon_blue_negativ_edit_ie.png); 
+}
+#container ul.listemax li.icon_view span { 
+	background-image: url(../img/icon_blue_negativ_view_ie.png); 
+}
+#container ul.listemax li.icon_add span { 
+	background-image: url(../img/icon_blue_negativ_plus_ie.png); 
+}
+#dialog ul.listemax li.icon_add span { 
+	background-image: url(../img/icon_green_negativ_plus_ie.png); 
+}
+#container #content form fieldset a.dropdown { 
+	display: block; 
+	float: left;
+	overflow: hidden !important; 
+	height: 30px; 
+	width: 37px;
+	background-repeat: no-repeat; 
+	background-position: 5px 0; 
+	background-size: 25px auto;
+	background-image: url(../img/icon_blue_settings_ie.png);  
+	line-height: 5em; 
+}
+#container #content form fieldset a:hover.dropdown { 
+	background-position: 5px 0; 
+}
+#container #content form fieldset a:active.dropdown { 
+	background-position: 5px 0; 
+}
+
+
+#container #content div.edit a {  
+	display: block; 
+	float: left; 
+	margin: 0; 
+	padding: 0; 
+	background-repeat: no-repeat; 
+	background-position: 10px 0; 
+	background-size: 40px auto; 
+	height: 30px; 
+	width: 50px; 
+	overflow: hidden; 
+	color: #5699d8; 
+	line-height: 200px; 
+}
+#container #content div.edit a.view {  
+	background-image: url(../img/icon_blue_negativ_view_ie.png); 
+}
+#container #content div.edit a:hover.view {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.view {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.edit {  
+	background-image: url(../img/icon_blue_negativ_edit_ie.png); 
+}
+#container #content div.edit a:hover.edit {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.edit {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.dublicate {  
+	background-image: url(../img/icon_blue_negativ_duplicat_ie.png); 
+}
+#container #content div.edit a:hover.dublicate {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.dublicate {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.print {  
+	background-image: url(../img/icon_blue_negativ_print_ie.png); 
+}
+#container #content div.edit a:hover.print {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.print {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.raw {  
+	background-image: url(../img/icon_blue_negativ_print_raw_ie.png); 
+}
+#container #content div.edit a:hover.raw {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.raw {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.images {  
+	background-image: url(../img/icon_blue_negativ_image_ie.png); 
+}
+#container #content div.edit a:hover.images {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.images {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.files {  
+	background-image: url(../img/icon_blue_negativ_file_ie.png); 
+}
+#container #content div.edit a:hover.files {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.files {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.history {  
+	background-image: url(../img/icon_blue_negativ_history_ie.png); 
+}
+#container #content div.edit a:hover.history {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.history {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.close {  
+	background-image: url(../img/icon_blue_negativ_lock_open_ie.png); 
+}
+#container #content div.edit a:hover.close {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.close {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.closed1 {  
+	background-image: url(../img/icon_blue_negativ_lock_close_ie.png); 
+}
+#container #content div.edit a:hover.closed1 {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.closed1 {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a.closed2 {  
+	background-image: url(../img/icon_blue_negativ_lock_check_ie.png); 
+}
+#container #content div.edit a:hover.closed2 {  
+	background-position: 10px 0; 
+}
+#container #content div.edit a:active.closed2 {  
+	background-position: 10px 0; 
+}
+#dialog .settingslink a.viewlink { 
+	background-image: url(../img/icon_green_view_ie.png); 
+}
+#dialog .settingslink a.settingslink { 
+	background-image: url(../img/icon_green_settings_ie.png); 
+}
+#dialog .settingslink a.addlink { 
+	background-image: url(../img/icon_green_plus_ie.png); 
+}
+#dialog .settingslink a.editlink { 
+	background-image: url(../img/icon_green_edit_ie.png); 
+}
+#dialog .settingslink a.deletelink { 
+	background-image: url(../img/icon_green_delete_ie.png); 
+}
+#dialog .settingslink a.addsearching { 
+	background-image: url(../img/icon_green_search_ie.png); 
+}
+#dialog .settingslink a.backlink { 
+	background-image: url(../img/icon_green_back_ie.png); 
+}
+#dialog .settingslink a.closemodal { 
+	background-image: url(../img/icon_green_negativ_close_ie.png); 
+}
+#dialog .settingslink a.upload { 
+	background-image: url(../img/icon_green_upload_ie.png); 
+}
+#dialog .settingslink a.workloadlink {
+	background-image: url(../img/icon_green_time_ie.png);
+}
+#dialog .settingslink a.nextlink {
+	background-image: url(../img/icon_green_for_ie.png);
+}
+#dialog .settingslink a.beforelink {
+	background-image: url(../img/icon_green_back_ie.png);
+}
+#dialog .settingslink a.imagelink {
+	background-image: url(../img/icon_green_parent_ie.png);
+}
+

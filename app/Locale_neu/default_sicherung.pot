@@ -1,0 +1,2467 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-02-19 13:49+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/DropdownsController.php:71;131;310;369;446;618;720;811
+#: Controller/QualificationsController.php:50;80;123;291;329
+#: Controller/ReportsController.php:51;87;122;179;227
+#: Controller/SpecialcharactersController.php:80;121;159;200
+#: Controller/TestingcompsController.php:48;71;106;150;192
+#: Controller/TestingmethodsController.php:56
+#: Controller/UsersController.php:773;804;855;900;950
+#: View/Reportnumbers/editevalution.ctp:12;16
+msgid "Back"
+msgstr ""
+
+#: Controller/DropdownsController.php:95
+msgid "Invalid dropdown"
+msgstr ""
+
+#: Controller/DropdownsController.php:110
+msgid "The dropdown has been saved"
+msgstr ""
+
+#: Controller/DropdownsController.php:111;576
+msgid "The value has been be saved."
+msgstr ""
+
+#: Controller/DropdownsController.php:114
+msgid "The dropdown could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DropdownsController.php:285;311
+msgid "Linking"
+msgstr ""
+
+#: Controller/DropdownsController.php:302;590;713
+msgid "For all testingmethods"
+msgstr ""
+
+#: Controller/DropdownsController.php:314;617;719
+#: Controller/QualificationsController.php:51;81;292
+#: Controller/ReportnumbersController.php:303;831;1218;1884;2017
+#: Controller/ReportsController.php:52;88;180;228
+#: Controller/SpecialcharactersController.php:59;79;122;161;201
+#: Controller/TestingcompsController.php:49;72;151
+#: Controller/TopprojectsController.php:50
+#: Controller/UsersController.php:774;805;901
+#: Controller/Component/NavigationComponent.php:325
+msgid "Add"
+msgstr ""
+
+#: Controller/DropdownsController.php:516
+msgid "Error, unlinking fail"
+msgstr ""
+
+#: Controller/DropdownsController.php:549;644;771
+msgid "Invalid evalution"
+msgstr ""
+
+#: Controller/DropdownsController.php:581
+msgid "The evalution could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DropdownsController.php:701
+msgid "The data has been saved"
+msgstr ""
+
+#: Controller/DropdownsController.php:706
+msgid "The data could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DropdownsController.php:793
+#: Controller/InvoicesController.php:771
+#: Controller/SpecialcharactersController.php:180
+msgid "Invalid data"
+msgstr ""
+
+#: Controller/DropdownsController.php:803
+#: Controller/SpecialcharactersController.php:194
+msgid "Value was deleted"
+msgstr ""
+
+#: Controller/DropdownsController.php:806
+#: Controller/ReportnumbersController.php:2523
+#: Controller/SpecialcharactersController.php:197
+msgid "Evalution was not deleted"
+msgstr ""
+
+#: Controller/InvoicesController.php:109;297
+#: Controller/OrdersController.php:390;415;661;686;1135
+#: View/Orders/orders.ctp:60
+#: View/Reportnumbers/fileupload.ctp:8
+msgid "Order"
+msgstr ""
+
+#: Controller/InvoicesController.php:116;304
+#: View/Orders/orders.ctp:52
+#: View/Orders/overview.ctp:23
+msgid "KKS"
+msgstr ""
+
+#: Controller/InvoicesController.php:123;311
+msgid "Invoice"
+msgstr ""
+
+#: Controller/InvoicesController.php:202
+msgid "The testingreport with the following reportnumber was canceled:"
+msgstr ""
+
+#: Controller/InvoicesController.php:205
+msgid "The testingreport with the following reportnumber could not be canceled:"
+msgstr ""
+
+#: Controller/InvoicesController.php:258
+#: Controller/Component/InvoicesComponent.php:918
+msgid "Open settlements"
+msgstr ""
+
+#: Controller/InvoicesController.php:274
+msgid "Closed settlements"
+msgstr ""
+
+#: Controller/InvoicesController.php:280
+msgid "Show reports to be settled"
+msgstr ""
+
+#: Controller/InvoicesController.php:775
+#: Controller/Component/InvoicesComponent.php:983
+msgid "Data was deleted"
+msgstr ""
+
+#: Controller/InvoicesController.php:868
+msgid "Billing has been recorded."
+msgstr ""
+
+#: Controller/InvoicesController.php:1169
+msgid "Attention, this waiting time has changed."
+msgstr ""
+
+#: Controller/InvoicesController.php:1228
+#: View/Invoices/waitings.ctp:9
+msgid "Waiting times"
+msgstr ""
+
+#: Controller/LanguagesController.php:29;61;86
+msgid "Invalid language"
+msgstr ""
+
+#: Controller/LanguagesController.php:44;65
+msgid "The language was saved"
+msgstr ""
+
+#: Controller/LanguagesController.php:47;68
+msgid "The language could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LanguagesController.php:90
+msgid "Language was deleted"
+msgstr ""
+
+#: Controller/LanguagesController.php:93
+msgid "Language was not deleted"
+msgstr ""
+
+#: Controller/OrdersController.php:68;90;347;356;614
+msgid "Show closed orders"
+msgstr ""
+
+#: Controller/OrdersController.php:73;352
+msgid "Show open orders"
+msgstr ""
+
+#: Controller/OrdersController.php:112;148;195;277;279;400;641;643;671;855;1015;1122
+#: Controller/Component/NavigationComponent.php:211;213
+#: View/Orders/index.ctp:24
+msgid "Revision"
+msgstr ""
+
+#: Controller/OrdersController.php:122;138;192;287;289;409;650;652;680;852;1012;1119
+#: Controller/Component/NavigationComponent.php:220;222
+#: View/Orders/index.ctp:16
+msgid "Ongoing process"
+msgstr ""
+
+#: Controller/OrdersController.php:582
+msgid "The order has been locked."
+msgstr ""
+
+#: Controller/OrdersController.php:587
+msgid "The order has been reopened."
+msgstr ""
+
+#: Controller/OrdersController.php:593
+msgid "The order could not be locked."
+msgstr ""
+
+#: Controller/OrdersController.php:779
+msgid "Please enter the searched report`s running number"
+msgstr ""
+
+#: Controller/OrdersController.php:832;1077;1197
+msgid "Invalid order"
+msgstr ""
+
+#: Controller/OrdersController.php:868
+msgid "View Order"
+msgstr ""
+
+#: Controller/OrdersController.php:919
+#: Controller/Component/XmlComponent.php:193
+msgid "Error message"
+msgstr ""
+
+#: Controller/OrdersController.php:920
+msgid "The uploaded file could not be processed to the end, the schema of the file is incorrect. Please check the file."
+msgstr ""
+
+#: Controller/OrdersController.php:921
+msgid "The following fields could not be inserted."
+msgstr ""
+
+#: Controller/OrdersController.php:963
+msgid "The new order has been saved"
+msgstr ""
+
+#: Controller/OrdersController.php:975
+msgid "The new order could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OrdersController.php:1000;1084
+msgid "The order has been saved"
+msgstr ""
+
+#: Controller/OrdersController.php:1003;1096
+msgid "The order could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OrdersController.php:1026
+#: View/Orders/create.ctp:7
+msgid "Create order"
+msgstr ""
+
+#: Controller/OrdersController.php:1149
+#: Controller/SpecialcharactersController.php:60;160
+#: Controller/Component/NavigationComponent.php:299
+#: View/Dropdowns/dropdownadd.ctp:4
+#: View/Dropdowns/dropdownedit.ctp:4;55
+#: View/Dropdowns/dropdownindex.ctp:40
+#: View/Dropdowns/view.ctp:66
+#: View/Helper/ViewDataHelper.php:102;173;299;611;628;813;831
+#: View/Invoices/mt/invoiceok.ctp:170;243
+#: View/Invoices/rt/invoiceok.ctp:203;278
+#: View/Languages/index.ctp:17
+#: View/Orders/overview.ctp:80
+#: View/Orders/quicksearch.ctp:56
+#: View/Qualifications/index.ctp:34
+#: View/Reportnumbers/show.ctp:70
+#: View/Reports/delete.ctp:27
+#: View/Reports/index.ctp:28
+#: View/Rolls/index.ctp:15
+#: View/Rolls/view.ctp:68;115
+#: View/Specialcharacters/listing.ctp:26
+#: View/Testingcomps/index.ctp:36
+#: View/Testingcomps/view.ctp:104;134
+#: View/Testingmethods/view.ctp:78;111
+#: View/Topprojects/index.ctp:29
+#: View/Topprojects/view.ctp:49;95
+#: View/Users/index.ctp:30
+#: View/Users/view.ctp:76
+msgid "Edit"
+msgstr ""
+
+#: Controller/OrdersController.php:1157
+#: Controller/ReportnumbersController.php:132;285
+#: Controller/TestingmethodsController.php:101
+#: View/Dropdowns/add.ctp:2;18
+#: View/Dropdowns/edit.ctp:17
+#: View/Dropdowns/index.ctp:44
+#: View/Dropdowns/view.ctp:17;45
+#: View/Elements/fileuploadOk.ctp:2
+#: View/Invoices/overview.ctp:2
+#: View/Languages/add.ctp:13
+#: View/Languages/edit.ctp:14
+#: View/Languages/index.ctp:8;38
+#: View/Languages/view.ctp:22
+#: View/Orders/add - Kopie.ctp:2
+#: View/Orders/add.ctp:2
+#: View/Orders/create.ctp:2
+#: View/Orders/delete.ctp:2
+#: View/Orders/edit.ctp:2
+#: View/Orders/index.ctp:5
+#: View/Orders/orders.ctp:5
+#: View/Orders/overview.ctp:5
+#: View/Orders/quicksearch.ctp:5
+#: View/Orders/report.ctp:2
+#: View/Orders/search.ctp:2
+#: View/Qualifications/add.ctp:2
+#: View/Qualifications/delete.ctp:2
+#: View/Qualifications/edit.ctp:2
+#: View/Qualifications/index.ctp:15
+#: View/Reportnumbers/fileupload.ctp:3
+#: View/Reportnumbers/imagesresult.ctp:2
+#: View/Reportnumbers/index.ctp:2
+#: View/Reportnumbers/show.ctp:2
+#: View/Reports/add.ctp:2
+#: View/Reports/delete.ctp:9
+#: View/Reports/edit.ctp:2
+#: View/Reports/index.ctp:10
+#: View/Rolls/add.ctp:12
+#: View/Rolls/edit.ctp:13
+#: View/Rolls/index.ctp:7;36
+#: View/Rolls/view.ctp:17;47;97
+#: View/Testingcomps/add.ctp:2
+#: View/Testingcomps/delete.ctp:2
+#: View/Testingcomps/edit.ctp:2
+#: View/Testingcomps/index.ctp:12
+#: View/Testingcomps/view.ctp:82;118
+#: View/Testingmethods/add.ctp:2
+#: View/Testingmethods/edit.ctp:2
+#: View/Testingmethods/index.ctp:9
+#: View/Testingmethods/view.ctp:2;55;94
+#: View/Topprojects/index.ctp:2;13
+#: View/Users/add.ctp:2
+#: View/Users/delete.ctp:2
+#: View/Users/edit.ctp:2
+msgid "Actions"
+msgstr ""
+
+#: Controller/OrdersController.php:1221
+msgid "Order was deleted"
+msgstr ""
+
+#: Controller/OrdersController.php:1226
+msgid "Order was not deleted"
+msgstr ""
+
+#: Controller/QualificationsController.php:75;260;312
+msgid "Invalid qualification"
+msgstr ""
+
+#: Controller/QualificationsController.php:101;143;179;265
+msgid "The qualification was saved"
+msgstr ""
+
+#: Controller/QualificationsController.php:104;150;186;228;268
+msgid "The qualification could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QualificationsController.php:221
+msgid "The qualification was deleted"
+msgstr ""
+
+#: Controller/QualificationsController.php:323
+msgid "Qualification was deleted"
+msgstr ""
+
+#: Controller/QualificationsController.php:326
+msgid "Qualification was not deleted"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:75
+msgid "Sorry, no results."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:107;277;295
+#: Controller/TestingmethodsController.php:83
+#: Controller/Component/NavigationComponent.php:521;566;826
+#: View/Dropdowns/dropdownedit.ctp:21
+msgid "Create"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:116
+#: View/Invoices/mt/invoice.ctp:25;113;187
+#: View/Invoices/mt/invoiceok.ctp:16;27;111;190
+#: View/Invoices/rt/invoice.ctp:14;25;132;228
+#: View/Invoices/rt/invoiceok.ctp:16;27;121;225
+#: View/Reportnumbers/weldassistent.ctp:12
+msgid "Show"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:123
+msgid "Please select a report type in the project settings."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:152
+msgid "Statistics"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:153;304;832;1219;1885;2018
+msgid "Searching"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:154;835;1222;1624;1888;2021
+#: Controller/TopprojectsController.php:51
+#: View/Helper/NavigationHelper.php:450;487
+#: View/Reportnumbers/settings.ctp:2
+#: View/Topprojects/settings.ctp:2
+msgid "Settings"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:266
+msgid "Search report"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:266
+#: Controller/Component/NavigationComponent.php:246;266;287;313;513;531;550
+#: View/Dropdowns/index.ctp:2
+msgid "Dropdowns"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:763;1030;1246;1250;1266;1270;1286;1290;1307;1474;1639;1802;2432;2545;2645
+#: Controller/Component/AutorisierungComponent.php:302
+msgid "Invalid reportnumber"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:824
+msgid "Show report no."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1077;1564
+#: Controller/ReportsController.php:112;155
+msgid "The report has been saved"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1081
+#: Controller/ReportsController.php:116;158
+msgid "The report could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1196;1609
+msgid "Edit report no."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1467
+msgid "The new report has been saved."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1616
+msgid "Edit evalution"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1661
+#: Controller/Component/DataComponent.php:376
+msgid "The report was closed."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1734;1780
+msgid "Copy"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1755;1791
+msgid "The evalution area has been duplicated"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1877
+msgid "Images report no."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1913
+msgid "Discription was saved"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1916
+msgid "Discription was not saved"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1936
+msgid "Image was deleted"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1941
+msgid "Image was not deleted"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:1948
+msgid "Image does not exist"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2010
+msgid "Files report no."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2054
+msgid "File was deleted"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2068;2073
+msgid "File was not deleted"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2082
+msgid "File does not exist"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2118;2393
+msgid "Report was closed"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2142;2258;2418
+msgid "State could not be changed"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2154
+#: View/Helper/NavigationHelper.php:681;686;698
+msgid "Close this report"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2268;2271
+msgid "request supervision release"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2274
+#: View/Reportnumbers/status2.ctp:14
+msgid "revoke supervision release request"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2378;2386
+msgid "Report was re-opened."
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2444
+msgid "Report deleted"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2447
+#: Controller/ReportsController.php:218
+msgid "Report was not deleted"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2518
+msgid "Evalution area deleted"
+msgstr ""
+
+#: Controller/ReportnumbersController.php:2562
+msgid "Welding areas were created"
+msgstr ""
+
+#: Controller/ReportsController.php:71;146;204
+msgid "Invalid report"
+msgstr ""
+
+#: Controller/RollsController.php:29;61;86
+msgid "Invalid roll"
+msgstr ""
+
+#: Controller/RollsController.php:44;65
+msgid "Roll was saved"
+msgstr ""
+
+#: Controller/RollsController.php:47;68
+msgid "Roll could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RollsController.php:90
+msgid "Roll was deleted"
+msgstr ""
+
+#: Controller/RollsController.php:93
+msgid "Roll was not deleted"
+msgstr ""
+
+#: Controller/SpecialcharactersController.php:107
+msgid "Special character was saved"
+msgstr ""
+
+#: Controller/SpecialcharactersController.php:110
+msgid "Special character could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SpecialcharactersController.php:153
+msgid "The Specialcharacter has been saved"
+msgstr ""
+
+#: Controller/SpecialcharactersController.php:155
+msgid "The Specialcharacter could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TestingcompsController.php:66;125;171
+msgid "Invalid testingcomp"
+msgstr ""
+
+#: Controller/TestingcompsController.php:92;136
+msgid "Testingcomp was saved"
+msgstr ""
+
+#: Controller/TestingcompsController.php:97;138
+msgid "Testingcomp could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TestingcompsController.php:185
+msgid "Testingcomp was deleted"
+msgstr ""
+
+#: Controller/TestingcompsController.php:188
+msgid "Testingcomp was not deleted"
+msgstr ""
+
+#: Controller/TestingmethodsController.php:117
+msgid " has no testingmethod"
+msgstr ""
+
+#: Controller/TestingmethodsController.php:180;243;333
+msgid "Invalid testingmethod"
+msgstr ""
+
+#: Controller/TestingmethodsController.php:219;248
+msgid "Testingmethod was saved"
+msgstr ""
+
+#: Controller/TestingmethodsController.php:222;251
+msgid "Testingmethod could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TestingmethodsController.php:337
+msgid "Testingmethod was deleted"
+msgstr ""
+
+#: Controller/TestingmethodsController.php:340
+msgid "Testingmethod was not deleted"
+msgstr ""
+
+#: Controller/TopprojectsController.php:118;205;258
+msgid "Invalid topproject"
+msgstr ""
+
+#: Controller/TopprojectsController.php:178;214
+msgid "Topproject was saved"
+msgstr ""
+
+#: Controller/TopprojectsController.php:182;217
+msgid "Topproject could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TopprojectsController.php:273
+msgid "Topproject was deleted"
+msgstr ""
+
+#: Controller/TopprojectsController.php:278
+msgid "Topproject was not deleted"
+msgstr ""
+
+#: Controller/UsersController.php:86
+msgid "Invalid username or password, try again"
+msgstr ""
+
+#: Controller/UsersController.php:713
+msgid "No rights for this project."
+msgstr ""
+
+#: Controller/UsersController.php:796;877;942
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:838;889
+msgid "User was saved"
+msgstr ""
+
+#: Controller/UsersController.php:840;892
+msgid "User could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:938
+msgid "This user can not be deleted"
+msgstr ""
+
+#: Controller/UsersController.php:945
+msgid "User was deleted"
+msgstr ""
+
+#: Controller/Component/AutorisierungComponent.php:13
+msgid "Invalid user or password!"
+msgstr ""
+
+#: Controller/Component/AutorisierungComponent.php:14
+msgid "Sorry, not enough permission!"
+msgstr ""
+
+#: Controller/Component/AutorisierungComponent.php:67
+#: View/Authorizes/index.ctp:1
+#: View/Authorizes/notauthorize.ctp:1
+msgid "No rights for this function"
+msgstr ""
+
+#: Controller/Component/AutorisierungComponent.php:146
+msgid "You were logged out due inactivity"
+msgstr ""
+
+#: Controller/Component/AutorisierungComponent.php:339
+msgid "This report is not yours or you are logged out."
+msgstr ""
+
+#: Controller/Component/InvoicesComponent.php:868
+msgid "Show stated reports"
+msgstr ""
+
+#: Controller/Component/InvoicesComponent.php:876
+msgid "No statable reports found - only closed reports can be stated. Only additional services can be added."
+msgstr ""
+
+#: Controller/Component/InvoicesComponent.php:884
+msgid "Following reports were removed due missing data"
+msgstr ""
+
+#: Controller/Component/InvoicesComponent.php:897
+msgid "radiation source missing"
+msgstr ""
+
+#: Controller/Component/InvoicesComponent.php:902
+msgid "dimensions missing"
+msgstr ""
+
+#: Controller/Component/InvoicesComponent.php:905
+msgid "exposure arrangement missing"
+msgstr ""
+
+#: Controller/Component/InvoicesComponent.php:980
+msgid "Data was saved"
+msgstr ""
+
+#: Controller/Component/InvoicesComponent.php:1029
+msgid "Complete settlement"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:137
+msgid "Start"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:368
+msgid "Back to Dropdown Boxes"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:403;424;453;492
+msgid "Create order manually"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:435;464;484;540;558
+#: View/Testingmethods/view.ctp:32
+msgid "Back to list"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:574
+msgid "Delete this"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:588
+#: View/Topprojects/index.ctp:7
+msgid "Projects"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:589
+#: View/Helper/NavigationHelper.php:67;308
+#: View/Helper/ViewDataHelper.php:79
+#: View/Reportnumbers/show.ctp:8
+#: View/Reports/delete.ctp:2
+#: View/Reports/index.ctp:3
+msgid "Reports"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:590
+msgid "Testingcompanies"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:591
+#: View/Users/index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:592
+#: View/Qualifications/index.ctp:2
+msgid "Qualifications"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:593
+#: View/Testingmethods/index.ctp:2
+msgid "Testingmethods"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:604
+msgid "List projects"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:605
+msgid "Show this project"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:606
+msgid "New project"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:607
+#: View/Topprojects/view.ctp:20
+msgid "Edit this project"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:608
+msgid "Delete this project"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:611
+msgid "List reports"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:612
+#: View/Helper/NavigationHelper.php:835
+msgid "Show this report"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:613
+msgid "New report"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:614
+#: View/Helper/NavigationHelper.php:839;841
+#: View/Reports/view.ctp:20
+msgid "Edit this report"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:615
+msgid "Delete this report"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:618
+msgid "List testingcompanies"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:619
+msgid "Show this testingcompany"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:620
+msgid "New testingcompany"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:621
+#: View/Testingcomps/view.ctp:65
+msgid "Edit this testingcompany"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:622
+msgid "Delete this testingcompany"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:625
+#: View/Rolls/add.ctp:18
+#: View/Rolls/edit.ctp:20
+#: View/Rolls/index.ctp:41
+#: View/Rolls/view.ctp:25
+msgid "List users"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:626
+msgid "Show this user"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:627
+#: View/Rolls/add.ctp:19
+#: View/Rolls/edit.ctp:21
+#: View/Rolls/index.ctp:42
+#: View/Rolls/view.ctp:26;125
+msgid "New user"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:628
+msgid "Edit this user"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:629
+msgid "Delete this user"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:632
+msgid "List qualifications"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:633
+msgid "Show this qualification"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:634
+#: View/Testingmethods/view.ctp:36
+msgid "New qualification"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:635
+#: View/Qualifications/view.ctp:55
+msgid "Edit this qualification"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:636
+msgid "Delete this qualification"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:639
+msgid "List testingmethods"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:640
+msgid "Show this testingmethod"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:641
+#: View/Testingmethods/view.ctp:35
+msgid "New testingmethod"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:642
+#: View/Testingmethods/view.ctp:33
+msgid "Edit this testingmethod"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:643
+msgid "Delete this testingmethod"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:730;743
+#: View/Orders/overview.ctp:67
+msgid "open"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:730;743
+#: View/Orders/overview.ctp:68
+msgid "closed"
+msgstr ""
+
+#: Controller/Component/NavigationComponent.php:730;743
+msgid "settled"
+msgstr ""
+
+#: Controller/Component/XmlComponent.php:194
+msgid "The uploaded file could not be processed, the scheme of the file is incorrect. Check the file and try again."
+msgstr ""
+
+#: Controller/Component/XmlComponent.php:209
+msgid "Successfully uploaded"
+msgstr ""
+
+#: Model/Report.php:13
+msgid "Please select a project"
+msgstr ""
+
+#: Model/Report.php:19
+msgid "Please select a testingmethod"
+msgstr ""
+
+#: Model/Report.php:31
+msgid "Please enter a name"
+msgstr ""
+
+#: Model/Report.php:38
+msgid "Please enter an identification"
+msgstr ""
+
+#: Model/Report.php:45
+msgid "Please enter a discription"
+msgstr ""
+
+#: Model/Topproject.php:15
+msgid "Please select a testingcompany"
+msgstr ""
+
+#: Model/User.php:89
+msgid "Passwords do not match"
+msgstr ""
+
+#: Model/User.php:97
+msgid "You must submit a password"
+msgstr ""
+
+#: Vendor/report.php:259
+#: View/Invoices/mt/invoice.ctp:29
+#: View/Invoices/mt/invoiceok.ctp:31
+#: View/Invoices/rt/invoice.ctp:29
+#: View/Invoices/rt/invoiceok.ctp:31
+#: View/Reports/view.ctp:2
+msgid "Report"
+msgstr ""
+
+#: Vendor/report.php:270
+msgid "examiner no. Wacker"
+msgstr ""
+
+#: Vendor/report.php:273
+msgid "Page"
+msgstr ""
+
+#: Vendor/report.php:273
+#: View/Invoices/rt/invoice.ctp:140;144
+msgid "of"
+msgstr ""
+
+#: Vendor/report.php:699
+#: View/Helper/ViewDataHelper.php:224;363;572;776
+#: View/Users/pdf.ctp:574
+msgid "no"
+msgstr ""
+
+#: Vendor/report.php:702
+#: View/Helper/ViewDataHelper.php:224;363;572;776
+#: View/Users/pdf.ctp:574
+msgid "yes"
+msgstr ""
+
+#: Vendor/report.php:705
+msgid "-"
+msgstr ""
+
+#: Vendor/report.php:1109
+msgid "Rate of film consumption"
+msgstr ""
+
+#: Vendor/report.php:1113
+msgid "Films"
+msgstr ""
+
+#: View/Dropdowns/add.ctp:8
+#: View/Dropdowns/new.ctp:4
+msgid "Add Dropdown"
+msgstr ""
+
+#: View/Dropdowns/add.ctp:14
+#: View/Dropdowns/dropdownadd.ctp:13
+#: View/Dropdowns/dropdownedit.ctp:13
+#: View/Dropdowns/edit.ctp:13
+#: View/Dropdowns/new.ctp:10
+#: View/Elements/fileuploadOk.ctp:19
+#: View/Invoices/editadditional.ctp:21
+#: View/Invoices/editstandard.ctp:17
+#: View/Languages/add.ctp:10
+#: View/Languages/edit.ctp:11
+#: View/Orders/add - Kopie.ctp:74
+#: View/Orders/add.ctp:14
+#: View/Orders/edit.ctp:14
+#: View/Orders/select.ctp:9
+#: View/Qualifications/add.ctp:22
+#: View/Qualifications/addforexaminierer.ctp:17
+#: View/Qualifications/edit.ctp:24
+#: View/Qualifications/editforexaminierer.ctp:18
+#: View/Reportnumbers/edit.ctp:55
+#: View/Reportnumbers/editevalution.ctp:23
+#: View/Reports/add.ctp:19
+#: View/Reports/edit.ctp:21
+#: View/Rolls/add.ctp:9
+#: View/Rolls/edit.ctp:10
+#: View/Specialcharacters/add.ctp:13
+#: View/Specialcharacters/edit.ctp:14
+#: View/Testingcomps/add.ctp:27
+#: View/Testingcomps/edit.ctp:28
+#: View/Testingmethods/add.ctp:18
+#: View/Testingmethods/edit.ctp:19
+#: View/Topprojects/add.ctp:16
+#: View/Topprojects/edit.ctp:18
+#: View/Users/add.ctp:26
+#: View/Users/edit.ctp:29
+msgid "Submit"
+msgstr ""
+
+#: View/Dropdowns/add.ctp:21
+#: View/Dropdowns/edit.ctp:21
+msgid "List Dropdowns"
+msgstr ""
+
+#: View/Dropdowns/add.ctp:22
+#: View/Dropdowns/edit.ctp:22
+#: View/Dropdowns/index.ctp:47
+msgid "List Testingcomps"
+msgstr ""
+
+#: View/Dropdowns/add.ctp:23
+#: View/Dropdowns/edit.ctp:23
+#: View/Dropdowns/index.ctp:48
+msgid "New Testingcomp"
+msgstr ""
+
+#: View/Dropdowns/dropdownedit.ctp:25
+msgid "erstellen"
+msgstr ""
+
+#: View/Dropdowns/dropdownedit.ctp:54
+#: View/Dropdowns/dropdownindex.ctp:39
+#: View/Dropdowns/edit.ctp:20
+#: View/Dropdowns/view.ctp:67
+#: View/Helper/ViewDataHelper.php:100;176;296
+#: View/Invoices/mt/invoiceok.ctp:259
+#: View/Invoices/rt/invoiceok.ctp:294
+#: View/Languages/edit.ctp:17
+#: View/Languages/index.ctp:18
+#: View/Orders/overview.ctp:78
+#: View/Orders/quicksearch.ctp:55
+#: View/Qualifications/deleteforexaminierer.ctp:21
+#: View/Qualifications/index.ctp:33
+#: View/Reportnumbers/files.ctp:42
+#: View/Reportnumbers/show.ctp:69
+#: View/Reports/delete.ctp:26
+#: View/Reports/index.ctp:27
+#: View/Rolls/edit.ctp:16
+#: View/Rolls/index.ctp:16
+#: View/Rolls/view.ctp:69;116
+#: View/Specialcharacters/listing.ctp:25
+#: View/Testingcomps/index.ctp:35
+#: View/Testingmethods/view.ctp:77;110
+#: View/Topprojects/index.ctp:28
+#: View/Topprojects/view.ctp:48;94
+#: View/Users/index.ctp:29
+msgid "Delete"
+msgstr ""
+
+#: View/Dropdowns/dropdownindex.ctp:47
+#: View/Dropdowns/index.ctp:29
+#: View/Languages/index.ctp:31
+#: View/Orders/orders.ctp:88
+#: View/Qualifications/index.ctp:42
+#: View/Reportnumbers/history.ctp:84
+#: View/Reportnumbers/show.ctp:83
+#: View/Reports/delete.ctp:35
+#: View/Reports/index.ctp:36
+#: View/Rolls/index.ctp:29
+#: View/Testingcomps/index.ctp:44
+#: View/Testingmethods/index.ctp:30
+#: View/Topprojects/index.ctp:37
+#: View/Users/index.ctp:38
+msgid "previous"
+msgstr ""
+
+#: View/Dropdowns/dropdownindex.ctp:49
+#: View/Dropdowns/index.ctp:31
+#: View/Languages/index.ctp:33
+#: View/Orders/orders.ctp:90
+#: View/Qualifications/index.ctp:44
+#: View/Reportnumbers/history.ctp:86
+#: View/Reportnumbers/show.ctp:85
+#: View/Reports/delete.ctp:37
+#: View/Reports/index.ctp:38
+#: View/Rolls/index.ctp:31
+#: View/Testingcomps/index.ctp:46
+#: View/Testingmethods/index.ctp:32
+#: View/Topprojects/index.ctp:39
+#: View/Users/index.ctp:40
+msgid "next"
+msgstr ""
+
+#: View/Dropdowns/dropdownindex.ctp:55
+#: View/Dropdowns/index.ctp:37
+#: View/Languages/index.ctp:26
+#: View/Orders/orders.ctp:97
+#: View/Qualifications/index.ctp:50
+#: View/Reportnumbers/history.ctp:92
+#: View/Reportnumbers/show.ctp:91
+#: View/Reports/delete.ctp:43
+#: View/Reports/index.ctp:44
+#: View/Rolls/index.ctp:24
+#: View/Testingcomps/index.ctp:52
+#: View/Testingmethods/index.ctp:38
+#: View/Topprojects/index.ctp:45
+#: View/Users/index.ctp:46
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Dropdowns/edit.ctp:4
+msgid "Edit Dropdown"
+msgstr ""
+
+#: View/Dropdowns/edit.ctp:7;8
+#: View/Invoices/mt/invoiceok.ctp:195
+#: View/Invoices/rt/invoiceok.ctp:230
+#: View/Languages/view.ctp:14
+#: View/Orders/reports.ctp:6
+#: View/Reportnumbers/reports.ctp:5
+#: View/Specialcharacters/listing.ctp:6
+#: View/Topprojects/view.ctp:31
+msgid "Discription"
+msgstr ""
+
+#: View/Dropdowns/edit.ctp:20
+#: View/Dropdowns/view.ctp:20;67
+#: View/Helper/ViewDataHelper.php:100
+#: View/Languages/edit.ctp:17
+#: View/Languages/index.ctp:18
+#: View/Languages/view.ctp:25
+#: View/Rolls/edit.ctp:16
+#: View/Rolls/index.ctp:16
+#: View/Rolls/view.ctp:20;69;116
+#: View/Testingmethods/view.ctp:77;110
+#: View/Users/index.ctp:29
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Dropdowns/index.ctp:6
+#: View/Dropdowns/islinking.ctp:12
+#: View/Dropdowns/linkingadd.ctp:8
+#: View/Helper/ViewDataHelper.php:81
+msgid "Testingcompany"
+msgstr ""
+
+#: View/Dropdowns/index.ctp:21
+msgid "Edit dropdown settings"
+msgstr ""
+
+#: View/Dropdowns/index.ctp:22
+msgid "Edit dropdown content"
+msgstr ""
+
+#: View/Dropdowns/index.ctp:46
+msgid "New Dropdown"
+msgstr ""
+
+#: View/Dropdowns/islinking.ctp:2
+msgid "Entries in this downdown are available due link with another dropdown"
+msgstr ""
+
+#: View/Dropdowns/islinking.ctp:4
+msgid "remove link"
+msgstr ""
+
+#: View/Dropdowns/islinking.ctp:5
+msgid "link with another dropdown"
+msgstr ""
+
+#: View/Dropdowns/islinking.ctp:10
+#: View/Dropdowns/linkingadd.ctp:6
+#: View/Reports/view.ctp:29
+#: View/Specialcharacters/listing.ctp:5
+#: View/Testingmethods/view.ctp:14
+msgid "Value"
+msgstr ""
+
+#: View/Dropdowns/islinking.ctp:11
+#: View/Dropdowns/linkingadd.ctp:7
+msgid "Value (optional)"
+msgstr ""
+
+#: View/Dropdowns/islinking.ctp:13
+#: View/Dropdowns/linkingadd.ctp:9
+msgid "modified"
+msgstr ""
+
+#: View/Dropdowns/linking.ctp:2
+msgid "Please select the dropdown for transfering values to the chosen dropdown"
+msgstr ""
+
+#: View/Dropdowns/linking.ctp:33
+msgid "transfer the values to the chosen dropdown"
+msgstr ""
+
+#: View/Dropdowns/linkingadd.ctp:2
+msgid "Transfer values below to the current dropdown"
+msgstr ""
+
+#: View/Dropdowns/linkingadd.ctp:3
+msgid "Link this values with dropdown"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:2
+msgid "Dropdown"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:4;32
+#: View/Languages/view.ctp:4
+#: View/Reports/view.ctp:28
+#: View/Rolls/view.ctp:4;34;87
+#: View/Testingcomps/view.ctp:73;115
+#: View/Testingmethods/view.ctp:9;91
+#: View/Topprojects/view.ctp:28;60
+msgid "Id"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:9
+msgid "Wert"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:19
+#: View/Helper/ViewDataHelper.php:619;822
+msgid "Edit dropdown"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:20
+msgid "Delete dropdown"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:21
+msgid "List dropdowns"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:22
+msgid "New dropdown"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:23
+#: View/Rolls/add.ctp:16
+#: View/Rolls/edit.ctp:18
+#: View/Rolls/index.ctp:39
+#: View/Rolls/view.ctp:23
+msgid "List testingcomps"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:24;76
+#: View/Rolls/add.ctp:17
+#: View/Rolls/edit.ctp:19
+#: View/Rolls/index.ctp:40
+#: View/Rolls/view.ctp:24;78
+#: View/Testingmethods/view.ctp:34
+msgid "New testingcomp"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:28
+#: View/Rolls/view.ctp:30
+#: View/Topprojects/view.ctp:56
+msgid "Related testingcomps"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:33
+#: View/Reports/view.ctp:30
+#: View/Rolls/view.ctp:9;35;88
+#: View/Testingcomps/view.ctp:4;74
+#: View/Testingmethods/view.ctp:19
+#: View/Topprojects/view.ctp:29;61
+#: View/Users/view.ctp:4
+msgid "Name"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:34
+#: View/Rolls/view.ctp:36
+#: View/Testingcomps/view.ctp:80
+#: View/Topprojects/view.ctp:62
+msgid "Roll Id"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:35
+#: View/Rolls/view.ctp:37
+#: View/Testingcomps/view.ctp:14
+msgid "Logopath"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:36
+#: View/Rolls/view.ctp:38
+#: View/Testingcomps/view.ctp:19
+#: View/Topprojects/view.ctp:63
+msgid "Company name"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:37
+#: View/Rolls/view.ctp:39
+#: View/Testingcomps/view.ctp:24
+msgid "Company name addition"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:38
+#: View/Rolls/view.ctp:40
+#: View/Testingcomps/view.ctp:29
+#: View/Topprojects/view.ctp:64
+msgid "Street"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:39
+#: View/Rolls/view.ctp:41
+#: View/Testingcomps/view.ctp:34
+msgid "Postcode"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:40
+#: View/Rolls/view.ctp:42
+#: View/Testingcomps/view.ctp:39
+#: View/Topprojects/view.ctp:66
+msgid "City"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:41
+#: View/Rolls/view.ctp:43
+#: View/Testingcomps/view.ctp:44
+#: View/Topprojects/view.ctp:67
+msgid "Phone"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:42
+#: View/Rolls/view.ctp:44
+#: View/Testingcomps/view.ctp:49
+#: View/Topprojects/view.ctp:68
+msgid "Fax"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:43
+#: View/Rolls/view.ctp:45
+#: View/Testingcomps/view.ctp:54
+#: View/Topprojects/view.ctp:69
+msgid "Internet"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:44
+#: View/Rolls/view.ctp:46
+#: View/Testingcomps/view.ctp:59
+#: View/Topprojects/view.ctp:70
+msgid "Email"
+msgstr ""
+
+#: View/Dropdowns/view.ctp:65
+#: View/Languages/index.ctp:16
+#: View/Orders/quicksearch.ctp:57
+#: View/Qualifications/index.ctp:35
+#: View/Reportnumbers/show.ctp:71
+#: View/Reports/delete.ctp:28
+#: View/Reports/index.ctp:29
+#: View/Rolls/index.ctp:14
+#: View/Rolls/view.ctp:67;114
+#: View/Testingcomps/index.ctp:37
+#: View/Testingcomps/view.ctp:105;135
+#: View/Testingmethods/view.ctp:79;112
+#: View/Topprojects/index.ctp:30
+#: View/Topprojects/view.ctp:50;96
+#: View/Users/index.ctp:31
+#: View/Users/view.ctp:77
+msgid "View"
+msgstr ""
+
+#: View/Elements/fileuploadOk.ctp:7
+msgid "Edit order"
+msgstr ""
+
+#: View/Helper/JqueryScripteHelper.php:199;454
+#: View/Helper/NavigationHelper.php:708
+msgid "Warning, this function may not be reversed!"
+msgstr ""
+
+#: View/Helper/JqueryScripteHelper.php:200;455
+msgid "Are you sure you want to duplicate this Report?"
+msgstr ""
+
+#: View/Helper/JqueryScripteHelper.php:201;456
+msgid "Are you sure you want to duplicate this Evalution Area?"
+msgstr ""
+
+#: View/Helper/JqueryScripteHelper.php:202;457
+msgid "Are you sure you want to delete this Report?"
+msgstr ""
+
+#: View/Helper/JqueryScripteHelper.php:203;458
+msgid "Are you sure you want to delete this Order?"
+msgstr ""
+
+#: View/Helper/JqueryScripteHelper.php:204;459
+msgid "Are you sure you want to delete this Evalution Area?"
+msgstr ""
+
+#: View/Helper/JqueryScripteHelper.php:205;460
+msgid "Are you sure you want to delete this entry?"
+msgstr ""
+
+#: View/Helper/JqueryScripteHelper.php:206;461
+msgid "Are you sure you want to delete this file?"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:23
+msgid "order no."
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:28
+#: View/Orders/search.ctp:17
+msgid "Search"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:46
+msgid "kks no."
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:51
+#: View/Helper/ViewDataHelper.php:78
+msgid "Reportnumber"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:62;163;303
+msgid "report no."
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:691
+msgid "Reopen this Report"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:837
+msgid "View this report"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:843;845
+msgid "Duplicate this report"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:847;849;892
+msgid "Print this report"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:859;861
+msgid "Show images"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:863;865
+msgid "Show files"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:868
+msgid "Show report history"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:870
+msgid "Show history"
+msgstr ""
+
+#: View/Helper/NavigationHelper.php:894
+msgid "Print this waiting report"
+msgstr ""
+
+#: View/Helper/ViewDataHelper.php:8
+msgid "closed by examiner"
+msgstr ""
+
+#: View/Helper/ViewDataHelper.php:11
+msgid "closed by supervisor"
+msgstr ""
+
+#: View/Helper/ViewDataHelper.php:80
+#: View/Qualifications/view.ctp:14
+#: View/Testingmethods/view.ctp:7;49
+#: View/Users/view.ctp:54
+msgid "Testingmethod"
+msgstr ""
+
+#: View/Helper/ViewDataHelper.php:82
+#: View/Invoices/mt/invoiceok.ctp:194
+#: View/Invoices/rt/invoiceok.ctp:229
+#: View/Orders/overview.ctp:25
+#: View/Qualifications/view.ctp:29
+#: View/Rolls/view.ctp:91
+#: View/Specialcharacters/listing.ctp:7
+#: View/Testingcomps/view.ctp:76
+#: View/Testingmethods/view.ctp:52
+#: View/Users/view.ctp:14;57
+msgid "Created"
+msgstr ""
+
+#: View/Helper/ViewDataHelper.php:83
+#: View/Qualifications/view.ctp:34
+#: View/Rolls/view.ctp:92
+#: View/Specialcharacters/listing.ctp:8
+#: View/Testingcomps/view.ctp:77
+#: View/Testingmethods/view.ctp:53
+#: View/Users/view.ctp:19;58
+msgid "Modified"
+msgstr ""
+
+#: View/Helper/ViewDataHelper.php:174;298
+msgid "Duplicate"
+msgstr ""
+
+#: View/Helper/ViewDataHelper.php:514
+msgid "Edit "
+msgstr ""
+
+#: View/Helper/ViewDataHelper.php:636;840
+msgid "Add dropdown"
+msgstr ""
+
+#: View/Helper/ViewDataHelper.php:742
+msgid "Edit general infos"
+msgstr ""
+
+#: View/Invoices/editadditional.ctp:15;16
+msgid "choose one"
+msgstr ""
+
+#: View/Invoices/editstandard.ctp:3
+msgid "Source"
+msgstr ""
+
+#: View/Invoices/editstandard.ctp:4
+msgid "Dimension"
+msgstr ""
+
+#: View/Invoices/editstandard.ctp:5
+msgid "Picture-No."
+msgstr ""
+
+#: View/Invoices/overview.ctp:6;11
+msgid "Invoices"
+msgstr ""
+
+#: View/Invoices/waitings.ctp:25
+msgid "Report no."
+msgstr ""
+
+#: View/Invoices/waitings.ctp:26
+msgid "Date of test"
+msgstr ""
+
+#: View/Invoices/waitings.ctp:27
+msgid "Waiting time beginning"
+msgstr ""
+
+#: View/Invoices/waitings.ctp:28
+msgid "Waiting time ending"
+msgstr ""
+
+#: View/Invoices/waitings.ctp:29
+msgid "Waiting time (h)"
+msgstr ""
+
+#: View/Invoices/waitings.ctp:32
+msgid "Justification of the waiting time"
+msgstr ""
+
+#: View/Invoices/waitings.ctp:33
+msgid "Aktive"
+msgstr ""
+
+#: View/Invoices/waitings.ctp:83
+msgid "This waiting time collides with the waiting time of the following inspection reports"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:30
+#: View/Invoices/mt/invoiceok.ctp:32
+#: View/Invoices/rt/invoice.ctp:30
+#: View/Invoices/rt/invoiceok.ctp:32
+msgid "Testing team"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:31
+#: View/Invoices/mt/invoiceok.ctp:33
+#: View/Invoices/rt/invoice.ctp:32
+#: View/Invoices/rt/invoiceok.ctp:34
+msgid "Begin of test"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:32
+#: View/Invoices/mt/invoiceok.ctp:34
+#: View/Invoices/rt/invoice.ctp:33
+#: View/Invoices/rt/invoiceok.ctp:35
+msgid "End of test"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:33
+#: View/Invoices/rt/invoice.ctp:34
+#: View/Invoices/rt/invoiceok.ctp:36
+msgid "Duration of Test"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:34
+#: View/Invoices/mt/invoiceok.ctp:36
+#: View/Invoices/rt/invoice.ctp:35
+#: View/Invoices/rt/invoiceok.ctp:37
+msgid "No. of welds"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:35
+#: View/Invoices/mt/invoiceok.ctp:37
+#: View/Invoices/rt/invoice.ctp:36
+#: View/Invoices/rt/invoiceok.ctp:38
+msgid "thereof NE-welds"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:37
+#: View/Invoices/rt/invoice.ctp:40
+#: View/Invoices/rt/invoiceok.ctp:42
+msgid "Aktivate/Deactivate"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:38
+#: View/Invoices/rt/invoice.ctp:41
+#: View/Invoices/rt/invoiceok.ctp:43
+#: View/Orders/add - Kopie.ctp:73
+#: View/Orders/add.ctp:13
+#: View/Orders/edit.ctp:13
+#: View/Orders/search.ctp:16
+#: View/Qualifications/add.ctp:21
+#: View/Qualifications/addforexaminierer.ctp:16
+#: View/Qualifications/edit.ctp:23
+#: View/Qualifications/editforexaminierer.ctp:17
+#: View/Reports/edit.ctp:20
+#: View/Testingmethods/add.ctp:17
+#: View/Testingmethods/edit.ctp:18
+#: View/Topprojects/add.ctp:15
+#: View/Topprojects/edit.ctp:17
+#: View/Users/add.ctp:25
+msgid "Cancel"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:97
+#: View/Invoices/mt/invoiceok.ctp:93
+msgid "Total"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:111
+#: View/Invoices/mt/invoiceok.ctp:109
+#: View/Invoices/rt/invoice.ctp:130
+msgid "Overview Testing areas / Welds"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:112;186
+#: View/Invoices/mt/invoiceok.ctp:15;26;110;189
+#: View/Invoices/rt/invoice.ctp:13;24;131;227
+#: View/Invoices/rt/invoiceok.ctp:15;26;120;224
+msgid "Hide"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:118
+#: View/Invoices/mt/invoiceok.ctp:116;199;200
+#: View/Invoices/rt/invoice.ctp:155
+#: View/Invoices/rt/invoiceok.ctp:167;234;235
+msgid "Amount"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:119
+#: View/Invoices/mt/invoiceok.ctp:117
+#: View/Invoices/rt/invoice.ctp:156
+#: View/Invoices/rt/invoiceok.ctp:168
+#: View/Orders/reports.ctp:7
+#: View/Reportnumbers/reports.ctp:6
+msgid "Dimensions"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:120
+#: View/Invoices/mt/invoiceok.ctp:118
+#: View/Invoices/rt/invoice.ctp:159
+#: View/Invoices/rt/invoiceok.ctp:171
+msgid "Position"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:121
+#: View/Invoices/mt/invoiceok.ctp:119;201
+#: View/Invoices/rt/invoice.ctp:160
+#: View/Invoices/rt/invoiceok.ctp:172;236
+msgid "Unit price"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:122
+#: View/Invoices/mt/invoiceok.ctp:120;202
+#: View/Invoices/rt/invoice.ctp:161
+#: View/Invoices/rt/invoiceok.ctp:173;237
+msgid "Total price"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:185
+#: View/Invoices/rt/invoice.ctp:226
+#: View/Invoices/rt/invoiceok.ctp:223
+msgid "Overview additional services"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:193
+#: View/Invoices/rt/invoice.ctp:234
+msgid "New additional part"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:215;229;242
+#: View/Invoices/mt/invoiceok.ctp:301;313
+#: View/Invoices/rt/invoice.ctp:189;270;283
+#: View/Invoices/rt/invoiceok.ctp:336;349;359
+msgid "Please select"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:336
+msgid "Save Billing"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:393
+msgid "With this action the report is stated \\\"Invoiced\\\" without being regarded on invocation"
+msgstr ""
+
+#: View/Invoices/mt/invoice.ctp:448
+msgid "Please enter all values"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:14
+msgid "Overview order details"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:35
+msgid "Duration of test"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:38;204
+#: View/Invoices/rt/invoiceok.ctp:239
+msgid "Modification time"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:39;122;203
+#: View/Invoices/rt/invoiceok.ctp:175;238
+#: View/Reportnumbers/history.ctp:12
+msgid "Editor"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:121
+#: View/Invoices/rt/invoiceok.ctp:174
+msgid "Creation time"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:188
+msgid "Overview addiitional services"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:196;197
+#: View/Invoices/rt/invoiceok.ctp:231;232
+msgid "Examiner"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:198
+#: View/Invoices/rt/invoiceok.ctp:233
+msgid "Date"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:281
+#: View/Invoices/rt/invoiceok.ctp:316
+msgid "Create new additional service"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:290
+msgid "Show invoice parts"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:299
+msgid "Print invoice"
+msgstr ""
+
+#: View/Invoices/mt/invoiceok.ctp:311
+msgid "Invoice of other Testingmethods"
+msgstr ""
+
+#: View/Invoices/rt/invoice.ctp:31;158
+#: View/Invoices/rt/invoiceok.ctp:33;170
+msgid "Radiation source"
+msgstr ""
+
+#: View/Invoices/rt/invoice.ctp:37
+#: View/Invoices/rt/invoiceok.ctp:39
+msgid "Films 10x24"
+msgstr ""
+
+#: View/Invoices/rt/invoice.ctp:38
+#: View/Invoices/rt/invoiceok.ctp:40
+msgid "Films 10x48"
+msgstr ""
+
+#: View/Invoices/rt/invoice.ctp:140
+msgid "Welds are ready for invocation. Invocation can be saved when all welds are ready."
+msgstr ""
+
+#: View/Invoices/rt/invoice.ctp:141
+msgid "For invocation radiation source, image no. and dimensions must be entered into report."
+msgstr ""
+
+#: View/Invoices/rt/invoice.ctp:144
+msgid "welds are ready for invocation."
+msgstr ""
+
+#: View/Invoices/rt/invoice.ctp:157
+#: View/Invoices/rt/invoiceok.ctp:169
+msgid "Image-No."
+msgstr ""
+
+#: View/Invoices/rt/invoice.ctp:377
+msgid "Save billing"
+msgstr ""
+
+#: View/Invoices/rt/invoiceok.ctp:186
+msgid "deactivate"
+msgstr ""
+
+#: View/Invoices/rt/invoiceok.ctp:325
+msgid "Show invocation parts"
+msgstr ""
+
+#: View/Invoices/rt/invoiceok.ctp:334
+msgid "print invocation"
+msgstr ""
+
+#: View/Invoices/rt/invoiceok.ctp:347
+msgid "Invocation of other testing methods"
+msgstr ""
+
+#: View/Invoices/rt/invoiceok.ctp:357
+msgid "Export in Excel-Format"
+msgstr ""
+
+#: View/Invoices/rt/invoiceok.ctp:371
+msgid "CSV"
+msgstr ""
+
+#: View/Languages/add.ctp:4
+msgid "Add language"
+msgstr ""
+
+#: View/Languages/add.ctp:16
+#: View/Languages/edit.ctp:18
+#: View/Languages/view.ctp:26
+msgid "List languages"
+msgstr ""
+
+#: View/Languages/edit.ctp:4
+#: View/Languages/view.ctp:24
+msgid "Edit language"
+msgstr ""
+
+#: View/Languages/index.ctp:2
+msgid "Languages"
+msgstr ""
+
+#: View/Languages/index.ctp:40
+#: View/Languages/view.ctp:27
+msgid "New language"
+msgstr ""
+
+#: View/Languages/view.ctp:2
+msgid "Language"
+msgstr ""
+
+#: View/Languages/view.ctp:9
+msgid "Locale"
+msgstr ""
+
+#: View/Languages/view.ctp:25
+msgid "Delete language"
+msgstr ""
+
+#: View/Layouts/ajax.ctp:3
+#: View/Layouts/projects.ctp:3
+msgid "Logout"
+msgstr ""
+
+#: View/Layouts/default.ctp:62
+#: View/Layouts/original.ctp:62
+msgid "Sorry, this Application will run only with JavaScript, please activate JavaScript in your browser, and try again."
+msgstr ""
+
+#: View/Orders/add - Kopie.ctp:8
+msgid "Add Order"
+msgstr ""
+
+#: View/Orders/delete.ctp:7
+#: View/Orders/index.ctp:10
+#: View/Orders/orders.ctp:12
+msgid "Orders"
+msgstr ""
+
+#: View/Orders/orders.ctp:25
+msgid "Overview KKS-No."
+msgstr ""
+
+#: View/Orders/orders.ctp:26
+#: View/Orders/overview.ctp:24
+msgid "Overview measure points"
+msgstr ""
+
+#: View/Orders/orders.ctp:77
+msgid "measure points"
+msgstr ""
+
+#: View/Orders/orders.ctp:104
+msgid "If you change the state, it can not be reversed."
+msgstr ""
+
+#: View/Orders/overview.ctp:26
+msgid "State"
+msgstr ""
+
+#: View/Orders/overview.ctp:44
+msgid "KKS-No."
+msgstr ""
+
+#: View/Orders/overview.ctp:52
+msgid "Measure points"
+msgstr ""
+
+#: View/Orders/overview.ctp:81;84
+#: View/Reportnumbers/history.ctp:14
+msgid "Details"
+msgstr ""
+
+#: View/Orders/overview.ctp:93
+msgid "If you change the state, this can not be reversed."
+msgstr ""
+
+#: View/Orders/quicksearch.ctp:18
+msgid "There is no report matching the entered parameters."
+msgstr ""
+
+#: View/Orders/quicksearch.ctp:38
+#: View/Reportnumbers/show.ctp:51
+msgid "Testing areas"
+msgstr ""
+
+#: View/Orders/report.ctp:11
+msgid "Open the newly created order"
+msgstr ""
+
+#: View/Orders/reports.ctp:5
+#: View/Reportnumbers/reports.ctp:4
+#: View/Reports/view.ctp:31
+#: View/Testingmethods/view.ctp:24
+msgid "Testing method"
+msgstr ""
+
+#: View/Orders/reports.ctp:8
+#: View/Reportnumbers/reports.ctp:7
+msgid "Filmposition"
+msgstr ""
+
+#: View/Orders/reports.ctp:9
+msgid "Last modified"
+msgstr ""
+
+#: View/Orders/reports.ctp:43;48
+msgid "Show report"
+msgstr ""
+
+#: View/Orders/search.ctp:8
+msgid "Search order"
+msgstr ""
+
+#: View/Orders/view.ctp:3
+msgid "Order No."
+msgstr ""
+
+#: View/Qualifications/add.ctp:8
+#: View/Qualifications/addforexaminierer.ctp:4
+msgid "Add qualification"
+msgstr ""
+
+#: View/Qualifications/deleteforexaminierer.ctp:4
+msgid "Delete qualification"
+msgstr ""
+
+#: View/Qualifications/deleteforexaminierer.ctp:8
+msgid "Really delete this qualification?"
+msgstr ""
+
+#: View/Qualifications/edit.ctp:8
+#: View/Qualifications/editforexaminierer.ctp:4
+msgid "Edit Qualification"
+msgstr ""
+
+#: View/Qualifications/view.ctp:2
+msgid "Qualification"
+msgstr ""
+
+#: View/Qualifications/view.ctp:4
+#: View/Testingmethods/view.ctp:47
+msgid "Examiner-id"
+msgstr ""
+
+#: View/Qualifications/view.ctp:9
+#: View/Testingmethods/view.ctp:48
+#: View/Users/view.ctp:53
+msgid "Certification-number"
+msgstr ""
+
+#: View/Qualifications/view.ctp:19
+#: View/Testingmethods/view.ctp:50
+#: View/Users/view.ctp:55
+msgid "Level"
+msgstr ""
+
+#: View/Qualifications/view.ctp:24
+#: View/Testingmethods/view.ctp:51
+#: View/Users/view.ctp:56
+msgid "Timeperiod"
+msgstr ""
+
+#: View/Qualifications/view.ctp:39
+#: View/Testingmethods/view.ctp:46
+#: View/Users/view.ctp:2
+msgid "User"
+msgstr ""
+
+#: View/Qualifications/view.ctp:44
+#: View/Testingcomps/view.ctp:2
+#: View/Testingmethods/view.ctp:45
+#: View/Users/view.ctp:39;59
+msgid "Testingcomp"
+msgstr ""
+
+#: View/Qualifications/view.ctp:49
+#: View/Testingmethods/view.ctp:54
+#: View/Users/view.ctp:60
+msgid "Supervisors"
+msgstr ""
+
+#: View/Reportnumbers/edit.ctp:21
+msgid "Assign report"
+msgstr ""
+
+#: View/Reportnumbers/edit.ctp:32;35
+msgid "New Evaluation Area"
+msgstr ""
+
+#: View/Reportnumbers/edit.ctp:43;46
+msgid "Naht-Assistent"
+msgstr ""
+
+#: View/Reportnumbers/edit.ctp:54
+#: View/Reportnumbers/editevalution.ctp:22
+msgid "Reset"
+msgstr ""
+
+#: View/Reportnumbers/editevalution.ctp:27
+msgid "Dublicate"
+msgstr ""
+
+#: View/Reportnumbers/files.ctp:7
+msgid "Fileupload"
+msgstr ""
+
+#: View/Reportnumbers/files.ctp:30
+msgid "Filename"
+msgstr ""
+
+#: View/Reportnumbers/files.ctp:31
+msgid "Uploaded from"
+msgstr ""
+
+#: View/Reportnumbers/files.ctp:32
+msgid "Uploaded time"
+msgstr ""
+
+#: View/Reportnumbers/history.ctp:7
+#: View/Reportnumbers/show.ctp:74
+msgid "History"
+msgstr ""
+
+#: View/Reportnumbers/history.ctp:11
+msgid "Date/Time"
+msgstr ""
+
+#: View/Reportnumbers/history.ctp:13
+msgid "Action"
+msgstr ""
+
+#: View/Reportnumbers/imagediscription.ctp:4
+msgid "Edit discription"
+msgstr ""
+
+#: View/Reportnumbers/imagediscription.ctp:8
+msgid "Save"
+msgstr ""
+
+#: View/Reportnumbers/imagediscription.ctp:15
+msgid "delete image"
+msgstr ""
+
+#: View/Reportnumbers/imagediscription.ctp:19
+msgid "Are you sure you want to delete this image?"
+msgstr ""
+
+#: View/Reportnumbers/images.ctp:7
+msgid "Imageupload"
+msgstr ""
+
+#: View/Reportnumbers/list_reports.ctp:2
+msgid "Assign Report"
+msgstr ""
+
+#: View/Reportnumbers/reports.ctp:8
+msgid "Last edited"
+msgstr ""
+
+#: View/Reportnumbers/reports.ctp:9
+msgid "Evaluation"
+msgstr ""
+
+#: View/Reportnumbers/search.ctp:2
+#: View/Reportnumbers/search_report_list.ctp:2
+msgid "Search reports"
+msgstr ""
+
+#: View/Reportnumbers/search.ctp:43
+#: View/Reportnumbers/search_report_list.ctp:49
+msgid "Show matching reports"
+msgstr ""
+
+#: View/Reportnumbers/search.ctp:47
+#: View/Reportnumbers/search_report_list.ctp:54
+msgid "There are no reports matching your search"
+msgstr ""
+
+#: View/Reportnumbers/show.ctp:13
+msgid "There are no reports from your testing company."
+msgstr ""
+
+#: View/Reportnumbers/status2.ctp:4
+msgid "What do you want to do ?"
+msgstr ""
+
+#: View/Reportnumbers/view.ctp:8
+msgid "Report Penetration Generallies"
+msgstr ""
+
+#: View/Reportnumbers/view.ctp:10
+msgid "Report Penetration Specifics"
+msgstr ""
+
+#: View/Reportnumbers/view.ctp:12
+msgid "Report Penetration Evaluations"
+msgstr ""
+
+#: View/Reportnumbers/weldassistent.ctp:4
+msgid "Weld assistent"
+msgstr ""
+
+#: View/Reports/add.ctp:8
+msgid "Add report"
+msgstr ""
+
+#: View/Reports/edit.ctp:8
+msgid "Edit report"
+msgstr ""
+
+#: View/Reports/view.ctp:4
+#: View/Testingcomps/view.ctp:116
+#: View/Testingmethods/view.ctp:92
+#: View/Topprojects/view.ctp:4
+msgid "Project name"
+msgstr ""
+
+#: View/Reports/view.ctp:9
+#: View/Topprojects/view.ctp:9;30
+msgid "Identification"
+msgstr ""
+
+#: View/Reports/view.ctp:14
+#: View/Testingcomps/view.ctp:117
+#: View/Testingmethods/view.ctp:93
+#: View/Topprojects/view.ctp:14
+msgid "Project discription"
+msgstr ""
+
+#: View/Reports/view.ctp:24
+msgid "Related testingmethods"
+msgstr ""
+
+#: View/Rolls/add.ctp:4
+msgid "Add roll"
+msgstr ""
+
+#: View/Rolls/add.ctp:15
+#: View/Rolls/edit.ctp:17
+#: View/Rolls/view.ctp:21
+msgid "List rolls"
+msgstr ""
+
+#: View/Rolls/edit.ctp:4
+#: View/Rolls/view.ctp:19
+msgid "Edit roll"
+msgstr ""
+
+#: View/Rolls/index.ctp:2
+msgid "Rolls"
+msgstr ""
+
+#: View/Rolls/index.ctp:38
+#: View/Rolls/view.ctp:22
+msgid "New roll"
+msgstr ""
+
+#: View/Rolls/view.ctp:2
+#: View/Testingcomps/view.ctp:9
+#: View/Users/view.ctp:34
+msgid "Roll"
+msgstr ""
+
+#: View/Rolls/view.ctp:20
+msgid "Delete roll"
+msgstr ""
+
+#: View/Rolls/view.ctp:83
+#: View/Testingcomps/view.ctp:69
+msgid "Related users"
+msgstr ""
+
+#: View/Rolls/view.ctp:89
+#: View/Testingcomps/view.ctp:75
+#: View/Users/view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: View/Rolls/view.ctp:90
+msgid "Password"
+msgstr ""
+
+#: View/Rolls/view.ctp:93
+#: View/Testingcomps/view.ctp:78
+#: View/Users/view.ctp:24
+msgid "Lastlogin"
+msgstr ""
+
+#: View/Rolls/view.ctp:94
+#: View/Testingcomps/view.ctp:79
+#: View/Users/view.ctp:29
+msgid "Enabled"
+msgstr ""
+
+#: View/Rolls/view.ctp:95
+msgid "Roll id"
+msgstr ""
+
+#: View/Rolls/view.ctp:96
+msgid "Testingcomp id"
+msgstr ""
+
+#: View/Specialcharacters/add.ctp:4
+msgid "Add specialcharacter"
+msgstr ""
+
+#: View/Specialcharacters/edit.ctp:4
+msgid "Edit specialcharacter"
+msgstr ""
+
+#: View/Specialcharacters/index.ctp:5
+msgid "Double click to enter this specialcharacter"
+msgstr ""
+
+#: View/Specialcharacters/listing.ctp:2
+msgid "Edit specialcharacters"
+msgstr ""
+
+#: View/Testingcomps/add.ctp:8
+msgid "Add testingcomp"
+msgstr ""
+
+#: View/Testingcomps/edit.ctp:8
+msgid "Edit testingcomp"
+msgstr ""
+
+#: View/Testingcomps/index.ctp:2
+msgid "Testingcomps"
+msgstr ""
+
+#: View/Testingcomps/view.ctp:81
+msgid "Testingcomp Id"
+msgstr ""
+
+#: View/Testingcomps/view.ctp:111
+#: View/Testingmethods/view.ctp:87
+msgid "Related topprojects"
+msgstr ""
+
+#: View/Testingmethods/add.ctp:8
+msgid "Add testingmethod"
+msgstr ""
+
+#: View/Testingmethods/edit.ctp:8
+msgid "Edit testingmethod"
+msgstr ""
+
+#: View/Testingmethods/listing.ctp:2
+#: View/Testingmethods/listingmodal.ctp:2
+msgid "Create report"
+msgstr ""
+
+#: View/Testingmethods/view.ctp:41
+msgid "Related qualifications"
+msgstr ""
+
+#: View/Topprojects/add.ctp:4
+msgid "Add topproject"
+msgstr ""
+
+#: View/Topprojects/edit.ctp:4
+msgid "Edit topproject"
+msgstr ""
+
+#: View/Topprojects/index.ctp:11
+msgid "ID"
+msgstr ""
+
+#: View/Topprojects/view.ctp:2
+msgid "Topproject"
+msgstr ""
+
+#: View/Topprojects/view.ctp:24
+msgid "Related Reports"
+msgstr ""
+
+#: View/Topprojects/view.ctp:65
+msgid "Post code"
+msgstr ""
+
+#: View/Users/add.ctp:8
+msgid "Add user"
+msgstr ""
+
+#: View/Users/edit.ctp:8
+msgid "Edit user"
+msgstr ""
+
+#: View/Users/login.ctp:4
+msgid "Please log in to your account"
+msgstr ""
+
+#: View/Users/login.ctp:12
+msgid "Login"
+msgstr ""
+
+#: View/Users/view.ctp:45
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/view.ctp:49
+msgid "Related Qualifications"
+msgstr ""
+
+#: Model/Language.php:validation for field locale;validation for field beschreibung
+#: Model/Qualification.php:validation for field certification-number
+#: Model/Roll.php:validation for field name
+#: Model/SpecialCharacter.php:validation for field value
+#: Model/Testingmethod.php:validation for field value;validation for field verfahren
+#: Model/Topproject.php:validation for field projektname;validation for field identification;validation for field projektbeschreibung
+msgid "notempty"
+msgstr ""
+
+#: Model/Orderfile.php:validation for field file
+msgid "mimeType"
+msgstr ""
+
+#: Model/Qualification.php:validation for field examiner-id;validation for field testingmethod_id;validation for field level;validation for field testingcomp_id
+#: Model/Reportnumber.php:validation for field number;validation for field year;validation for field topproject_id;validation for field report_id;validation for field testingmethod_id;validation for field testingcomp_id;validation for field user_id
+msgid "numeric"
+msgstr ""
+
+#: Model/Qualification.php:validation for field timeperiod
+msgid "date"
+msgstr ""
+
+#: Model/Qualification.php:validation for field supervisors
+msgid "boolean"
+msgstr ""
+
+#: Model/Report.php:validation for field name;validation for field identification;validation for field projektbeschreibung
+msgid "Your custom message here"
+msgstr ""
+
+msgid "Searching for orders or reports"
+msgstr ""
+
+msgid "Search for orders"
+msgstr ""
+
+msgid "list reports"
+msgstr ""
+
+msgid "list testing companies"
+msgstr ""
+
+msgid "list examiner"
+msgstr ""
+
+msgid "list user"
+msgstr ""
+
+msgid "list qualifications"
+msgstr ""
+
+msgid "list test methods"
+msgstr ""

@@ -1,0 +1,27 @@
+[
+  {
+    "modus":"insert",
+    "model":"WelderMonitoring",
+    "field":"expiration_date",
+    "string":"ALTER TABLE `welder_monitorings` ADD `expiration_date` DATE NULL DEFAULT NULL;"
+  },
+  {
+    "modus":"insert",
+    "model":"WelderMonitoring",
+    "field":"recertification_in_year",
+    "string":"ALTER TABLE `welder_monitorings` CHANGE `recertification_in_year` `recertification_in_year` DECIMAL(11,0) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"change",
+    "model":"WelderMonitoring",
+    "field":"renewal_in_year",
+    "string":"ALTER TABLE `welder_monitorings` CHANGE `renewal_in_year` `renewal_in_year` DECIMAL(11,0) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"change",
+    "model":"WelderMonitoring",
+    "field":"horizon",
+    "string":"ALTER TABLE `welder_monitorings` CHANGE `horizon` `horizon` DECIMAL(10,0) NULL DEFAULT '0';"
+  }
+
+]

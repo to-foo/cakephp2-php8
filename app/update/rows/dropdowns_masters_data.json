@@ -1,0 +1,6 @@
+{
+  "modus":"insert",
+  "model":"DropdownsMastersData",
+  "field":"imported",
+  "string":"ALTER TABLE `dropdowns_masters_data` ADD `imported` INT DEFAULT '0';"
+}

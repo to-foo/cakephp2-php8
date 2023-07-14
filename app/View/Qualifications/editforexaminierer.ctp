@@ -1,0 +1,71 @@
+<div class="qualifications form inhalt">
+<?php echo $this->Form->create('Qualification'); ?>
+	<fieldset>
+		<legend><?php echo __('Edit Qualification'); ?></legend>
+	<?php
+		echo $this->Form->input('id');
+		echo $this->Form->input('certification-number');
+		echo $this->Form->input('testingmethod_id');
+		echo $this->Form->input('level');
+		echo $this->Form->input('timeperiod');
+		echo $this->Form->input('testingcomp_id');
+		echo $this->Form->input('supervisors');
+		echo $this->Form->input('examinierer_id', array('type' => 'hidden','value' => $examiniererID));
+	?>
+	</fieldset>
+<?php 
+echo $this->Form->button(__('Cancel', true), array('id' => 'back', 'type' => 'button', 'value' => $previous_url));
+echo $this->Form->end(__('Submit', true));
+?>
+</div>
+<div class="clear" id="testdiv"></div>
+
+<script type="text/javascript">
+	$(document).ready(function(){		
+
+
+		<?php 
+		if(isset($close) && $close == 1){
+			echo '
+									
+			var data = $("#fakeform").serializeArray();
+			data.push({name: "ajax_true", value: 1});
+
+			$.ajax({
+				type	: "POST",
+				cache	: true,
+				url		: "' . Router::url(array('controller' => 'dropdowns', 'action' => 'dropdownedit', $dropdownID, $examiniererID)) . '",
+				data	: data,
+				success: function(data) {
+					$("#container").html(data);
+					$("#container").show();
+					}
+				});
+			';
+			echo '$("#dialog").dialog("close");';
+		}
+		?>
+
+		$("div.checkbox input").button();
+
+		// allgemeines Formular
+		$("form").bind("submit", function() {
+							
+			var data = $(this).serializeArray();
+			data.push({name: "ajax_true", value: 1});
+			data.push({name: "dialog", value: 1});
+
+			$.ajax({
+				type	: "POST",
+				cache	: true,
+				url		: $(this).attr("action"),
+				data	: data,
+				success: function(data) {
+		    		$("#dialog").html(data);
+		    		$("#dialog").show();
+				}
+			});
+			return false;
+		});
+	});
+</script>

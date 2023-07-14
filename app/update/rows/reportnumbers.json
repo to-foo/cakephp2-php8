@@ -1,0 +1,8 @@
+[
+  {
+  "modus":"insert",
+  "model":"Reportnumber",
+  "field":"date_of_test",
+  "string":"ALTER TABLE `reportnumbers` ADD `date_of_test` DATETIME NULL AFTER `supervisor_id`"
+  }
+]

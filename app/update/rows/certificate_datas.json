@@ -1,0 +1,27 @@
+[
+  {
+    "modus":"change",
+    "model":"CertificatData",
+    "field":"recertification_in_year",
+    "string":"ALTER TABLE `certificate_datas` CHANGE `recertification_in_year` `recertification_in_year` INT(11) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"change",
+    "model":"CertificatData",
+    "field":"renewal_in_year",
+    "string":"ALTER TABLE `certificate_datas` CHANGE `renewal_in_year` `renewal_in_year` INT(11) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"insert",
+    "model":"CertificatData",
+    "field":"certified_differentiation",
+    "string":"ALTER TABLE certificate_datas ADD certified_differentiation tinyint(4) default null;"
+  },
+  {
+    "modus":"insert",
+    "model":"CertificatData",
+    "field":"certified_differentiation",
+    "string":"ALTER TABLE certificate_datas add expiration_date date null default null;"
+  }
+
+]

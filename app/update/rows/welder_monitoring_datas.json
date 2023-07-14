@@ -1,0 +1,20 @@
+[
+  {
+    "modus":"insert",
+    "model":"WelderMonitoringData",
+    "field":"expiration_date",
+    "string":"ALTER TABLE `welder_monitoring_datas` ADD `expiration_date` DATE NULL DEFAULT NULL;"
+  },
+  {
+    "modus":"insert",
+    "model":"WelderMonitoringData",
+    "field":"recertification_in_year",
+    "string":"ALTER TABLE `welder_monitoring_datas` CHANGE `recertification_in_year` `recertification_in_year` DECIMAL(11,2) NULL DEFAULT '0';"
+  },
+  {
+    "modus":"insert",
+    "model":"WelderMonitoringData",
+    "field":"certified_date",
+    "string":"ALTER TABLE `welder_monitoring_datas` CHANGE `certified_date` `certified_date` DATE NULL DEFAULT NULL;"
+  }
+]

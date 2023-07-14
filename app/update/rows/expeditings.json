@@ -1,0 +1,26 @@
+[
+  {
+    "modus":"insert",
+    "model":"Expediting",
+    "field":"deleted",
+    "string":"ALTER TABLE `expeditings` ADD `deleted` TINYINT NOT NULL DEFAULT '0' AFTER `remark`;"
+  },
+  {
+    "modus":"insert",
+    "model":"Expediting",
+    "field":"expediting_type_id",
+    "string":"ALTER TABLE `expeditings` ADD `expediting_type_id` int NOT NULL DEFAULT '0' AFTER `remark`;"
+  },
+  {
+    "modus":"insert",
+    "model":"Expediting",
+    "field":"hold_witness_point",
+    "string":"ALTER TABLE `expeditings` ADD `hold_witness_point` TINYINT NOT NULL DEFAULT '0' AFTER `remark`;"
+  },
+  {
+    "modus":"insert",
+    "model":"Expediting",
+    "field":"stop_mail",
+    "string":"ALTER TABLE `expeditings` ADD `stop_mail` TINYINT NOT NULL DEFAULT '0' AFTER `remark`;"
+  }
+]

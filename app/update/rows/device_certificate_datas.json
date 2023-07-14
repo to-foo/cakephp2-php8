@@ -1,0 +1,20 @@
+[
+  {
+    "modus":"insert",
+    "model":"DeviceCertificateData",
+    "field":"expiration_date",
+    "string":"ALTER TABLE `device_certificate_datas` ADD `expiration_date` DATE NULL DEFAULT NULL;"
+  },
+  {
+    "modus":"insert",
+    "model":"DeviceCertificateData",
+    "field":"recertification_in_year",
+    "string":"ALTER TABLE `device_certificate_datas` CHANGE `recertification_in_year` `recertification_in_year` DECIMAL(11,2) NULL DEFAULT NULL;"
+  },
+  {
+    "modus":"insert",
+    "model":"DeviceCertificateData",
+    "field":"certified_date",
+    "string":"ALTER TABLE `device_certificate_datas` CHANGE `certified_date` `certified_date` DATE NULL DEFAULT NULL;"
+  }
+]

@@ -1,0 +1,16 @@
+Config/*
+tmp/cache/models/*
+tmp/cache/persistent/*
+tmp/logs/*
+update/archiv/*
+webroot/individual_css/*
+webroot/individual_logo/*
+webroot/individual_bg/*
+*.log
+*.htaccess
+View/Emails/*
+View/Layouts/Emails/*
+Locale/*
+View/Dump/*
+Controller/DumpController.php
+.vscode/settings.json

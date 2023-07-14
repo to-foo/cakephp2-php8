@@ -1,0 +1,319 @@
+/*
+mbq blau 00519E
+dunkeladrazit 373632
+grau linie 777
+grau mittel e3e1dd
+grau hell eeece7
+grau dunkel 4f4f4d
+grau Link c9c7c1
+orange hint color bf6904
+orange hint link 8d4c00
+*/
+body {
+	behavior: url(pie/PIE.htc);
+	}
+
+* {
+	border:none;
+	margin:0;
+	padding:0;
+} 
+html, body { 
+	min-height: 100%;
+}
+body {
+	margin:0;
+	padding:0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 98%;
+	color: #373632;
+	font-family: "transit", Arial, sans-serif;
+	text-rendering: optimizeLegibility;
+	-webkit-text-size-adjust: none;
+	background-color: #fff; 
+	background-image: url(../img/sky.jpg); 
+	background-position: center center; 
+	background-size: cover;
+	background-repeat: no-repeat;
+	border: 0;
+}
+a {
+	color: #c9c7c1;
+}
+
+a.nolink { 
+	cursor: default !important;
+}
+div.message_wrapper { 
+	background-color: #fff; 
+	background-image:url(../img/icon_red_coffee_single.png); 
+	background-repeat: no-repeat; 
+	background-position: 10px 20px; 
+	position: absolute; 
+	width: 50%; 
+	height: 30%; 
+	top: 20%; 
+    -webkit-border-top-right-radius: 2px;
+    -moz-border-top-right-radius: 2px;
+    -ms-border-top-right-radius: 2px;
+    -o-border-top-right-radius: 2px;
+    border-top-right-radius: 2px;
+    -webkit-border-bottom-right-radius: 2px;
+    -moz-border-bottom-right-radius: 2px;
+    -ms-border-bottom-right-radius: 2px;
+    -o-border-bottom-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+	-webkit-box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.25);
+	-moz-box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.25);
+	box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.25); 
+	color: #666; 
+	font-size: 2em;
+}
+div.message_wrapper div.message { 
+	margin: 50px 0 0 200px; 
+}
+.ui-widget-header { 
+	background: none; 
+	border: none;
+}
+.ui-tabs .ui-tabs-panel,
+.ui-tabs .ui-tabs-nav { 
+	padding: 0;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+    padding: 0;
+}
+div.extern_reports { 
+	background-color: #fff; 
+	min-height: 30%; 
+	margin: 0 2%; 
+	padding: 1em 2em; 
+    -webkit-border-top-right-radius: 2px;
+    -moz-border-top-right-radius: 2px;
+    -ms-border-top-right-radius: 2px;
+    -o-border-top-right-radius: 2px;
+    border-top-right-radius: 2px;
+    -webkit-border-bottom-right-radius: 2px;
+    -moz-border-bottom-right-radius: 2px;
+    -ms-border-bottom-right-radius: 2px;
+    -o-border-bottom-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+	-webkit-box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.25);
+	-moz-box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.25);
+	box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.25); 
+	color: #666; 
+	font-size: 1em; 
+	overflow: auto;
+}
+div.extern_reports div.header { 
+	background-image: url(../mbq/logo.png); 
+	background-repeat: no-repeat; 
+	background-position: 10px 10px; 
+	background-size: auto 80%;
+	min-height: 100px; 
+}
+div.extern_reports div.header div.header_inner { 
+	padding: 10px 0 0 200px; 
+}
+div.extern_reports div.header div.header_inner div.impressum {  
+	padding-top: 1em;
+	font-size: 0.8em; 
+	font-style:italic; 
+	color: #999; 
+}
+div.extern_reports ul.extern_menue { 
+	margin: 0; 
+	padding: 0; 
+}
+div.extern_reports ul.extern_menue li { 
+	list-style: none; 
+	display: inline-block; 
+	background: #e3e3e3; 
+	padding: 0.5em; 
+	margin: 0 0.5em 0 0; 
+	border: solid 1px #ccc; 
+    -webkit-border-top-right-radius: 4px;
+    -moz-border-top-right-radius: 4px;
+    -ms-border-top-right-radius: 4px;
+    -o-border-top-right-radius: 4px;
+    border-top-right-radius: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-top-left-radius: 4px;
+    -ms-border-top-left-radius: 4px;
+    -o-border-top-left-radius: 4px;
+    border-top-left-radius: 4px; 
+	cursor: pointer;
+}
+div.extern_reports ul.extern_menue li a{
+	color: #666; 
+	text-decoration: none;	 
+}
+div.extern_reports ul.extern_menue li.active{ 
+	background: #a2a2a2; 
+	color: #fff; 
+	cursor: default; 
+}
+div.extern_reports dl.report { 
+	padding: 0; 
+	margin: -1px 0 0 0; 
+	border: solid 1px #ccc; 
+}
+div.extern_reports dl.report dd { 
+	padding: 0.25em 10px; 
+	color: #333; 
+}
+div.extern_reports dl.report dl.discription {
+	padding: 0.5em 20px; 
+	border-bottom: solid 0.5em #fff; 
+}
+div.extern_reports dl.report dl.discription span { 
+	display: block; 
+	font-size: 1.2em; 
+	cursor: pointer; 
+}
+div.extern_reports dl.report dt { 
+	border-bottom: solid 1px #ccc; 
+	padding: 0.25em 10px; 
+	color: #666; 
+	font-size: 0.9em; 
+}
+
+#container #content form input[type="submit"], 
+#container #content form input[type="reset"], 
+#container #content form input[type="image"], 
+#container #content form button[type="submit"], 
+#container #content form button[type="button"], 
+.modalarea form input[type="submit"], 
+.modalarea form input[type="reset"], 
+.modalarea form input[type="image"], 
+.modalarea form button[type="submit"], 
+.modalarea form button[type="button"], 
+span.button {
+    display: inline-block;
+    color: #373632; 
+	background: #00519E;
+    width: auto;
+    padding: 0.25em 0.5em;
+    margin-right: 1em;
+    font-weight: bold;
+    font-size: 1em;
+    border: 1px solid #00519E;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-background-clip: padding;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    cursor: pointer;
+}
+div.reset, div.submit, div.button {
+    display: inline-block;
+}
+div.login div.submit, div.button { 
+	display: inherit;
+}
+textarea { 
+	font-family: "transit", Arial, sans-serif;
+}
+.clear {
+	display: block !important;
+	clear: both !important;
+}
+#top-menue {
+	display: none;
+}
+span.discription_mobil {
+    display: none;
+}
+
+
+
+.login {
+	width: 800px;
+	height: 500px;
+	position: absolute;
+	left: 50%;
+	top: 0;
+	margin-left: -400px;
+	background: #999;
+	behavior: url(../pie/PIE.htc); 
+	overflow: hidden;
+	-webkit-box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.25);
+	-moz-box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.25);
+	box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.25);
+}
+.login form {
+	background-image: url(../mbq/logo.png); 
+	background-repeat: no-repeat; 
+	background-position: 10px 10px;
+	background-size: 150px auto; 
+	padding: 0 0 0 180px; 
+	min-height: 300px;
+}
+.login form fieldset {
+	padding: 1.5em 1.5em 0 1.5em;
+	background-color: #eeece7;
+}
+.login form fieldset div.load_form { 
+	background-image: url(../img/indicator.gif); 
+	background-repeat: no-repeat; 
+	min-height: 20px; 
+	margin-top: 1em; 
+	padding: 0 0 0 30px; 
+	font-size: 0.9em; 
+	color: #666; 
+	display: none;
+}
+.login form div.submit {
+	padding: 1.5em;
+	background-color: #eeece7; 
+	min-height: 500px;
+}
+.login form fieldset label { 
+	display: block; 
+	font-size: 0.8em; 
+	margin-top: 1em; 
+	padding: 0.25em 0;
+}
+.login form fieldset input, 
+.login form fieldset select 
+{ 
+	border: 1px solid #bbb9b4;
+	border-radius: 0;
+	font-size: 0.75em;
+	outline-color: #00519E;
+	padding: 0.5em 0.25em; 
+	width: 50%;
+}
+input[type=submit] {
+    background: #00519E;
+    border: 1px solid #00519E;
+    border-radius: 2px;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.25em;
+    padding: 0.3125em 0.625em;
+    text-decoration: none;
+    white-space: nowrap; 
+	cursor: pointer; 
+	color: #fff;
+}
+input[type=submit]:hover {
+    border: 1px solid #0073D1;
+    background: #0073D1;
+}
+input[type=submit]:active {
+    border: 1px solid #007EE5;
+    background: #007EE5;
+}
+div.error,
+.login form fieldset div.message,
+#container .message {
+	background: #eeece7;
+	padding: 0.75em 0.5em;
+	color: #d63903;
+	margin-bottom: 1em; 
+/*	font-size: 0.8em; */
+}

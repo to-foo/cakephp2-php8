@@ -1,0 +1,20 @@
+[
+  {
+    "modus":"insert",
+    "model":"TemplatesEvaluation",
+    "field":"created",
+    "string":"ALTER TABLE `templates_evaluations` ADD `created` DATETIME NULL AFTER `type`;"
+  },
+  {
+    "modus":"insert",
+    "model":"TemplatesEvaluation",
+    "field":"testingcomp_id",
+    "string":"ALTER TABLE `templates_evaluations` ADD `testingcomp_id` INT NOT NULL DEFAULT '0' AFTER `created`;"
+  },
+  {
+    "modus":"insert",
+    "model":"TemplatesEvaluation",
+    "field":"id",
+    "string":"ALTER TABLE `templates_evaluation_reportnumbers` ADD `id` INT NOT NULL AUTO_INCREMENT FIRST, ADD PRIMARY KEY (`id`);"
+  } 
+]

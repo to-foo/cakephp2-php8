@@ -1,0 +1,14 @@
+[
+  {
+    "modus":"insert",
+    "model":"Supplier",
+    "field":"new_or_rep",
+    "string":"ALTER TABLE `supplier` ADD `new_or_rep` TINYINT NOT NULL DEFAULT '0' AFTER `stop_mail`;"
+  },
+  {
+    "modus":"insert",
+    "model":"Supplier",
+    "field":"expeditingset_id",
+    "string":"ALTER TABLE `supplier` ADD `expeditingset_id` INT NOT NULL DEFAULT '0' AFTER `dynamic_termination`;"
+  }
+]

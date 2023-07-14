@@ -1,0 +1,32 @@
+[
+  {
+    "modus":"change",
+    "model":"Certificate",
+    "field":"recertification_in_year",
+    "string":"ALTER TABLE `certificates` CHANGE `recertification_in_year` `recertification_in_year` DECIMAL(11,0) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"change",
+    "model":"Certificate",
+    "field":"renewal_in_year",
+    "string":"ALTER TABLE `certificates` CHANGE `renewal_in_year` `renewal_in_year` DECIMAL(11,0) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"change",
+    "model":"Certificate",
+    "field":"horizon",
+    "string":"ALTER TABLE `certificates` CHANGE `horizon` `horizon` DECIMAL(10,0) NULL DEFAULT '0';"
+  },
+  {
+    "modus":"insert",
+    "model":"Certificate",
+    "field":"testingmethod_id",
+    "string":"ALTER TABLE `certificates` CHANGE `horizon` `horizon` DECIMAL(10,0) NULL DEFAULT '0';"
+  },
+  {
+    "modus":"insert",
+    "model":"Certificate",
+    "field":"testingmethod_id",
+    "string":"ALTER TABLE `certificates` ADD `testingmethod_id` INT NOT NULL DEFAULT '0' AFTER `description`;"
+  }
+]

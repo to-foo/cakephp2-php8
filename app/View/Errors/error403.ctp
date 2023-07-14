@@ -1,0 +1,2 @@
+Error
+<?php if(isset($afterEDIT)){echo $afterEDIT;} ?>

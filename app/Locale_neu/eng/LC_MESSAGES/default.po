@@ -1,0 +1,3551 @@
+msgid "Back"
+msgstr "Back"
+
+msgid "Invalid dropdown"
+msgstr "Invalid dropdown"
+
+msgid "The dropdown has been saved"
+msgstr "The dropdown has been saved"
+
+msgid "The value has been be saved."
+msgstr "The value has been be saved."
+
+msgid "The dropdown could not be saved. Please, try again."
+msgstr "The dropdown could not be saved. Please try again."
+
+msgid "Linking"
+msgstr "Linking"
+
+msgid "For all testingmethods"
+msgstr "For all testingmethods"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Create %s"
+msgstr "%s anlegen"
+
+msgid "Error, unlinking fail"
+msgstr "Error, unlinking fail"
+
+msgid "Invalid evalution"
+msgstr "Invalid evaluation"
+
+msgid "The evalution could not be saved. Please, try again."
+msgstr "The evaluation could not be saved. Please try again."
+
+msgid "The data has been saved"
+msgstr "The data has been saved"
+
+msgid "The data could not be saved. Please, try again."
+msgstr "The data could not be saved. Please try again."
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
+msgid "Value was deleted"
+msgstr "Value was deleted"
+
+msgid "Evalution was not deleted"
+msgstr "Evaluation was not deleted"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "KKS"
+msgstr "KKS"
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "The testingreport with the following reportnumber was canceled:"
+msgstr "The report with the following reportnumber was canceled:"
+
+msgid "The testingreport with the following reportnumber could not be canceled:"
+msgstr "The report with the following reportnumber could not be canceled:"
+
+msgid "Open settlements"
+msgstr "Open settlements"
+
+msgid "Closed settlements"
+msgstr "Closed settlements"
+
+msgid "Show reports to be settled"
+msgstr "Show reports to be settled"
+
+msgid "Data was deleted"
+msgstr "Data was deleted"
+
+msgid "Billing has been recorded."
+msgstr "Billing has been recorded."
+
+msgid "Attention, this waiting time has changed."
+msgstr "Attention, this waiting time has changed."
+
+msgid "Waiting times"
+msgstr "Waiting times"
+
+msgid "Invalid language"
+msgstr "Invalid language"
+
+msgid "The language was saved"
+msgstr "The language was saved"
+
+msgid "The language could not be saved. Please, try again."
+msgstr "The language could not be saved. Please try again."
+
+msgid "Language was deleted"
+msgstr "Language was deleted"
+
+msgid "Language was not deleted"
+msgstr "Language was not deleted"
+
+msgid "Show closed orders"
+msgstr "Show closed orders"
+
+msgid "Show open orders"
+msgstr "Show open orders"
+
+msgid "Revision"
+msgstr "Revision"
+
+msgid "Ongoing process"
+msgstr "Ongoing process"
+
+msgid "The order has been locked."
+msgstr "The order has been locked."
+
+msgid "The order has been reopened."
+msgstr "The order has been reopened."
+
+msgid "The order could not be locked."
+msgstr "The order could not be locked."
+
+msgid "Please enter the searched report`s running number"
+msgstr "Please enter the searched report`s running number"
+
+msgid "Invalid order"
+msgstr "Invalid order"
+
+msgid "View Order"
+msgstr "View Order"
+
+msgid "Error message"
+msgstr "Error message"
+
+msgid "The uploaded file could not be processed to the end, the schema of the file is incorrect. Please check the file."
+msgstr "The uploaded file could not be processed to the end, the schema of the file is incorrect. Please check the file."
+
+msgid "The following fields could not be inserted."
+msgstr "The following fields could not be inserted."
+
+msgid "The new order has been saved"
+msgstr "The new order has been saved"
+
+msgid "The new order could not be saved. Please, try again."
+msgstr "The new order could not be saved. Please try again."
+
+msgid "The order has been saved"
+msgstr "The order has been saved"
+
+msgid "The order could not be saved. Please, try again."
+msgstr "The order could not be saved. Please try again."
+
+msgid "Create order"
+msgstr "Create order"
+
+msgid "Edit"
+msgstr "Edit "
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Order was deleted"
+msgstr "Order was deleted"
+
+msgid "Order was not deleted"
+msgstr "Order was not deleted"
+
+msgid "Invalid qualification"
+msgstr "Invalid qualification"
+
+msgid "The qualification was saved"
+msgstr "The qualification was saved"
+
+msgid "The qualification could not be saved. Please, try again."
+msgstr "The qualification could not be saved. Please try again."
+
+msgid "The qualification was deleted"
+msgstr "The qualification was deleted"
+
+msgid "Qualification was deleted"
+msgstr "Qualification was deleted"
+
+msgid "Qualification was not deleted"
+msgstr "Qualification was not deleted"
+
+msgid "Sorry, no results."
+msgstr "Sorry, no results."
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Please select a report type in the project settings."
+msgstr "Please select a report type in the project settings."
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Searching"
+msgstr "Search"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Search report"
+msgstr "Search report"
+
+msgid "Dropdowns"
+msgstr "Dropdowns"
+
+msgid "Invalid reportnumber"
+msgstr "Invalid reportnumber"
+
+msgid "Show report no."
+msgstr "Show report no."
+
+msgid "The report has been saved"
+msgstr "The report has been saved"
+
+msgid "The report could not be saved. Please, try again."
+msgstr "The report could not be saved. Please try again."
+
+msgid "Edit report no."
+msgstr "Edit report no."
+
+msgid "The new report has been saved."
+msgstr "The new report has been saved."
+
+msgid "Edit evalution"
+msgstr "Edit evaluation"
+
+msgid "The report was closed."
+msgstr "The report was closed."
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "The evalution area has been duplicated"
+msgstr "The evaluation area has been duplicated"
+
+msgid "Images report no."
+msgstr "Images for report no."
+
+msgid "Discription was saved"
+msgstr "Discription was saved"
+
+msgid "Discription was not saved"
+msgstr "Discription was not saved"
+
+msgid "Image was deleted"
+msgstr "Image was deleted"
+
+msgid "Image was not deleted"
+msgstr "Image was not deleted"
+
+msgid "Image does not exist"
+msgstr "Image does not exist"
+
+msgid "Files report no."
+msgstr "Files report no."
+
+msgid "File was deleted"
+msgstr "File was deleted"
+
+msgid "File was not deleted"
+msgstr "File was not deleted"
+
+msgid "File does not exist"
+msgstr "File does not exist"
+
+msgid "Report was closed"
+msgstr "Report was closed"
+
+msgid "State could not be changed"
+msgstr "State could not be changed"
+
+msgid "Close this report"
+msgstr "Close this report"
+
+msgid "request supervision release"
+msgstr "request supervision release"
+
+msgid "revoke supervision release request"
+msgstr "revoke supervision release request"
+
+msgid "Report was re-opened."
+msgstr "Report was reopened."
+
+msgid "Report deleted"
+msgstr "Report deleted"
+
+msgid "Report was not deleted"
+msgstr "Report was not deleted"
+
+msgid "Evalution area deleted"
+msgstr "Evaluation area deleted"
+
+msgid "Welding areas were created"
+msgstr "Welding areas were created"
+
+msgid "Invalid report"
+msgstr "Invalid report"
+
+msgid "Invalid roll"
+msgstr "Invalid roll"
+
+msgid "Roll was saved"
+msgstr "Roll was saved"
+
+msgid "Roll could not be saved. Please, try again."
+msgstr "Roll could not be saved. Please try again."
+
+msgid "Roll was deleted"
+msgstr "Roll was deleted"
+
+msgid "Roll was not deleted"
+msgstr "Roll was not deleted"
+
+msgid "Special character was saved"
+msgstr "Special character was saved"
+
+msgid "Special character could not be saved. Please, try again."
+msgstr "Special character could not be saved. Please try again."
+
+msgid "The Specialcharacter has been saved"
+msgstr "The special character has been saved"
+
+msgid "The Specialcharacter could not be saved. Please, try again."
+msgstr "The special character could not be saved. Please try again."
+
+msgid "Invalid testingcomp"
+msgstr "Invalid company"
+
+msgid "Testingcomp was saved"
+msgstr "Testingcompany was saved"
+
+msgid "Testingcomp could not be saved. Please, try again."
+msgstr "Ccompany could not be saved. Please try again."
+
+msgid "Testingcomp was deleted"
+msgstr "Company was deleted"
+
+msgid "Testingcomp was not deleted"
+msgstr "Company was not deleted"
+
+msgid "has no testingmethod"
+msgstr " does not have test methods"
+
+msgid "Invalid testingmethod"
+msgstr "Invalid test method"
+
+msgid "Testingmethod was saved"
+msgstr "Test method was saved"
+
+msgid "Testingmethod could not be saved. Please, try again."
+msgstr "Test method could not be saved. Please try again."
+
+msgid "Testingmethod was deleted"
+msgstr "Test method was deleted"
+
+msgid "Testingmethod was not deleted"
+msgstr "Test method was not deleted"
+
+msgid "Invalid topproject"
+msgstr "Invalid project"
+
+msgid "Topproject was saved"
+msgstr "Project was saved"
+
+msgid "Topproject could not be saved. Please, try again."
+msgstr "Project could not be saved. Please, try again."
+
+msgid "Topproject was deleted"
+msgstr "Project was deleted"
+
+msgid "Topproject was not deleted"
+msgstr "Project was not deleted"
+
+msgid "Invalid username or password, try again"
+msgstr "Invalid username or password, try again"
+
+msgid "No rights for this project."
+msgstr "No permission for this project."
+
+msgid "Invalid user"
+msgstr "Invalid user"
+
+msgid "User was saved"
+msgstr "User was saved"
+
+msgid "User could not be saved. Please, try again."
+msgstr "User could not be saved. Please try again."
+
+msgid "This user can not be deleted"
+msgstr "This user can not be deleted"
+
+msgid "User was deleted"
+msgstr "User was deleted"
+
+msgid "Invalid user or password!"
+msgstr "Invalid user or password!"
+
+msgid "Sorry, not enough permission!"
+msgstr "Sorry, not enough permission!"
+
+msgid "No rights for this function"
+msgstr "No permission for this function"
+
+msgid "You were logged out due inactivity"
+msgstr "You were logged out due inactivity"
+
+msgid "This report is not yours or you are logged out."
+msgstr "This report is not yours or you are logged out."
+
+msgid "Show stated reports"
+msgstr "Show stated reports"
+
+msgid "No statable reports found - only closed reports can be stated. Only additional services can be added."
+msgstr "No statable reports found - only closed reports can be stated. Only additional services can be added."
+
+msgid "Following reports were removed due missing data"
+msgstr "Following reports were removed due missing data"
+
+msgid "radiation source missing"
+msgstr "radiation source missing"
+
+msgid "dimensions missing"
+msgstr "dimensions missing"
+
+msgid "exposure arrangement missing"
+msgstr "exposure arrangement missing"
+
+msgid "Data was saved"
+msgstr "Data was saved"
+
+msgid "Complete settlement"
+msgstr "Complete settlement"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Back to Dropdown Boxes"
+msgstr "Back to dropdown boxes"
+
+msgid "Create order manually"
+msgstr "Create order manually"
+
+msgid "Back to list"
+msgstr "Back to list"
+
+msgid "Delete this"
+msgstr "Delete this"
+
+msgid "Projects"
+msgstr "Projects"
+
+msgid "Reports"
+msgstr "Reports"
+
+msgid "Testingcompanies"
+msgstr "Test companies"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Qualifications"
+msgstr "Qualifications"
+
+msgid "Testingmethods"
+msgstr "Test methods"
+
+msgid "List projects"
+msgstr "List projects"
+
+msgid "Show this project"
+msgstr "Show this project"
+
+msgid "New project"
+msgstr "New project"
+
+msgid "Edit this project"
+msgstr "Edit this project"
+
+msgid "Delete this project"
+msgstr "Delete this project"
+
+msgid "List reports"
+msgstr "List reports"
+
+msgid "Show this report"
+msgstr "Show this report"
+
+msgid "New report"
+msgstr "New report"
+
+msgid "Edit this report"
+msgstr "Edit this report"
+
+msgid "Delete this report"
+msgstr "Delete this report"
+
+msgid "List testingcompanies"
+msgstr "List test companies"
+
+msgid "Show this testingcompany"
+msgstr "Show this test company"
+
+msgid "New testingcompany"
+msgstr "New test company"
+
+msgid "Edit this testingcompany"
+msgstr "Edit this test company"
+
+msgid "Delete this testingcompany"
+msgstr "Delete this test company"
+
+msgid "List users"
+msgstr "List users"
+
+msgid "Show this user"
+msgstr "Show this user"
+
+msgid "New user"
+msgstr "New user"
+
+msgid "Edit this user"
+msgstr "Edit this user"
+
+msgid "Delete this user"
+msgstr "Delete this user"
+
+msgid "List qualifications"
+msgstr "List qualifications"
+
+msgid "Show this qualification"
+msgstr "Show this qualification"
+
+msgid "New qualification"
+msgstr "New qualification"
+
+msgid "Edit this qualification"
+msgstr "Edit this qualification"
+
+msgid "Delete this qualification"
+msgstr "Delete this qualification"
+
+msgid "List testingmethods"
+msgstr "List test methods"
+
+msgid "Show this testingmethod"
+msgstr "Show this test method"
+
+msgid "New testingmethod"
+msgstr "New test method"
+
+msgid "Edit this testingmethod"
+msgstr "Edit this test method"
+
+msgid "Delete this testingmethod"
+msgstr "Delete this test method"
+
+msgid "open"
+msgstr "open"
+
+msgid "closed"
+msgstr "closed"
+
+msgid "settled"
+msgstr "settled"
+
+msgid "The uploaded file could not be processed, the scheme of the file is incorrect. Check the file and try again."
+msgstr "The uploaded file could not be processed, the scheme of the file is incorrect. Check the file and try again."
+
+msgid "Successfully uploaded"
+msgstr "Successfully uploaded"
+
+msgid "Please select a project"
+msgstr "Please select a project"
+
+msgid "Please select a testingmethod"
+msgstr "Please select a test method"
+
+msgid "Please enter a name"
+msgstr "Please enter a name"
+
+msgid "Please enter an identification"
+msgstr "Please enter an identification"
+
+msgid "Please enter a discription"
+msgstr "Please enter a discription"
+
+msgid "Please select a testingcompany"
+msgstr "Please select a test company"
+
+msgid "Passwords do not match"
+msgstr "Passwords do not match"
+
+msgid "You must submit a password"
+msgstr "You must submit a password"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "examiner no. Wacker"
+msgstr "examiner no. Wacker"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "of"
+msgstr "of"
+
+msgid "no"
+msgstr "no"
+
+msgid "yes"
+msgstr "yes"
+
+msgid "-"
+msgstr "-"
+
+msgid "Rate of film consumption"
+msgstr "Rate of film consumption"
+
+msgid "Films"
+msgstr "Films"
+
+msgid "Add Dropdown"
+msgstr "Add Dropdown"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "List Dropdowns"
+msgstr "List Dropdowns"
+
+msgid "List Testingcomps"
+msgstr "List Testingcomps"
+
+msgid "New Testingcomp"
+msgstr "New Testingcomp"
+
+msgid "erstellen"
+msgstr "erstellen"
+
+msgid "Löschen"
+msgstr "Delete"
+
+msgid "previous"
+msgstr "previous"
+
+msgid "next"
+msgstr "next"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+
+msgid "Edit Dropdown"
+msgstr "Edit Dropdown"
+
+msgid "Beschreibung"
+msgstr "Description"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Are you sure you want to delete #%s?"
+
+msgid "Testingcompany"
+msgstr "Test company"
+
+msgid "Edit dropdown settings"
+msgstr "Edit dropdown settings"
+
+msgid "Edit dropdown content"
+msgstr "Edit dropdown content"
+
+msgid "New Dropdown"
+msgstr "New Dropdown"
+
+msgid "Entries in this downdown are available due link with another dropdown"
+msgstr "Entries in this downdown are available due link with another dropdown"
+
+msgid "remove link"
+msgstr "remove link"
+
+msgid "link with another dropdown"
+msgstr "link with another dropdown"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "Value (optional)"
+msgstr "Value (optional)"
+
+msgid "modified"
+msgstr "modified"
+
+msgid "Please select the dropdown for transfering values to the chosen dropdown"
+msgstr "Please select the dropdown for transfering values to the chosen dropdown"
+
+msgid "transfer the values to the chosen dropdown"
+msgstr "transfer the values to the chosen dropdown"
+
+msgid "Transfer values below to the current dropdown"
+msgstr "Transfer values below to the current dropdown"
+
+msgid "Link this values with dropdown"
+msgstr "Link this values with dropdown"
+
+msgid "Dropdown"
+msgstr "Dropdown"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Wert"
+msgstr "Value"
+
+msgid "Edit dropdown"
+msgstr "Edit dropdown"
+
+msgid "Delete dropdown"
+msgstr "Delete dropdown"
+
+msgid "List dropdowns"
+msgstr "List dropdowns"
+
+msgid "New dropdown"
+msgstr "New dropdown"
+
+msgid "List testingcomps"
+msgstr "List test companies"
+
+msgid "New testingcomp"
+msgstr "New test company"
+
+msgid "Related testingcomps"
+msgstr "Related test companies"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Roll Id"
+msgstr "Roll Id"
+
+msgid "Logopath"
+msgstr "Logo path"
+
+msgid "Company name"
+msgstr "Company name"
+
+msgid "Company name addition"
+msgstr "Company name addition"
+
+msgid "Street"
+msgstr "Street"
+
+msgid "Postcode"
+msgstr "Postcode"
+
+msgid "City"
+msgstr "City"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "View"
+msgstr "View"
+
+msgid "%s anzeigen"
+msg "View %s"
+
+msgid "Edit order"
+msgstr "Edit order"
+
+msgid "Warning, this function may not be reversed!"
+msgstr "Warning, this function may not be reversed!"
+
+msgid "Are you sure you want to duplicate this Report?"
+msgstr "Are you sure you want to duplicate this report?"
+
+msgid "Are you sure you want to duplicate this Evalution Area?"
+msgstr "Are you sure you want to duplicate this evalution area?"
+
+msgid "Are you sure you want to delete this Report?"
+msgstr "Are you sure you want to delete this report?"
+
+msgid "Are you sure you want to delete this Order?"
+msgstr "Are you sure you want to delete this order?"
+
+msgid "Are you sure you want to delete this Evalution Area?"
+msgstr "Are you sure you want to delete this evalution area?"
+
+msgid "Are you sure you want to delete this entry?"
+msgstr "Are you sure you want to delete this entry?"
+
+msgid "Are you sure you want to delete this file?"
+msgstr "Are you sure you want to delete this file?"
+
+msgid "order no."
+msgstr "order no."
+
+msgid "Search"
+msgstr "Search"
+
+msgid "kks no."
+msgstr "kks no."
+
+msgid "Reportnumber"
+msgstr "Reportnumber"
+
+msgid "report no."
+msgstr "report no."
+
+msgid "Reopen this Report"
+msgstr "Reopen this report"
+
+msgid "View this report"
+msgstr "View this report"
+
+msgid "Duplicate this report"
+msgstr "Duplicate this report"
+
+msgid "Print this report"
+msgstr "Print this report"
+
+msgid "Show images"
+msgstr "Show images"
+
+msgid "Show files"
+msgstr "Show files"
+
+msgid "Show report history"
+msgstr "Show report history"
+
+msgid "Show history"
+msgstr "Show history"
+
+msgid "Print this waiting report"
+msgstr "Print this waiting report"
+
+msgid "closed by examiner"
+msgstr "closed by examiner"
+
+msgid "closed by supervisor"
+msgstr "closed by supervisor"
+
+msgid "Testingmethod"
+msgstr "Test method"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Modified"
+msgstr "Modified"
+
+msgid "Duplicate"
+msgstr "Duplicate"
+
+msgid "Add dropdown"
+msgstr "Add dropdown"
+
+msgid "Edit general infos"
+msgstr "Edit general information"
+
+msgid "choose one"
+msgstr "Choose one"
+
+msgid "Source"
+msgstr "Source"
+
+msgid "Dimension"
+msgstr "Dimension"
+
+msgid "Picture-No."
+msgstr "Picture-No."
+
+msgid "Invoices"
+msgstr "Invoices"
+
+msgid "Report no."
+msgstr "Report no."
+
+msgid "Date of test"
+msgstr "Date of test"
+
+msgid "Waiting time beginning"
+msgstr "Waiting time beginning"
+
+msgid "Waiting time ending"
+msgstr "Waiting time ending"
+
+msgid "Waiting time (h)"
+msgstr "Waiting time (h)"
+
+msgid "Justification of the waiting time"
+msgstr "Justification of the waiting time"
+
+msgid "Aktive"
+msgstr "Aktive"
+
+msgid "This waiting time collides with the waiting time of the following inspection reports"
+msgstr "This waiting time collides with the waiting time of the following inspection reports"
+
+msgid "Testing team"
+msgstr "Testing team"
+
+msgid "Begin of test"
+msgstr "Begin of test"
+
+msgid "End of test"
+msgstr "End of test"
+
+msgid "Duration of Test"
+msgstr "Duration of Test"
+
+msgid "No. of welds"
+msgstr "No. of welds"
+
+msgid "thereof NE-welds"
+msgstr "thereof NE-welds"
+
+msgid "Aktivate/Deactivate"
+msgstr "Aktivate/deactivate"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Overview Testing areas / Welds"
+msgstr "Overview testing areas / welds"
+
+msgid "Hide"
+msgstr "Hide"
+
+msgid "Amount"
+msgstr "Amount"
+
+msgid "Dimensions"
+msgstr "Dimensions"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Unit price"
+msgstr "Unit price"
+
+msgid "Total price"
+msgstr "Total price"
+
+msgid "Overview additional services"
+msgstr "Overview additional services"
+
+msgid "New additional part"
+msgstr "New additional part"
+
+msgid "Please select"
+msgstr "Please select"
+
+msgid "Save Billing"
+msgstr "Save billing"
+
+msgid "With this action the report is stated \\\"
+msgstr "With this action the report is stated \\\"
+
+msgid "Please enter all values"
+msgstr "Please enter all values"
+
+msgid "Overview order details"
+msgstr "Overview order details"
+
+msgid "Duration of test"
+msgstr "Duration of test"
+
+msgid "Modification time"
+msgstr "Modification time"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Creation time"
+msgstr "Creation time"
+
+msgid "Overview addiitional services"
+msgstr "Overview addiitional services"
+
+msgid "Examiner"
+msgstr "Examiner"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Create new additional service"
+msgstr "Create new additional service"
+
+msgid "Show invoice parts"
+msgstr "Show invoice parts"
+
+msgid "Print invoice"
+msgstr "Print invoice"
+
+msgid "Invoice of other Testingmethods"
+msgstr "Invoice of other test methods"
+
+msgid "Radiation source"
+msgstr "Radiation source"
+
+msgid "Films 10x24"
+msgstr "Films 10x24"
+
+msgid "Films 10x48"
+msgstr "Films 10x48"
+
+msgid "Welds are ready for invocation. Invocation can be saved when all welds are ready."
+msgstr "Welds are ready for invocation. Invocation can be saved when all welds are ready."
+
+msgid "For invocation radiation source, image no. and dimensions must be entered into report."
+msgstr "For invocation radiation source, image no. and dimensions must be entered into report."
+
+msgid "welds are ready for invocation."
+msgstr "welds are ready for invocation."
+
+msgid "Image-No."
+msgstr "Image-No."
+
+msgid "Save billing"
+msgstr "Save billing"
+
+msgid "deactivate"
+msgstr "deactivate"
+
+msgid "Show invocation parts"
+msgstr "Show invocation parts"
+
+msgid "print invocation"
+msgstr "print invocation"
+
+msgid "Invocation of other testing methods"
+msgstr "Invocation of other test methods"
+
+msgid "Export in Excel-Format"
+msgstr "Export to  Excel"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Add language"
+msgstr "Add language"
+
+msgid "List languages"
+msgstr "List languages"
+
+msgid "Edit language"
+msgstr "Edit language"
+
+msgid "Languages"
+msgstr "Languages"
+
+msgid "New language"
+msgstr "New language"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Locale"
+msgstr "Locale"
+
+msgid "Delete language"
+msgstr "Delete language"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Sorry, this Application will run only with JavaScript, please activate JavaScript in your browser, and try again."
+msgstr "Sorry, this application will run only with JavaScript. Please activate JavaScript in your browser and try again."
+
+msgid "Add Order"
+msgstr "Add order"
+
+msgid "Orders"
+msgstr "Orders"
+
+msgid "Overview KKS-No."
+msgstr "Overview KKS-No."
+
+msgid "Overview measure points"
+msgstr "Overview measure points"
+
+msgid "measure points"
+msgstr "measure points"
+
+msgid "If you change the state, it can not be reversed."
+msgstr "If you change the state, it can not be reversed."
+
+msgid "State"
+msgstr "State"
+
+msgid "KKS-No."
+msgstr "KKS-No."
+
+msgid "Measure points"
+msgstr "Measure points"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "If you change the state, this can not be reversed."
+msgstr "If you change the state, this can not be reversed."
+
+msgid "There is no report matching the entered parameters."
+msgstr "There is no report matching the entered parameters."
+
+msgid "Testing areas"
+msgstr "Testing areas"
+
+msgid "Open the newly created order"
+msgstr "Open the newly created order"
+
+msgid "Testing method"
+msgstr "Testing method"
+
+msgid "Filmposition"
+msgstr "Filmposition"
+
+msgid "Last modified"
+msgstr "Last modified"
+
+msgid "Show report"
+msgstr "Show report"
+
+msgid "Search order"
+msgstr "Search order"
+
+msgid "Order No."
+msgstr "Order no."
+
+msgid "Add qualification"
+msgstr "Add qualification"
+
+msgid "Delete qualification"
+msgstr "Delete qualification"
+
+msgid "Really delete this qualification?"
+msgstr "Really delete this qualification?"
+
+msgid "Edit Qualification"
+msgstr "Edit Qualification"
+
+msgid "Qualification"
+msgstr "Qualification"
+
+msgid "Examiner-id"
+msgstr "Examiner id"
+
+msgid "Certification-number"
+msgstr "Certification number"
+
+msgid "Level"
+msgstr "Level"
+
+msgid "Timeperiod"
+msgstr "Timeperiod"
+
+msgid "User"
+msgstr "User"
+
+msgid "Testingcomp"
+msgstr "Test company"
+
+msgid "Supervisors"
+msgstr "Supervisors"
+
+msgid "Assign report"
+msgstr "Assign report"
+
+msgid "New Evaluation Area"
+msgstr "New evaluation area"
+
+msgid "Naht-Assistent"
+msgstr "Weld assistent"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Dublicate"
+msgstr "Duplicate"
+
+msgid "Fileupload"
+msgstr "Fileupload"
+
+msgid "Filename"
+msgstr "Filename"
+
+msgid "Uploaded from"
+msgstr "Uploaded from"
+
+msgid "Uploaded time"
+msgstr "Uploaded time"
+
+msgid "History"
+msgstr "History"
+
+msgid "Date/Time"
+msgstr "Date/Time"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Edit discription"
+msgstr "Edit discription"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "delete image"
+msgstr "delete image"
+
+msgid "Are you sure you want to delete this image?"
+msgstr "Are you sure you want to delete this image?"
+
+msgid "Imageupload"
+msgstr "Imageupload"
+
+msgid "Assign Report"
+msgstr "Assign Report"
+
+msgid "Last edited"
+msgstr "Last edited"
+
+msgid "Evaluation"
+msgstr "Evaluation"
+
+msgid "Search reports"
+msgstr "Search reports"
+
+msgid "Show matching reports"
+msgstr "Show matching reports"
+
+msgid "There are no reports matching your search"
+msgstr "There are no reports matching your search"
+
+msgid "There are no reports from your testing company."
+msgstr "There are no reports from your test company."
+
+msgid "What do you want to do ?"
+msgstr "What do you want to do?"
+
+msgid "Report Penetration Generallies"
+msgstr "Report penetration generallies"
+
+msgid "Report Penetration Specifics"
+msgstr "Report penetration specifics"
+
+msgid "Report Penetration Evaluations"
+msgstr "Report penetration evaluations"
+
+msgid "Weld assistent"
+msgstr "Weld assistent"
+
+msgid "Add report"
+msgstr "Add report"
+
+msgid "Edit report"
+msgstr "Edit report"
+
+msgid "Project name"
+msgstr "Project name"
+
+msgid "Identification"
+msgstr "Identification"
+
+msgid "Project discription"
+msgstr "Project discription"
+
+msgid "Related testingmethods"
+msgstr "Related testingmethods"
+
+msgid "Add roll"
+msgstr "Add roll"
+
+msgid "List rolls"
+msgstr "List rolls"
+
+msgid "Edit roll"
+msgstr "Edit roll"
+
+msgid "Rolls"
+msgstr "Rolls"
+
+msgid "New roll"
+msgstr "New roll"
+
+msgid "Roll"
+msgstr "Roll"
+
+msgid "Delete roll"
+msgstr "Delete roll"
+
+msgid "Related users"
+msgstr "Related users"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Lastlogin"
+msgstr "Last login"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "Roll id"
+msgstr "Roll id"
+
+msgid "Testingcomp id"
+msgstr "Testingcomp id"
+
+msgid "Add specialcharacter"
+msgstr "Add special character"
+
+msgid "Edit specialcharacter"
+msgstr "Edit special character"
+
+msgid "Double click to enter this specialcharacter"
+msgstr "Double click to enter this special character"
+
+msgid "Edit specialcharacters"
+msgstr "Edit special characters"
+
+msgid "Add testingcomp"
+msgstr "Add test company"
+
+msgid "Edit testingcomp"
+msgstr "Edit test company"
+
+msgid "Testingcomps"
+msgstr "Test companies"
+
+msgid "Testingcomp Id"
+msgstr "Test company id"
+
+msgid "Related topprojects"
+msgstr "Related projects"
+
+msgid "Add testingmethod"
+msgstr "Add test method"
+
+msgid "Edit testingmethod"
+msgstr "Edit test method"
+
+msgid "Create report"
+msgstr "Create report"
+
+msgid "Related qualifications"
+msgstr "Related qualifications"
+
+msgid "Add topproject"
+msgstr "Add project"
+
+msgid "Edit topproject"
+msgstr "Edit project"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Topproject"
+msgstr "Project"
+
+msgid "Related Reports"
+msgstr "Related reports"
+
+msgid "Post code"
+msgstr "Post code"
+
+msgid "Add user"
+msgstr "Add user"
+
+msgid "Edit user"
+msgstr "Edit user"
+
+msgid "Please log in to your account"
+msgstr "Please log in to your account"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Edit User"
+msgstr "Edit user"
+
+msgid "Related Qualifications"
+msgstr "Related qualifications"
+
+msgid "notempty"
+msgstr "not empty"
+
+msgid "mimeType"
+msgstr "mimeType"
+
+msgid "numeric"
+msgstr "numeric"
+
+msgid "date"
+msgstr "date"
+
+msgid "boolean"
+msgstr "boolean"
+
+msgid "Your custom message here"
+msgstr "Your custom message here"
+
+msgid "Searching for orders or reports"
+msgstr "Search for orders or reports"
+
+msgid "Search for orders"
+msgstr "Search for orders"
+
+msgid "list reports"
+msgstr "List reports"
+
+msgid "list testing companies"
+msgstr "List testing companies"
+
+msgid "list examiner"
+msgstr "List examiner"
+
+msgid "list user"
+msgstr "List user"
+
+msgid "list qualifications"
+msgstr "List qualifications"
+
+msgid "list test methods"
+msgstr "List test methods"
+
+msgid "Searching for orders"
+msgstr "Search for orders or reports"
+
+msgid "Search for order"
+msgstr "Search for order"
+
+msgid "Einstufig"
+msgstr "one stage"
+
+msgid "Zweistufig"
+msgstr "two stage"
+
+msgid "Dreistufig"
+msgstr "three stage"
+
+msgid "Vierstufig"
+msgstr "four stage"
+
+msgid "The dependency has been saved"
+msgstr "The dependency has been saved"
+
+msgid "The dependency could not be saved. Please, try again."
+msgstr "The dependency coult not be saved. Please try again"
+
+msgid "Dependency deleted"
+msgstr "Dependency deleted"
+
+msgid "Dependency was not deleted"
+msgstr "Dependency was not deleted"
+
+msgid "Add progress"
+msgstr "Add progress"
+
+msgid "this measuring point is not associated with a evaluation area"
+msgstr "This measuring point is not associated with an evaluation area"
+
+msgid "Sie haben keinen Zugriff auf diesen PrÃ¼fbericht"
+msgstr "You may not access this report"
+
+msgid "Progress was saved"
+msgstr "Progress was saved"
+
+msgid "Progress could not be saved. Please, try again."
+msgstr "Progress could not be saved. Please try again"
+
+msgid "Show progress"
+msgstr "Show progress"
+
+msgid "Toggle dropdowns for other testingmethods"
+msgstr "Toggle downdowns for other testingmethods"
+
+msgid "not global"
+msgstr "not global"
+
+msgid "global"
+msgstr "global"
+
+msgid "Copy other dropdown values for this dropdown"
+msgstr "Copy other dropdown values to this dropdown"
+
+msgid "Delete all dropdown values"
+msgstr "Delete all dropdown values"
+
+msgid "Will you delete all values from the dropdown field"
+msgstr "Really delete all values from this dropdown?"
+
+msgid "Will you delete this value?"
+msgstr "Really delete this value?"
+
+msgid "Dropdown unlinked"
+msgstr "Dropdown unlinked"
+
+msgid "close"
+msgstr "close"
+
+msgid "Invalid equipment"
+msgstr "Invalid equipment"
+
+msgid "all"
+msgstr "all"
+
+msgid "Please select a report typ in the project settings."
+msgstr "Please select a report type in the project setttings."
+
+msgid "Create new order"
+msgstr "Create new order"
+
+msgid "Upload new order"
+msgstr "Upload new order"
+
+msgid "Move this equipment"
+msgstr "Move this equipment"
+
+msgid "Searching for order"
+msgstr "Search for order"
+
+msgid "The equipment has been saved"
+msgstr "The equipment has beed saved"
+
+msgid "The equipment could not be saved. Please, try again."
+msgstr "The equipment could not be saved. Please try again."
+
+msgid "Add new order"
+msgstr "Add new order"
+
+msgid "Back to overview"
+msgstr "Back to overview"
+
+msgid "Equipment "
+msgstr "Equipment "
+
+msgid "has been moved to this location."
+msgstr "has been moved to this location."
+
+msgid "Invalid equipment type"
+msgstr "Invalid equipment type"
+
+msgid "Equipment deleted"
+msgstr "Equipment deleted"
+
+msgid "Equipment Type Settings"
+msgstr "Equipment type settings"
+
+msgid "Equipment Settings"
+msgstr "Equipment settings"
+
+msgid "Move this equipment type"
+msgstr "Move this equipment type"
+
+msgid "The equipment type has been saved"
+msgstr "The equipment type has been saved"
+
+msgid "The equipment type could not be saved. Please, try again."
+msgstr "The equipment type could not be saved. Please try again."
+
+msgid "Equipment type "
+msgstr "Equipment type "
+
+msgid "Equipment type deleted"
+msgstr "Equipment type deleted"
+
+msgid "Invalid examiner"
+msgstr "Invalid examiner"
+
+msgid "Print workload"
+msgstr "Print workload"
+
+msgid "The examiner has been saved"
+msgstr "The examiner has been saved"
+
+msgid "The examiner could not be saved. Please, try again."
+msgstr "The examiner could not be saved. Please try again."
+
+msgid "Examiner deleted"
+msgstr "Examiner deleted"
+
+msgid "Examiner was not deleted"
+msgstr "Examiner was not deleted"
+
+msgid "Invalid workload id"
+msgstr "Invalid workload id"
+
+msgid "Examiner workload duplicated"
+msgstr "Examiner workload duplicated"
+
+msgid "Examiner workload was not duplicated"
+msgstr "Examiner workload was not duplicated"
+
+msgid "Examiner workload deleted"
+msgstr "Examiner workload deleted"
+
+msgid "Examiner workload was not deleted"
+msgstr "Examiner workload was not deleted"
+
+msgid "Invalid Date"
+msgstr "Invalid date"
+
+msgid "No data to display"
+msgstr "No data to display"
+
+msgid "Examiner workload saved"
+msgstr "Examiner workload saved"
+
+msgid "Examiner workload was not saved"
+msgstr "Examiner workload was not saved"
+
+msgid "Der Auftrag wurde geschlossen und kann nicht mehr bearbeitet werden."
+msgstr "The order is closed and can not be edited"
+
+msgid "Additional created"
+msgstr "Additional service created"
+
+msgid "Will you you change the state to open."
+msgstr "Do you want to change the state to open?"
+
+msgid "Will you you change the state to close."
+msgstr "Do you want to change the state to closed?"
+
+msgid "The order is closed"
+msgstr "The order is closed"
+
+msgid "view"
+msgstr "view"
+
+msgid "Order "
+msgstr "Order "
+
+msgid "back"
+msgstr "back"
+
+msgid "Will you delete this order?"
+msgstr "Do you want to delete this order?"
+
+msgid "The order has been delete."
+msgstr "The order has been deleted."
+
+msgid "Order was not deleted."
+msgstr "The order was not deleted."
+
+msgid "File was delete"
+msgstr "File was deleted"
+
+msgid "File was not delete"
+msgstr "File was not deleted"
+
+msgid "The file does not exist"
+msgstr "The file does not exist"
+
+msgid "Sorry, no Searchresults."
+msgstr "Sorry, no results"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Change status "
+msgstr "Change status "
+
+msgid "Examiner workload"
+msgstr "Examiner workload"
+
+msgid "offen"
+msgstr "open"
+
+msgid "geschlossen"
+msgstr "closed"
+
+msgid "move order"
+msgstr "move order"
+
+msgid "Search Report"
+msgstr "Search for report"
+
+msgid "Dropdown Boxes"
+msgstr "Dropdown fields"
+
+msgid "Create "
+msgstr "Create "
+
+msgid "Currently only search for reportnumbers is possible. Please try again in a few moments."
+msgstr "Currently only search for reportnumbers is possible. Please try again in a few moments."
+
+msgid "Print result list"
+msgstr "Print result list"
+
+msgid "Reload"
+msgstr "Reload"
+
+msgid "Report is writeprotected - changes will not be saved."
+msgstr "Report is write protected - changes will not be saved."
+
+msgid "Move"
+msgstr "Move"
+
+msgid "Show General infos"
+msgstr "Show general information"
+
+msgid "Show Specify infos"
+msgstr "Show specific information"
+
+msgid "Show Testing area"
+msgstr "Show test area"
+
+msgid "The value could not be saved. The report is closed!"
+msgstr "The value could not be saved. The report is closed!"
+
+msgid "The value could not be saved. The report is marked as deleted!"
+msgstr "The value could not be saved. The report is marked as deleted!"
+
+msgid "The value could not be saved. The report is marked as deactivate!"
+msgstr "The value could not be saved. The report is marked as deactivated!"
+
+msgid "The value has been saved."
+msgstr "The value has been saved."
+
+msgid "The value could not be saved. Please try again!"
+msgstr "The value could not be saved. Please try again!"
+
+msgid "not evaluated"
+msgstr "not evaluated"
+
+msgid "accepted"
+msgstr "accepted"
+
+msgid "defect"
+msgstr "defect"
+
+msgid "unchanged"
+msgstr "unchanged"
+
+msgid "repaired"
+msgstr "repaired"
+
+msgid "deleted"
+msgstr "deleted"
+
+msgid "Create repair report"
+msgstr "Create repair report"
+
+msgid "Es wurden keine PrÃ¼fbereiche ausgewÃ¤hlt."
+msgstr "No welds selected"
+
+msgid "The Area has been duplicated"
+msgstr "The Area has been duplicated"
+
+msgid "The welds"
+msgstr "The welds"
+
+msgid "has been duplicate."
+msgstr "has beed duplicated."
+
+msgid "Sollen die aufgefÃ¼hrten PrÃ¼fbereiche dupliziert werden?"
+msgstr "Do you want to duplicate the selected welds?"
+
+msgid "delete"
+msgstr "delete"
+
+msgid "has been delete."
+msgstr "has been deleted."
+
+msgid "was not deleted."
+msgstr "was not deleted."
+
+msgid "Sollen die aufgefÃ¼hrten PrÃ¼fbereiche gelÃ¶scht werden?"
+msgstr "Do you want to delete the selected welds?"
+
+msgid "result"
+msgstr "result"
+
+msgid "has been updated."
+msgstr "has beed updated."
+
+msgid "was not updated."
+msgstr "was not updated."
+
+msgid "Mit erfÃ¼llt bewerten"
+msgstr "mark accepted"
+
+msgid "Sollen die aufgefÃ¼hrten PrÃ¼fbereiche mit erfÃ¼llt bewertet werden?"
+msgstr "Do you want to mark the selected welds accepted?"
+
+msgid "Mit nicht erfÃ¼llt bewerten"
+msgstr "mark not accepted"
+
+msgid "Sollen die aufgefÃ¼hrten PrÃ¼fbereiche mit nicht erfÃ¼llt bewertet werden?"
+msgstr "Do you want to mark the selected welds not accepted"
+
+msgid "Bewertungen entfernen"
+msgstr "remove results"
+
+msgid "Sollen die Bewertungen der aufgefÃ¼hrten PrÃ¼fbereiche entfernt werden?"
+msgstr "Do you want to remove the selected welds?"
+
+msgid "The error codes"
+msgstr "The error codes"
+
+msgid "has been removed."
+msgstr "has beed removed."
+
+msgid "The error code"
+msgstr "The error code"
+
+msgid "was not removed."
+msgstr "was not removed."
+
+msgid "Fehler entfernen"
+msgstr "remove error"
+
+msgid "Sollen die Fehler-Codes der aufgefÃ¼hrten PrÃ¼fbereiche entfernt werden?"
+msgstr "Remove error codes for the selected welds?"
+
+msgid "Report is closed - this function is not available."
+msgstr "Report is closed - this function is not available."
+
+msgid "The report"
+msgstr "The report"
+
+msgid "Association was removed"
+msgstr "Association was removed"
+
+msgid "Report was associated"
+msgstr "Report was associated"
+
+msgid "NÃ¤chster PrÃ¼fbereich"
+msgstr "next test area"
+
+msgid "Vorhergehender PrÃ¼fbereich"
+msgstr "previous test area"
+
+msgid "NÃ¤chste Naht"
+msgstr "next weld"
+
+msgid "Vorhergehende Naht"
+msgstr "previous weld"
+
+msgid "Edit Evalution"
+msgstr "Edit evaluation"
+
+msgid "The Testingreport was closed."
+msgstr "The report was closed."
+
+msgid "The Evalution Area has been duplicated"
+msgstr "The evaluation area has been duplicated"
+
+msgid "Pressuretest"
+msgstr "Pressuretest"
+
+msgid "Image was delete"
+msgstr "Image was deleted"
+
+msgid "Image was not delete"
+msgstr "Image was not deleted"
+
+msgid "The image does not exist"
+msgstr "The image does not exist"
+
+msgid "Back to discription"
+msgstr "Back to description"
+
+msgid "The Report was closed."
+msgstr "The report was closed."
+
+msgid "The status could not be changed"
+msgstr "The status could not be changed"
+
+msgid "Close this Report"
+msgstr "Close this report"
+
+msgid "grant supervision release"
+msgstr "Grant supervision release"
+
+msgid "revoke supervision release"
+msgstr "Revoke supervision release"
+
+msgid "Evalution Area deleted"
+msgstr "Evaluation area deleted"
+
+msgid "Die Nahtbereiche wurden angelegt."
+msgstr "Weld areas were created"
+
+msgid "Print statistics"
+msgstr "Print statistics"
+
+msgid "Export statistics"
+msgstr "Export statistics"
+
+msgid "Welds by months"
+msgstr "Welds by months"
+
+msgid "Welds by days"
+msgstr "Welds by days"
+
+msgid "Involved welders"
+msgstr "Involved welders"
+
+msgid "Weld errors by frequency"
+msgstr "Weld errors by frequency"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Weld type total"
+msgstr "Weld type total"
+
+msgid "Type of weld"
+msgstr "Type of weld"
+
+msgid "Percentage"
+msgstr "Percentage"
+
+msgid "Weld type "
+msgstr "Weld type "
+
+msgid "Month"
+msgstr "Month"
+
+msgid "Welder"
+msgstr "Welder"
+
+msgid "Type of error"
+msgstr "Type of error"
+
+msgid "Deletetion of %s failed"
+msgstr "Deletion of %s failed"
+
+msgid " has no testingmethod"
+msgstr " has no test method"
+
+msgid "Add new project"
+msgstr "Add new project"
+
+msgid "Searching for reports"
+msgstr "Search for reports"
+
+msgid "created"
+msgstr "created"
+
+msgid "in"
+msgstr "in"
+
+msgid "Closed projects"
+msgstr "Closed projects"
+
+msgid "Deleted projects"
+msgstr "Deleted projects"
+
+msgid "Topproject was reopened"
+msgstr "Project was reopened"
+
+msgid "Topproject could not be reopened. Please, try again."
+msgstr "Project could not be reopened. Please try again."
+
+msgid "testing time"
+msgstr "test time"
+
+msgid "Password was saved"
+msgstr "Password changed"
+
+msgid "Password could not be saved. Please, try again."
+msgstr "Password could not be changed. Please try again."
+
+msgid "Examiner workload added"
+msgstr "Examiner workload added"
+
+msgid "Unknown examiner"
+msgstr "Unknown examiner"
+
+msgid "Waiting time: "
+msgstr "Waiting time: "
+
+msgid "Testing time: "
+msgstr "Testing time: "
+
+msgid "Examiner workload edited"
+msgstr "Examiner workload edited"
+
+msgid "Saved despite collisions or errors"
+msgstr "Saved despite collsisions or errors"
+
+msgid "Old"
+msgstr "Old"
+
+msgid "New"
+msgstr "New"
+
+msgid "Testingreport created"
+msgstr "Test report created"
+
+msgid "Testingreport deleted"
+msgstr "Test report deleted"
+
+msgid "Evaluation deleted"
+msgstr "Evaluation deleted"
+
+msgid "File deleted"
+msgstr "File deleted"
+
+msgid "Testingreport duplicated"
+msgstr "Test report duplicated"
+
+msgid "Revision created"
+msgstr "Revision created"
+
+msgid "Evaluation duplicated"
+msgstr "Evaluation duplicated"
+
+msgid "Authorisation error"
+msgstr "Authorisation error"
+
+msgid "%s tried to open testingreport %s"
+msgstr "%s tried to open test report %s"
+
+msgid "First entry for %s"
+msgstr "First entry for %s"
+
+msgid "Edited %s"
+msgstr "Edited %ss"
+
+msgid "New entry for %s"
+msgstr "Neuer Eintrag für %s"
+
+msgid "Edited complete weld"
+msgstr "Edited complete weld"
+
+msgid "Sorted evaluation"
+msgstr "Sorted evaluations"
+
+msgid "Edited %s directly"
+msgstr "Edited %s directly"
+
+msgid "File uploaded"
+msgstr "File uploaded"
+
+msgid "Image deleted"
+msgstr "Image deleted"
+
+msgid "Image discription set"
+msgstr "Image description set"
+
+msgid "Imagename"
+msgstr "Image name"
+
+msgid "Image discription changed"
+msgstr "Image description changed"
+
+msgid "old"
+msgstr "old"
+
+msgid "new"
+msgstr "new"
+
+msgid "Image uploaded"
+msgstr "Image uploaded"
+
+msgid "Testingreport printed"
+msgstr "Test report printed"
+
+msgid "Raw data testingreport printed"
+msgstr "Raw data test report printed"
+
+msgid "Evaluation label printed"
+msgstr "Evaluation label printed"
+
+msgid "opened"
+msgstr "opened"
+
+msgid "invoiced"
+msgstr "invoiced"
+
+msgid "Testingreport state changed"
+msgstr "Test report state changed"
+
+msgid "Deleted all welds by weld assistent"
+msgstr "Delete all welds by weld assistent"
+
+msgid "Created welds by weld assistent"
+msgstr "Created welds by weld assistent"
+
+msgid "Inactiv for to long."
+msgstr "Inactive for too long."
+
+msgid "This report is not yours, you ar logged out."
+msgstr "This report is not yours or you are logged out."
+
+msgid "Add new equipment type"
+msgstr "Add new equipment type"
+
+msgid "Add new equipment"
+msgstr "Add new equipment"
+
+msgid "Export result list"
+msgstr "Export result list"
+
+msgid "Dynamic values"
+msgstr "Dynamic values"
+
+msgid "Static values"
+msgstr "Static values"
+
+msgid "Values from database"
+msgstr "Values from database"
+
+msgid "PrÃ¼fpunkte"
+msgstr "Test points"
+
+msgid "fÃ¼r Fortschritt von"
+msgstr "for progress of"
+
+msgid "Examinierer"
+msgstr "Examiner"
+
+msgid "signExaminer"
+msgstr "Sign of examiner"
+
+msgid "Supervisor"
+msgstr "Supervisor"
+
+msgid "signSupervisor"
+msgstr "Sign of supervisor"
+
+msgid "Third part"
+msgstr "Third part"
+
+msgid "signThirdPart"
+msgstr "Sign of third part"
+
+msgid "File not found."
+msgstr "File not found"
+
+msgid "File could not be decrypted."
+msgstr "File could not be decrypted"
+
+msgid "Show settled reports"
+msgstr "Show settled reports"
+
+msgid "No settled reports found - only closed reports can be settle. Only additional services can be added."
+msgstr "No settled reports found - only closed reports can be settled. Only additional services can be added."
+
+msgid "Es sind keine abrechenbare PrÃ¼fberichte vorhanden, es kÃ¶nnen nur geschlossene PrÃ¼fberichte abgerechnet werden. Es kÃ¶nnen zusÃ¤tzliche Leistungen angelegt werden."
+msgstr "There are no invoicable reports. Only closed reportscan be invoiced. You can only add additional services."
+
+msgid "Image before"
+msgstr "Previous image"
+
+msgid "Next image"
+msgstr "Next image"
+
+msgid "Create order through a file"
+msgstr "Create order by uploading a file"
+
+msgid "bereit fÃ¼r AufmaÃŸ"
+msgstr "ready for calculation"
+
+msgid "Examination"
+msgstr "Examination"
+
+msgid "Identification %s already used for project %s"
+msgstr "Identification %s already used for project %s"
+
+msgid "Seite"
+msgstr "Page"
+
+msgid "Welding company: %s"
+msgstr "Welding company: %s"
+
+msgid "No rights for this function,"
+msgstr "No permission for this function,"
+
+msgid "this window will close in "
+msgstr "this window will be closed in "
+
+msgid "Add Dependency"
+msgstr "Add dependency"
+
+msgid "Edit Dependency"
+msgstr "Edit dependency"
+
+msgid "Dependencies"
+msgstr "Dependencies"
+
+msgid "Dropdown value"
+msgstr "Dropdown value"
+
+msgid "Dependent fields"
+msgstr "Dependent fields"
+
+msgid "Main fild"
+msgstr "Main field"
+
+msgid "Dependency"
+msgstr "Dependency"
+
+msgid "Dropdowns Value"
+msgstr "Dropdown value"
+
+msgid "Field"
+msgstr "Field"
+
+msgid "Delete Dependency"
+msgstr "Delete dependency"
+
+msgid "List Dependencies"
+msgstr "List dependencies"
+
+msgid "New Dependency"
+msgstr "New dependency"
+
+msgid "List Dropdowns Values"
+msgstr "List dropdown values"
+
+msgid "New Dropdowns Value"
+msgstr "New dropdown value"
+
+msgid "Measuring point"
+msgstr "Measuring point"
+
+msgid "for"
+msgstr "for"
+
+msgid "All"
+msgstr "All"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Repairs"
+msgstr "Repairs"
+
+msgid "Closet"
+msgstr "Closed"
+
+msgid "Es existieren keine geplanten PrÃ¼fpunkte fÃ¼r die "
+msgstr "There are no planned test points for "
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Edited by"
+msgstr "Edited by"
+
+msgid "Open this report"
+msgstr "Open this report"
+
+msgid "Delete this progress"
+msgstr "Delete this progress"
+
+msgid "Edit this progress"
+msgstr "Edit this progress"
+
+msgid "Create progress"
+msgstr "Create progress"
+
+msgid "Progress"
+msgstr "Progress"
+
+msgid "Fortschritte auswÃ¤hlen"
+msgstr "Select progress"
+
+msgid "Fortschritte erstellen"
+msgstr "Create progress"
+
+msgid "Daten fÃ¼r Fortschritt bereitstellen"
+msgstr "provide data for progress"
+
+msgid "Delete Orders"
+msgstr "Delete orders"
+
+msgid "Rep"
+msgstr "Rep"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Go to this evalation"
+msgstr "Go to this evaluation"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Go to report"
+msgstr "Go to report"
+
+msgid "Open Orders"
+msgstr "Open orders"
+
+msgid "Closed Orders"
+msgstr "Closed orders"
+
+msgid "All Orders"
+msgstr "All orders"
+
+msgid "Closed"
+msgstr "Closed"
+
+msgid "Show details of progress"
+msgstr "Show details of progress"
+
+msgid "Open this Order"
+msgstr "Open this order"
+
+msgid "Close this Order"
+msgstr "Close this order"
+
+msgid "repairs"
+msgstr "repairs"
+
+msgid "Change status"
+msgstr "Change status"
+
+msgid "Open order"
+msgstr "Open order"
+
+msgid "Select progress"
+msgstr "Select progress"
+
+msgid "Open this progress"
+msgstr "Open this progress"
+
+msgid "Bearbeiten"
+msgstr "Edit"
+
+msgid "Anzahl"
+msgstr "Number"
+
+msgid "Orders Overview"
+msgstr ""
+
+msgid "Examiner times Overview"
+msgstr "Examiner times overview"
+
+msgid "Statistics Overview"
+msgstr "Statistics overview"
+
+msgid "Delete dropdown value"
+msgstr "Delete dropdown value"
+
+msgid "aus"
+msgstr "of"
+
+msgid "back to list"
+msgstr "back to list"
+
+msgid "close this window"
+msgstr "close this window"
+
+msgid "What you want to do after saving?"
+msgstr "What do you want to do after saving?"
+
+msgid "add new entry"
+msgstr "add new entry"
+
+msgid "LÃ¶schen"
+msgstr "delete"
+
+msgid "Count"
+msgstr "count"
+
+msgid "Field used in"
+msgstr "Field used in"
+
+msgid "Die Werte des Feldes"
+msgstr "Values of this field"
+
+msgid "in das Feld"
+msgstr "to field"
+
+msgid "kopieren"
+msgstr "copy"
+
+msgid "Das Feld"
+msgstr "field"
+
+msgid "besitzt folgende abhÃ¤ngige Werte, die mit kopiert werden kÃ¶nnen."
+msgstr "has dependent values which can be copied."
+
+msgid "Ursprung"
+msgstr "source"
+
+msgid "Ziel"
+msgstr "target"
+
+msgid "AbhÃ¤ngige Werte ebenfalls kopieren?"
+msgstr "copy dependent values?"
+
+msgid "AbhÃ¤ngige Werte mit kopieren"
+msgstr "copy dependent values?"
+
+msgid "Transfer these values"
+msgstr "Transfer these values"
+
+msgid "AbhÃ¤ngige Werte nicht mit kopieren"
+msgstr "do not copy dependent values"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "Remove exististing values"
+msgstr "Remove existing values"
+
+msgid "Entschuldigung"
+msgstr "Sorry"
+
+msgid "Es ist ein Fehler aufgetreten, die Fehlermeldung wurde in den Log-Dateien dokumentiert."
+msgstr "An error occured and was logged"
+
+msgid "Benutzen Sie den unten stehenden Link um zur Startseite der Anwendung zurÃ¼ckzukehren"
+msgstr "Please use the link below to return to project overview."
+
+msgid "Es konnte keine Verbindung zum Datenbankserver aufgebaut werden, die Fehlermeldung wurde in den Log-Dateien dokumentiert."
+msgstr "Connection to database could not be established. Error was logged."
+
+msgid "Sie kÃ¶nnen versuchen, die Verbindung erneut aufzubauen"
+msgstr "Please try again to connect to database."
+
+msgid "Es ist ein Datenbankfehler aufgetreten, die Fehlermeldung wurde in den Log-Dateien dokumentiert."
+msgstr "A database error occured and was logged"
+
+msgid "Aktuelle Aufteilung des Projekts"
+msgstr "Current division of this project"
+
+msgid "Reopen"
+msgstr "Reopen"
+
+msgid "Reopen this Project"
+msgstr "Reopen this project"
+
+msgid "Add Equipment"
+msgstr "Add equipment"
+
+msgid "Delete Equipment"
+msgstr "Delete equipment"
+
+msgid "Achtung, beim LÃ¶schen dieser Komponente werden alle untergeordneten AuftrÃ¤ge und PrÃ¼fberichte ebenfalls gelÃ¶scht!"
+msgstr "Attention, by deleting this component all subordinate orders and reports also will be deleted!"
+
+msgid "Edit Equipment"
+msgstr "Edit equipment"
+
+msgid "active"
+msgstr "active"
+
+msgid "deactive"
+msgstr "deactivated"
+
+msgid "Equipment type"
+msgstr "Equipment type"
+
+msgid "Soll diese Komponente gelÃ¶scht werden?"
+msgstr "Do you want to delete this component?"
+
+msgid "Move equipment"
+msgstr "Move equipment"
+
+msgid "from"
+msgstr "from"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Will you move equipment"
+msgstr "Do you want to move the equipment?"
+
+msgid "to"
+msgstr "to"
+
+msgid "Pr-Nr. (YYYY-NN)"
+msgstr "Pr-Nr. (YYYY-NN)"
+
+msgid "Equipment"
+msgstr "Equipment"
+
+msgid "Orderstatus"
+msgstr "Order state"
+
+msgid "status"
+msgstr "status"
+
+msgid "Bauteil"
+msgstr "Part"
+
+msgid "Change Status"
+msgstr "Change state"
+
+msgid "Soll dieser Auftrag gelÃ¶scht werden?"
+msgstr "Do you want to delete this order?"
+
+msgid "Add Equipment Type"
+msgstr "Add equipment type"
+
+msgid "Delete Equipment Type"
+msgstr "Delete equipment type"
+
+msgid "Achtung, beim LÃ¶schen dieser Komponente werden alle untergeordneten Komponenten, AuftrÃ¤ge und PrÃ¼fberichte ebenfalls gelÃ¶scht!"
+msgstr "Attention, by deleting this component all subordinate components, orders and reports also will be deleted!"
+
+msgid "Edit Equipment Type"
+msgstr "Edit equipment type"
+
+msgid "Equipment Types"
+msgstr "Equipment types"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Soll dieser Komponentetype gelÃ¶scht werden?"
+msgstr "Do you want to delete this component type?"
+
+msgid "Move equipment type"
+msgstr "Move equipment type"
+
+msgid "Will you move equipment type"
+msgstr "Do you wand to move this equipment type?"
+
+msgid "Add Examiner"
+msgstr "Add examiner"
+
+msgid "Number"
+msgstr "Number"
+
+msgid "Add examiner workload"
+msgstr "Add examiner workload"
+
+msgid "Missing entry for waiting time"
+msgstr "Missing entry for waiting time"
+
+msgid "End of waiting time before start"
+msgstr "End of waiting time before it`s start"
+
+msgid "Start of testing time before end of waiting time"
+msgstr "Start of testing time before end of waiting time"
+
+msgid "End of testing time before start"
+msgstr "End of testing time before it`s start"
+
+msgid "Edit Examiner"
+msgstr "Edit examiner"
+
+msgid "Edit examiner workload"
+msgstr "Edit examiner workload"
+
+msgid "Examiners"
+msgstr "Examiners"
+
+msgid "F-number"
+msgstr "F-number"
+
+msgid "Number of workload entries"
+msgstr "Number of workload entries"
+
+msgid "Soll dieser PrÃ¼fer gelÃ¶scht werden?"
+msgstr "Do you want to delete this examiner?"
+
+msgid "Testing times"
+msgstr "Testing times"
+
+msgid "Workload"
+msgstr "Workload"
+
+msgid "Days with waiting times"
+msgstr "Days with waiting times"
+
+msgid "Waiting time"
+msgstr "Waiting time"
+
+msgid "Days with testing times"
+msgstr "Days with testing times"
+
+msgid "Testing time"
+msgstr "Testing time"
+
+msgid "Examiner No."
+msgstr "Examiner No."
+
+msgid "KKS No."
+msgstr "KKS No."
+
+msgid "Waiting time start"
+msgstr "Waiting time start"
+
+msgid "Waiting time end"
+msgstr "Waiting time end"
+
+msgid "Testing time start"
+msgstr "Testing time start"
+
+msgid "Testing time end"
+msgstr "Testing time end"
+
+msgid "Remarks"
+msgstr "Remarks"
+
+msgid "Collisions"
+msgstr "Collisions"
+
+msgid "Edit Workload"
+msgstr "Edit workload"
+
+msgid "Duplicate Workload"
+msgstr "Duplicate workload"
+
+msgid "Delete Workload"
+msgstr "Delete workload"
+
+msgid "Soll dieser Eintrag gelÃ¶scht werden?"
+msgstr "Do you want to delete this entry?"
+
+msgid "Es liegen keine Daten vor."
+msgstr "There is no data to display."
+
+msgid "Examiner details"
+msgstr "Examiner details"
+
+msgid "zertificats"
+msgstr "certificates"
+
+msgid "vision tests"
+msgstr "vision tests"
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Waiting Time Start"
+msgstr "Waiting time start"
+
+msgid "Waiting Time End"
+msgstr "Waiting time end"
+
+msgid "Testing Time Start"
+msgstr "Testing time start"
+
+msgid "Testing Time End"
+msgstr "Testing time end"
+
+msgid "Waiting time for %s"
+msgstr "Waiting time for %s"
+
+msgid "No waiting time data available for %s"
+msgstr "No waiting time data available for %s"
+
+msgid "Testing time for %s"
+msgstr "Testing time for %s"
+
+msgid "Examiner workload %s"
+msgstr "Examiner workload %s"
+
+msgid "Calendar"
+msgstr "Calendar"
+
+msgid "You have to select a date first."
+msgstr "You have to select a date first."
+
+msgid "Workload for day"
+msgstr "Workload for day"
+
+msgid "Workload by Reports"
+msgstr "Workload by reports"
+
+msgid "Waiting times for month"
+msgstr "Waiting times for month"
+
+msgid "Testing times for month"
+msgstr "Testing times for month"
+
+msgid "Waiting times for complete year"
+msgstr "Waiting times for complete year"
+
+msgid "Testing times for complete year"
+msgstr "Testing times for complete year"
+
+msgid "Sun"
+msgstr "Sun"
+
+msgid "Mon"
+msgstr "Mon"
+
+msgid "Tue"
+msgstr "Tue"
+
+msgid "Wed"
+msgstr "Wed"
+
+msgid "Thu"
+msgstr "Thu"
+
+msgid "Fri"
+msgstr "Fri"
+
+msgid "Sat"
+msgstr "Sat"
+
+msgid "Image not found"
+msgstr "Image not found"
+
+msgid "The supplied data contains errors. Do you want to save anyway?"
+msgstr "The supplied data contains errors. Do you want to save anyway?"
+
+msgid "Are you sure you want to duplicate this weld?"
+msgstr "Are you sure you want to duplicate this weld?"
+
+msgid "Show my last reports of each testing method"
+msgstr "Show my last reports of each testing method"
+
+msgid "Refresh this page"
+msgstr "Refresh this page"
+
+msgid "Close Window"
+msgstr "Close window"
+
+msgid "Create new version"
+msgstr "Create new version"
+
+msgid "The newly created report will get a new reportnumber. Are you sure you want to continue?"
+msgstr "The newly created report will get a new reportnumber. Are you sure you want to continuue?"
+
+msgid "Show validation errors"
+msgstr "Show validation errors"
+
+msgid "Required fields missing"
+msgstr "Required fields missing"
+
+msgid "Show videos"
+msgstr "Show videos"
+
+msgid "Move this report"
+msgstr "Move this report"
+
+msgid "Show QR-Code"
+msgstr "Show QR-Code"
+
+msgid "Print Label"
+msgstr "Print label"
+
+msgid "Signatures"
+msgstr "Signatures"
+
+msgid "marked as not processed"
+msgstr "Marked as not processed"
+
+msgid "marked as error"
+msgstr "Marked as error"
+
+msgid "marked as processed"
+msgstr "Marked as processed"
+
+msgid "examination development"
+msgstr "Examination development"
+
+msgid "Examination development"
+msgstr "Examination development"
+
+msgid "Show repair history"
+msgstr "Show repair history"
+
+msgid "Enforce parent reportnumber"
+msgstr "Enforce parent reportnumber"
+
+msgid "Assigned reports"
+msgstr "Assigned reports"
+
+msgid "Changes to previous version"
+msgstr "Changes to previous version"
+
+msgid "Evaluation edited"
+msgstr "Evaluation edited"
+
+msgid "Attached images"
+msgstr "Attached images"
+
+msgid "moved to %s"
+msgstr "moved to %s"
+
+msgid "new version created: %s"
+msgstr "new version created: %s"
+
+msgid "abgerechnet"
+msgstr "invoiced"
+
+msgid "Massenaktion wÃ¤hlen"
+msgstr "Choose action"
+
+msgid "Duplizieren"
+msgstr "Duplicate"
+
+msgid "Mit e bewerten"
+msgstr "Mark as accepted"
+
+msgid "Mit ne bewerten"
+msgstr "Mark as not accepted"
+
+msgid "Attention: Entries in first row will be used for titles."
+msgstr "Attention: Entries in first row will be displayed as titles."
+
+msgid "Click to edit"
+msgstr "Click to edit"
+
+msgid "Gesamte Naht bearbeiten"
+msgstr "Edit complete weld"
+
+msgid "Gesamte Naht duplizieren"
+msgstr "Duplicate complete weld"
+
+msgid "Soll die gesamte Naht dupliziert werden?"
+msgstr "Do you want to duplicate the complete weld?"
+
+msgid "Gesamte Naht lÃ¶schen"
+msgstr "Delete complete weld"
+
+msgid "Soll die gesamte Naht gelÃ¶scht werden?"
+msgstr "Do you want to delete the complete weld?"
+
+msgid "Diesen Nahtabschnitt bearbeiten"
+msgstr "Edit this weld area"
+
+msgid "Diesen Nahtabschnitt duplizieren"
+msgstr "Duplicate this weld area"
+
+msgid "Soll dieser Nahtabschnitt dupliziert werden?"
+msgstr "Do you want to duplicate this weld area?"
+
+msgid "Diesen Nahtabschnitt lÃ¶schen"
+msgstr "Delete this weld area"
+
+msgid "Soll dieser Nahtabschnitt gelÃ¶scht werden?"
+msgstr "Do you want to delete this weld area?"
+
+msgid "Double click to insert specialchars"
+msgstr "Double click to insert special characters"
+
+msgid "Edit "
+msgstr "Edit "
+
+msgid "Edit dependent fields"
+msgstr "Edit dependent fields"
+
+msgid "Costum value"
+msgstr "Custom value"
+
+msgid "Edit the complete weld"
+msgstr "Edit complete weld"
+
+msgid "Edit examination area"
+msgstr "Edit examination area"
+
+msgid "EN 1435"
+msgstr "EN 1435"
+
+msgid "EN 1435 Bildnummern"
+msgstr "EN 1435 image numbers"
+
+msgid "Dropdown values"
+msgstr "Dropdown values"
+
+msgid "Statisticsadditional"
+msgstr "Statistic addionals"
+
+msgid "Select Testingmethod"
+msgstr "Select test method"
+
+msgid "show/Hide"
+msgstr "Show/Hide"
+
+msgid "Show/Hide"
+msgstr "Show/Hide"
+
+msgid "For invocation dimensions must be entered into report."
+msgstr "For invocation dimensions must be entered into the report."
+
+msgid "Select invoices"
+msgstr "Select invoices"
+
+msgid "Add new aditional"
+msgstr "Add new additional"
+
+msgid "Print invoices"
+msgstr "Print invoices"
+
+msgid "Export invoices"
+msgstr "Export invoices"
+
+msgid "Change password"
+msgstr "Change password"
+
+msgid "Add order to"
+msgstr "Add order to"
+
+msgid "Delete order"
+msgstr "Delete order"
+
+msgid "Achtung, beim LÃ¶schen dieser Komponente werden alle untergeordneten PrÃ¼fberichte ebenfalls gelÃ¶scht!"
+msgstr "Attention, by deleting this component all subordinate reports also will be deleted!"
+
+msgid "Delete file"
+msgstr "Delete file"
+
+msgid "Custom value"
+msgstr "Custom value"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Select files"
+msgstr "Select files"
+
+msgid "Move order"
+msgstr "Move order"
+
+msgid "Will you move Order"
+msgstr "Do you want to move this order?"
+
+msgid "Es existieren keine offenen AuftrÃ¤ge in dieser Kategorie."
+msgstr "There are no open orders in this category."
+
+msgid "Messpunkte im Auftrag"
+msgstr "Measure points in this order"
+
+msgid "Overview Reports"
+msgstr "Overview reports"
+
+msgid "Component"
+msgstr "Components"
+
+msgid "Will you you change the state."
+msgstr "Do you want to change the state?"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "Duplicat"
+msgstr "Duplicate"
+
+msgid "Result for Orders"
+msgstr "Result for orders"
+
+msgid "Order-No."
+msgstr "Order no."
+
+msgid "EquipmentType"
+msgstr "Equipment type"
+
+msgid "Searching for Orders"
+msgstr "Search for orders"
+
+msgid "Search for KKS"
+msgstr "Search for KKS"
+
+msgid "Search for reports"
+msgstr "Search for reports"
+
+msgid "Show matching results"
+msgstr "Show matching results"
+
+msgid "There are no results matching your search"
+msgstr "There are no results matching your search"
+
+msgid "Change state"
+msgstr "Change state"
+
+msgid "Assigned reports for %s"
+msgstr "Assigned reports for %s"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Parent report"
+msgstr "Parent report"
+
+msgid "Child report"
+msgstr "Child report"
+
+msgid "Remove assignment"
+msgstr "Remove assignment"
+
+msgid "Duplicate report"
+msgstr "Duplicate report"
+
+msgid "Soll folgender PrÃ¼fbericht dupliziert werden:"
+msgstr "Do you want to duplicate the following report:"
+
+msgid "Sie haben die MÃ¶glichkeit Daten, welche nicht dupliziert werden sollen, abzuwÃ¤hlen."
+msgstr "You can deselect data you don`t want to be copied"
+
+msgid "Abbrechen"
+msgstr "Cancel"
+
+msgid "ZurÃ¼ck zur Ãœbersicht"
+msgstr "Back to oberview"
+
+msgid "Vorhergehender PrÃ¼fbericht"
+msgstr "Previous report"
+
+msgid "NÃ¤chster PrÃ¼fbericht"
+msgstr "Next report"
+
+msgid "Naht"
+msgstr "Weld"
+
+msgid "duplizieren"
+msgstr "duplicate"
+
+msgid "lÃ¶schen"
+msgstr "delete"
+
+msgid "Nahtbereich"
+msgstr "Weld area"
+
+msgid "von"
+msgstr "of"
+
+msgid "PrÃ¼fbereich"
+msgstr "test area"
+
+msgid "wird"
+msgstr "will"
+
+msgid "angezeigt"
+msgstr "be shown"
+
+msgid "anzeigen"
+msgstr "show"
+
+msgid "angezeigen"
+msgstr "show"
+
+msgid "PrÃ¼fbereiche anzeigen von"
+msgstr "show evaluation areas of"
+
+msgid "Gesamte Naht"
+msgstr "complete weld"
+
+msgid "Neuer Auswertungsbereich"
+msgstr "New evaluation area"
+
+msgid "Aufnahmeanordnungen nach EN 1435"
+msgstr "recording arrangement by EN 1435"
+
+msgid "Validation errors"
+msgstr "Validation errors"
+
+msgid "This field must not be empty"
+msgstr "This field must not be empty"
+
+msgid "Validation"
+msgstr "Validation"
+
+msgid "Es wurden alle Pflichtfelder ausgefÃ¼llt, der PrÃ¼fbericht kann gedruckt werden."
+msgstr "All necessary fields are filled. The report can be printed."
+
+msgid "error(s)"
+msgstr "error(s)"
+
+msgid "Examiner ID"
+msgstr "Examiner id"
+
+msgid "Soll diese Datei gelÃ¶scht werden?"
+msgstr "Do you want to delete this file?"
+
+msgid "< previous"
+msgstr "< previous"
+
+msgid "next >"
+msgstr "next >"
+
+msgid "Page {:page} of {:pages}"
+msgstr "Page {:page} of {:pages}"
+
+msgid "Show image"
+msgstr "Show image"
+
+msgid "Edit discription image"
+msgstr "Edit image description"
+
+msgid "Edit image discription"
+msgstr "Edit image description"
+
+msgid "Delete image"
+msgstr "Delete image"
+
+msgid "Soll dieses Bild gelÃ¶scht werden?"
+msgstr "Do you want to delete this image?"
+
+msgid "Alle PrÃ¼fberichte im Projekt"
+msgstr "All reports in this project"
+
+msgid "My last reports"
+msgstr "My last reports"
+
+msgid "The latest report"
+msgstr "The latest report"
+
+msgid "Reportorder"
+msgstr "Report order"
+
+msgid "Mass actions"
+msgstr "Mass actions"
+
+msgid "Move report"
+msgstr "Move report"
+
+msgid "Will you move report"
+msgstr "Do you want to move this report?"
+
+msgid "Participiants"
+msgstr "Participants"
+
+msgid "Workshop"
+msgstr "Workshop"
+
+msgid "ZI-T-W-W"
+msgstr "ZI-TT-W-W"
+
+msgid "TÃœV/TAW"
+msgstr "TÜV/TAW"
+
+msgid "Protocol"
+msgstr "Protocol"
+
+msgid "Conducted testings"
+msgstr "Cunducted testings"
+
+msgid "TÃœV / TAW"
+msgstr "TÜV / TAW"
+
+msgid "Capable person"
+msgstr "Capable person"
+
+msgid "Results"
+msgstr "Results"
+
+msgid "for tanks, machines and steel construction"
+msgstr "for tanks, machines and steel construction"
+
+msgid "Pos."
+msgstr "Pos."
+
+msgid "Num."
+msgstr "Num."
+
+msgid "Caption"
+msgstr "Caption"
+
+msgid "Material"
+msgstr "Material"
+
+msgid "Stamping"
+msgstr "Stamping"
+
+msgid "Certificate %s"
+msgstr "Certificate %s"
+
+msgid "BP / TÃœV"
+msgstr "BP / TÜV"
+
+msgid "Material certification"
+msgstr "Material certification"
+
+msgid "Welding details"
+msgstr "Welding details"
+
+msgid "List of welds"
+msgstr "List of welds"
+
+msgid "Welding method"
+msgstr "Welding method"
+
+msgid "Welding addition"
+msgstr "Welding addition"
+
+msgid "Main welds"
+msgstr "Main welds"
+
+msgid "Weld clip"
+msgstr "Weld clip"
+
+msgid "Weld no."
+msgstr "Weld no."
+
+msgid "Preheat"
+msgstr "Preheat"
+
+msgid "Temperature"
+msgstr "Temperature"
+
+msgid "Batch no."
+msgstr "Batch no."
+
+msgid "Inhouse post"
+msgstr "Inhouse post"
+
+msgid "Receiver"
+msgstr "Receiver"
+
+msgid "Organiz. unit"
+msgstr "Organiz. unit"
+
+msgid "Post circle"
+msgstr "Post circle"
+
+msgid "LP"
+msgstr "LP"
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "Filing"
+msgstr "Filing"
+
+msgid "Forward to"
+msgstr "Forward to"
+
+msgid "Remove signaturs"
+msgstr "Remove signatures"
+
+msgid "Will you realy remove all signaturs of this report?"
+msgstr "Do you want to remove all signatures?"
+
+msgid "Weld repair tracking"
+msgstr "Weld repair tracking"
+
+msgid "Place the cursor on a report to view details about its welds."
+msgstr "Place the cursor on an icon to view details about the welds."
+
+msgid "Weld"
+msgstr "Weld"
+
+msgid "first occourence"
+msgstr "first occourence"
+
+msgid "last occourence"
+msgstr "last occourence"
+
+msgid "last change"
+msgstr "last change"
+
+msgid "No welds found"
+msgstr "no welds found"
+
+msgid "Messpunkte"
+msgstr "Test points"
+
+msgid "Assign report as %s"
+msgstr "Assign report as %s"
+
+msgid "child report"
+msgstr "child report"
+
+msgid "Project %s"
+msgstr "Project %s"
+
+msgid "Evaluating statistics for more than %s reports may cause problems."
+msgstr "Evaluating statistics for more than %s reports may cause problems."
+
+msgid "Please wait"
+msgstr "Please wait"
+
+msgid "Testing companie"
+msgstr "Test company"
+
+msgid "Soll dieser PrÃ¼fbericht gelÃ¶scht werden?"
+msgstr "Do you want to delete this report?"
+
+msgid "Testing reports"
+msgstr "Test reports"
+
+msgid "Weld type ne"
+msgstr "Not accepted welds"
+
+msgid "Direct link to this report"
+msgstr "Direct link to this report"
+
+msgid "Direct link to this weld"
+msgstr "Direct link to this weld"
+
+msgid "Send this QR-Code per mail"
+msgstr "Send QR code via mail"
+
+msgid "Print this QR-Code"
+msgstr "Print QR code"
+
+msgid "Oberkategorie"
+msgstr "top category"
+
+msgid "Kategorie"
+msgstr "category"
+
+msgid "Unterkategorie"
+msgstr "subcategory"
+
+msgid "Testreport"
+msgstr "Test report"
+
+msgid "Create signature for "
+msgstr "Create signature for "
+
+msgid "Logged user account"
+msgstr "Logged user account"
+
+msgid "Remove this signatures"
+msgstr "Remove signatures"
+
+msgid "Signatur Examiner"
+msgstr "Signature examiner"
+
+msgid "Save Signature?"
+msgstr "Save signature"
+
+msgid "Signatur Supervisor"
+msgstr "Signature supervisor"
+
+msgid "Signatur third part"
+msgstr "Signature third part"
+
+msgid "revoke examiner release"
+msgstr "Revoke examiner release"
+
+msgid "Show video"
+msgstr "Show video"
+
+msgid "Videoupload"
+msgstr "Video upload"
+
+msgid "This report is attached to another report. Edit for details."
+msgstr "This report is attached to another report. Edit for details."
+
+msgid "This report has attached reports. Edit for details."
+msgstr "This report has attached reports. Edit for details."
+
+msgid "Vorschau"
+msgstr "Preview"
+
+msgid "Searching for Reports"
+msgstr "Search for reports"
+
+msgid "Writelock"
+msgstr "Write lock"
+
+msgid "identification"
+msgstr "Identification"
+
+msgid "projektbeschreibung"
+msgstr "Project description"
+
+msgid "Soll diese PrÃ¼fberichtsmappe gelÃ¶scht werden?"
+msgstr "Do you want to delete this report collection"
+
+msgid "Specialcharacter"
+msgstr "Special character"
+
+msgid "Specialcharacter will be appended to field %s"
+msgstr "Special character will be appended to field %s"
+
+msgid "No field selected to append Specialcharacter"
+msgstr "No field selected to append special character"
+
+msgid "Error number"
+msgstr "Error number"
+
+msgid "No displayable data"
+msgstr "No displayable data"
+
+msgid "Search results"
+msgstr "Search results"
+
+msgid "There are no matching reports containing evaluations"
+msgstr "There are no matching reports containing evaluations"
+
+msgid "Data tables"
+msgstr "Data tables"
+
+msgid "Percent"
+msgstr "Percent"
+
+msgid "welder missing"
+msgstr "weldder missing"
+
+msgid "highest valid roll"
+msgstr "highest valid permission"
+
+msgid "Upload logo"
+msgstr "Upload logo"
+
+msgid "Rang"
+msgstr "Level"
+
+msgid "Firmenname"
+msgstr "Company name"
+
+msgid "Firmenzusatz"
+msgstr "Company additionals"
+
+msgid "StraÃŸe"
+msgstr "Street"
+
+msgid "PLZ"
+msgstr "Postcode"
+
+msgid "Ort"
+msgstr "City"
+
+msgid "Soll dieses Unternehmen gelÃ¶scht werden?"
+msgstr "Do you want to delete this company?"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "No logo"
+msgstr "No logo"
+
+msgid "Delete topproject"
+msgstr "Delete project"
+
+msgid "Achtung, beim LÃ¶schen dieses Projekts werden alle untergeordneten Komponenten, AuftrÃ¤ge und PrÃ¼fberichte ebenfalls gelÃ¶scht!"
+msgstr "Attention, by deleting this project all subordinate components, orders and reports also will be deleted!"
+
+msgid "Projektname"
+msgstr "Project name"
+
+msgid "Standard"
+msgstr "Default"
+
+msgid "Aktuell"
+msgstr "Currently"
+
+msgid "Open this Project"
+msgstr "Open project"
+
+msgid "Diese Projekt steht standardmÃ¤ÃŸig auf"
+msgstr "This project is by default"
+
+msgid "Diese Projekt steht aktuell auf"
+msgstr "This project currently is"
+
+msgid "View project"
+msgstr "View project"
+
+msgid "Edit project"
+msgstr "Edit Project"
+
+msgid "Delete project"
+msgstr "Delete project"
+
+msgid "Soll das gesamte Project gelÃ¶scht werden?"
+msgstr "Do you want to delete the whole project?"
+
+msgid "Reopen topproject"
+msgstr "Reopen project"
+
+msgid "Results for Orders"
+msgstr "Results for orders"
+
+msgid "Disabled projects"
+msgstr "Disabled projects"
+
+msgid "Last login"
+msgstr "Last login"
+
+msgid "Aktiv/Deaktiv"
+msgstr "Active/Inactive"
+
+msgid "Soll dieser User gelÃ¶scht werden?"
+msgstr "Do you want to delete this user?"
+
+msgid "Edit password"
+msgstr "Edit password"
+
+msgid "No options available"
+msgstr "No options available"
+
+msgid "Displayed period"
+msgstr "Displayed period of time"
+
+msgid "All months"
+msgstr "All months"
+
+msgid "Benutzen Sie den unten stehenden Link um zur Startseite der Anwendung zurückzukehren"
+msgstr "Use link below to go to home page"
+
+msgid "Only users of company %s allowed to delete this dropdown field!"
+msgstr "Nur Nutzer der Firma %s sind berechtigt das Dropdown-Feld zu löschen!"
+
+msgid "Title"
+msgstr "Bezeichnung"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Changelog"
+msgstr "Änderungsprotokoll"

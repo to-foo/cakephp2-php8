@@ -1,0 +1,1 @@
+<?php if(isset($FormName))echo $this->JqueryScripte->RefreshAfterDialog(0,0,$FormName);?>

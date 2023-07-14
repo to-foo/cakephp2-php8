@@ -1,0 +1,86 @@
+public function WeldSorting($data) {
+
+	$weld_descriptions = Hash::extract($data, '{n}.{n}.{n}[key=description]');
+	$weld_positions = Hash::extract($data, '{n}.{n}.{n}[key=position]');
+
+	if(count($weld_descriptions) == 0) return $data;
+	if(count($weld_positions) == 0) return $data;
+	
+	$weld_descriptions_sorting = array();
+
+      
+        
+        
+     foreach($weld_descriptions as $_key => $_weld_descriptions){
+		unset($weld_descriptions[$_key]);
+		$weld_descriptions[$_weld_descriptions['data']] = array();
+		$weld_descriptions_sorting[] = $_weld_descriptions['data'];
+	}
+
+    natsort($weld_descriptions_sorting); 	
+
+	$weld_descriptions_sorting = array_flip($weld_descriptions_sorting);	
+
+	$weldDiscription = array();
+	$_weldDiscription = array();
+	$welds = array();
+	
+	foreach($data as $_key => $_data){
+		foreach($_data as $__key => $__data){
+			$weld_description = Hash::extract($__data, '{n}[key=description].data');
+			$weld_position = Hash::extract($__data, '{n}[key=position].data');
+			
+			$__data['inter_weld_count_one'] = $_key;
+			
+			if(isset($weld_description[0])){
+				$weld_descriptions[$weld_description[0]][$weld_position[0]] = $__data;
+			}
+		}
+	}
+
+
+	foreach($weld_descriptions_sorting as $_key => $_value){
+		$weld_descriptions_sorting[$_key] = $weld_descriptions[$_key];
+	}
+
+	$weld_descriptions = array();
+	$data = array();
+				
+	foreach($weld_descriptions_sorting as $_key => $_weld_descriptions){
+
+		ksort($_weld_descriptions);
+		$weld_descriptions[$_key] = $_weld_descriptions;
+
+		foreach($_weld_descriptions as $__key => $__weld_descriptions){
+			$inter_weld_count_one = $__weld_descriptions['inter_weld_count_one'];
+			unset($__weld_descriptions['inter_weld_count_one']);
+			$data[$inter_weld_count_one][] = $__weld_descriptions;
+		}
+	}
+        
+        if (Configure::read('SortSheetNumber') == true) {
+            $datasheet = array();
+            foreach ($data as $k_d => $v_d) {
+                foreach($v_d as $_k => $_d) {
+                    $weld_sheet = Hash::extract($_d, '{n}[key=sheet_no].data');
+                   if (!empty($weld_sheet)) {
+                       $datasheet [$weld_sheet[0]][$_k] = $_d;
+                   }
+                   else break;
+                 }
+                 
+            }
+            ksort($datasheet);
+           
+            !empty($datasheet)?$data =array():'';
+             $i= 1;
+            foreach ($datasheet as $dskey => $dsvalue) {
+                $data[$i] = $dsvalue;
+                $i++;
+              
+            }
+        }
+        
+	return $data;
+        
+}

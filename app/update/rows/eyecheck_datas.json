@@ -1,0 +1,20 @@
+[
+  {
+    "modus":"insert",
+    "model":"EyecheckData",
+    "field":"expiration_date",
+    "string":"ALTER TABLE `eyecheck_datas` ADD `expiration_date` DATE NULL DEFAULT NULL;"
+  },
+  {
+    "modus":"insert",
+    "model":"EyecheckData",
+    "field":"recertification_in_year",
+    "string":"ALTER TABLE `eyecheck_datas` CHANGE `recertification_in_year` `recertification_in_year` INT(11) NULL DEFAULT NULL;"
+  },
+  {
+    "modus":"insert",
+    "model":"EyecheckData",
+    "field":"first_registration",
+    "string":"ALTER TABLE `eyecheck_datas` CHANGE `first_registration` `first_registration` DATE NULL DEFAULT NULL;"
+  }
+]

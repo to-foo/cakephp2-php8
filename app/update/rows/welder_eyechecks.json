@@ -1,0 +1,21 @@
+[
+  {
+    "modus":"change",
+    "model":"WelderEyecheck",
+    "field":"recertification_in_year",
+    "string":"ALTER TABLE `welder_eyechecks` CHANGE `recertification_in_year` `recertification_in_year` DECIMAL(11,0) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"change",
+    "model":"WelderEyecheck",
+    "field":"renewal_in_year",
+    "string":"ALTER TABLE `welder_eyechecks` CHANGE `renewal_in_year` `renewal_in_year` DECIMAL(11,0) NOT NULL DEFAULT '0';"
+  },
+  {
+    "modus":"change",
+    "model":"WelderEyecheck",
+    "field":"horizon",
+    "string":"ALTER TABLE `welder_eyechecks` CHANGE `horizon` `horizon` DECIMAL(10,0) NULL DEFAULT '0';"
+  }
+
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "modus":"grant",
+    "aco":"Expeditings/edittemplate",
+    "aro":"1",
+    "action":"*"
+  }
+]

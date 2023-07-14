@@ -1,0 +1,74 @@
+To: torsten.foth@mbq-gmbh.de
+Subject: Dateiimport German Pipe
+From: info@zfp-datenbank.de
+X-Mailer: CakePHP Email
+Date: Tue, 02 Jun 2020 10:06:59 +0200
+Message-ID: <5ed608a3bbbc4f6d8dea941cca2c54d2@TODD>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="3b18f516a25c665df2087fb3df5b233e"
+Content-Transfer-Encoding: 8bit
+
+--3b18f516a25c665df2087fb3df5b233e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Es wurden neue Auftragsdaten bereitgestellt.
+Folgende Dateien werden importiert.
+
+1590748747_0.csv, 1590748750_1.csv, 1590748754_2.csv
+##################################################
+Datei 1590748747_0.csv
+14 Datensätze gefunden
+12 Datensätze eingefügt
+##################################################
+Datei 1590748750_1.csv
+18 Datensätze gefunden
+16 Datensätze eingefügt
+##################################################
+Datei 1590748754_2.csv
+5 Datensätze gefunden
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70077457
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70077573
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70077777
+0 Datensätze eingefügt
+
+This email was sent using the CakePHP Framework, http://cakephp.org.
+
+--3b18f516a25c665df2087fb3df5b233e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+	<title>Emails\html</title>
+</head>
+<body>
+	<p> Es wurden neue Auftragsdaten bereitgestellt.</p>
+<p> Folgende Dateien werden importiert.</p>
+<p> </p>
+<p> 1590748747_0.csv, 1590748750_1.csv, 1590748754_2.csv</p>
+<p> ##################################################</p>
+<p> Datei 1590748747_0.csv</p>
+<p> 14 Datensätze gefunden</p>
+<p> 12 Datensätze eingefügt</p>
+<p> ##################################################</p>
+<p> Datei 1590748750_1.csv</p>
+<p> 18 Datensätze gefunden</p>
+<p> 16 Datensätze eingefügt</p>
+<p> ##################################################</p>
+<p> Datei 1590748754_2.csv</p>
+<p> 5 Datensätze gefunden</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70077457</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70077573</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70077777</p>
+<p> 0 Datensätze eingefügt</p>
+<p> </p>
+
+	<p>This email was sent using the <a href="http://cakephp.org">CakePHP Framework</a></p>
+</body>
+</html>
+
+
+--3b18f516a25c665df2087fb3df5b233e--
+

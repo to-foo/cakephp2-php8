@@ -1,0 +1,160 @@
+<div class="modalarea examiners index inhalt">
+<h2>
+<?php
+echo __('Welder') . ' ' .
+$_data['Welder']['name'] . ' - ' . __('documents',true)
+;
+?>
+</h2>
+<?php echo $this->element('Flash/_messages');?>
+<?php
+$url = $this->Html->url(array_merge(array('controller' => 'examiners', 'action' => 'files'),$this->request->projectvars['VarsArray']));
+echo $this->Form->input('ThisUploadUrl',array('type' => 'hidden','value' => $this->request->here));
+echo $this->Form->input('ThisMaxFileSize',array('type' => 'hidden','value' => (int)(ini_get('upload_max_filesize'))));
+echo $this->Form->input('ThisAcceptedFiles',array('type' => 'hidden','value' => "application/pdf"));
+echo $this->element('form_upload_report',array('writeprotection' => false));
+echo $this->element('js/form_upload_report',array('container' => '#dialog','url' => $url,'FileLabel' => __('Drop files her to upload', true),'Extension' => 'pdf|PDF'));
+
+if(count($_files) == 0){
+	echo '<div class="hint"><p>';
+	echo __('No documents avilable.',true);
+	echo '</p></div>';
+}
+?>
+
+</div>
+<div class="clear"></div>
+		<div class="files">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					<th><?php echo __('File description', true); ?></th>
+					<th><?php echo __('Originally filename', true); ?></th>
+					<th><?php echo __('Uploaded from', true); ?></th>
+					<th><?php echo __('Uploaded time', true); ?></th>
+				</tr>
+				<?php
+				foreach ($_files as $__files):
+					if(isset($__files['Welderfile']['error'])) continue;
+				?>
+				<tr>
+					<td>
+					<span class="for_hasmenu1 weldhead">
+					<?php
+						if(isset($__files['Welderfile']['error'])){
+							echo $__files['Welderfile']['error'];
+						}
+						elseif(isset($__files['Welderfile']['realpath'])){
+							if(empty($__files['Welderfile']['description']))$description = __('No description');
+							else $description = $__files['Welderfile']['description'];
+
+							$this->request->projectvars['VarsArray'][17] = $__files['Welderfile']['id'];
+							echo $this->Html->link($description,
+							array_merge(array('controller' => 'welders','action' => 'getfiles'),$this->request->projectvars['VarsArray']),
+							array(
+								'class'=>'round icon_file filelink hasmenu1',
+								'rev' => implode('/',$this->request->projectvars['VarsArray']),
+								)
+							);
+						}
+
+					unset($this->request->projectvars['VarsArray'][17]);
+					?>
+			        </span>
+					</td>
+					<td>
+        			<span class="discription_mobil">
+					<?php echo __('Originally filename'); ?>:
+					</span>
+					<?php echo h($__files['Welderfile']['originally_filename']);?>
+                    (<?php echo $__files['Welderfile']['file_size'];?>)
+                    </td>
+					<td>
+        			<span class="discription_mobil">
+					<?php echo __('Welder ID'); ?>:
+					</span>
+					<?php echo $__files['Welderfile']['user_id'];?>
+                    </td>
+					<td>
+        			<span class="discription_mobil">
+					<?php echo __('Created'); ?>:
+					</span>
+					<?php echo $__files['Welderfile']['created'];?>
+                    </td>
+				</tr>
+				<?php endforeach; ?>
+			</table>
+			<span class="clear"></span>
+		</div>
+</div>
+<?php
+$url = $this->Html->url(array_merge(array('controller' => 'welders', 'action' => 'files'),$this->request->projectvars['VarsArray']));
+?>
+<?php
+echo $this->element('js/close_modal');
+echo $this->element('js/minimize_modal');
+?>
+
+
+<script type="text/javascript">
+$(function(){
+
+		$(".closemodal").click(function(evt) {
+			$("#dialog").dialog("close");
+
+			evt.stopPropagation();
+			evt.stopImmediatePropagation();
+			evt.preventDefault();
+
+			return false;
+		});
+
+		$("a.mymodal").click(function() {
+
+			if($(this).attr("id") == "closethismodal"){return false;}
+
+			$("#dialog").load($(this).attr("href"), {
+				"ajax_true": 1,
+			})
+			return false;
+		});
+
+		$("span.for_hasmenu1").contextmenu({
+			delegate: ".hasmenu1",
+			autoFocus: true,
+			preventContextMenuForPopup: true,
+			preventSelect: true,
+			taphold: true,
+			menu: [
+				{
+				title: "<?php echo __('Edit file description');?>",
+				cmd: "status",
+				action :	function(event, ui) {
+							$("#dialog").load("welders/welderfilesdescription/" + ui.target.attr("rev"), {
+									"ajax_true": 1
+								});
+							$("#dialog").dialog("open");
+							},
+				uiIcon: "qm_edit",
+				disabled: false
+				},
+				{
+					title: "----"
+				},
+				{
+				title: "<?php echo __('Delete file');?>",
+				cmd: "status",
+				action :	function(event, ui) {
+							$("#dialog").load("welders/delwelderfiles/" + ui.target.attr("rev"), {
+									"ajax_true": 1
+								});
+							$("#dialog").dialog("open");
+							},
+				uiIcon: "qm_delete",
+				disabled: false
+				}
+				],
+
+			select: function(event, ui) {},
+		});
+	});
+</script>

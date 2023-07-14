@@ -1,0 +1,6942 @@
+﻿msgid "Back"
+msgstr "Zurück"
+
+msgid "Invalid dropdown"
+msgstr "Ungültiges Dropdown"
+
+msgid "The dropdown has been saved"
+msgstr "Das Dropdownfeld wurde gespeichert"
+
+msgid "The value has been be saved."
+msgstr "Der Wert wurde gespeichert"
+
+msgid "The dropdown could not be saved. Please, try again."
+msgstr "Das Dropdownfeld konnte nicht gespeichert werden.  Bitte versuchen Sie es erneut."
+
+msgid "Linking"
+msgstr "Verknüpfung"
+
+msgid "For all testingmethods"
+msgstr "Für alle Prüfverfahren"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Error, unlinking fail"
+msgstr "Fehler beim Enfernen der Verknüpfung"
+
+msgid "Delete user"
+msgstr "Benutzer löschen"
+
+msgid "Do you want to delete user"
+msgstr "Soll dieser Benutzer gelöscht werden"
+
+msgid "Invalid evalution"
+msgstr "Ungültige Auswertung"
+
+msgid "Print results"
+msgstr "Ergebnisse drucken"
+
+msgid "The evalution could not be saved. Please, try again."
+msgstr "Die Auswertung konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "The data has been saved"
+msgstr "Die Daten wurde gespeichert"
+
+msgid "The data could not be saved. Please, try again."
+msgstr "Die Daten konnten nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Invalid data"
+msgstr "Ungültige Daten"
+
+msgid "Value was deleted"
+msgstr "Wert wurde gelöscht"
+
+msgid "Evalution was not deleted"
+msgstr "Auswertung konnte nicht gelöscht werden"
+
+msgid "Order"
+msgstr "Equipment"
+
+msgid "KKS"
+msgstr "KKS"
+
+msgid "Invoice"
+msgstr "Aufmaß"
+
+msgid "The testingreport with the following reportnumber was canceled:"
+msgstr "Der Prüfbericht mit folgender Nummer wurde verworfen:"
+
+msgid "The testingreport with the following reportnumber could not be canceled:"
+msgstr "Der Prüfbericht mit der folgenden Nummer konnte nicht verworfen werden:"
+
+msgid "Open settlements"
+msgstr "Offene Abrechnungen"
+
+msgid "Closed settlements"
+msgstr "Geschlossene Abrechnungen"
+
+msgid "Show reports to be settled"
+msgstr "Prüfberichte anzeigen die zur Abrechnung bereit sind"
+
+msgid "Data was deleted"
+msgstr "Daten wurden gelöscht"
+
+msgid "Billing has been recorded."
+msgstr "Rechnung wurde gespeichert"
+
+msgid "Attention, this waiting time has changed."
+msgstr "Achtung - Die Wartezeit hat sich geandert."
+
+msgid "Waiting times"
+msgstr "Wartezeiten"
+
+msgid "Invalid language"
+msgstr "Ungültige Sprache"
+
+msgid "The language was saved"
+msgstr "Die Sprache wurde gespeichert"
+
+msgid "The language could not be saved. Please, try again."
+msgstr "Die Sprache konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Language was deleted"
+msgstr "Die Sprache wurde gelöscht"
+
+msgid "Language was not deleted"
+msgstr "Die Sprache wurde nicht gelöscht"
+
+msgid "Show closed orders"
+msgstr "Zeige geschlossene Aufträge"
+
+msgid "Show open orders"
+msgstr "Zeige offene Aufträge"
+
+msgid "Revision"
+msgstr "Revision"
+
+msgid "Revision History"
+msgstr "Revisionsverlauf"
+
+msgid "Number of Revisions"
+msgstr "Anzahl der Revisionen"
+
+msgid "added weld"
+msgstr "hinzugefügte Naht"
+
+msgid "edited weld"
+msgstr "bearbeitete Naht"
+
+msgid "duplicated weld"
+msgstr "duplizierte Naht"
+
+msgid "deleted weld"
+msgstr "gelöschte Naht"
+
+msgid "added File"
+msgstr "hinzugefügte Datei"
+
+msgid "file description changed"
+msgstr "Dateibeschreibung geändert"
+
+msgid "Last Value"
+msgstr "vorheriger Wert"
+
+msgid "New Value"
+msgstr "neuer Wert"
+
+msgid "Ongoing process"
+msgstr "Laufender Betrieb"
+
+msgid "The order has been locked."
+msgstr "Das Equipment wurde gesperrt"
+
+msgid "The order has been reopened."
+msgstr "Das Equipment wurde wieder geöffnet"
+
+msgid "The order could not be locked."
+msgstr "Das Equipment konnte nicht abgeschlossen werden."
+
+msgid "Please enter the searched report`s running number"
+msgstr "Bitte geben Sie die laufende Nummer des gesuchten Prüfberichts ein"
+
+msgid "Invalid order"
+msgstr "Ungültiges Equipment"
+
+msgid "View Order"
+msgstr "Equipment anzeigen"
+
+msgid "Error message"
+msgstr "Fehlermeldung"
+
+msgid "The uploaded file could not be processed to the end, the schema of the file is incorrect. Please check the file."
+msgstr "Die hochgeladene Datei konnte nicht verarbeitet werden, das Schema der Datei ist nicht korrekt. Bitte überprüfen Sie die Datei."
+
+msgid "The following fields could not be inserted."
+msgstr "Die folgenden Werte konnten nicht eingefügt werden."
+
+msgid "The new order has been saved"
+msgstr "Das neu angelegte Equipment wurde gespeichert"
+
+msgid "The new order could not be saved. Please, try again."
+msgstr "Es konnte kein neues Equipment angelegt werden. Bitte versuchen Sie es erneut"
+
+msgid "The order has been saved"
+msgstr "Das Equipment wurde gespeichert"
+
+msgid "The order could not be saved. Please, try again."
+msgstr "Das Equipment konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Create order"
+msgstr "Aufträge anzeigen"
+
+msgid "Edit"
+msgstr "Bearbeiten "
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "Order was deleted"
+msgstr "Das Equipment wurde gelöscht"
+
+msgid "Order was not deleted"
+msgstr "Das Equipment konnte nicht gelöscht werden"
+
+msgid "Invalid qualification"
+msgstr "Ungültige Qualifikation"
+
+msgid "The qualification was saved"
+msgstr "Die Qualifikation wurde gespeichert"
+
+msgid "The qualification could not be saved. Please, try again."
+msgstr "Die Qualifikation konnte nicht gespeichert werden. Bitte veruschen Sie es erneut."
+
+msgid "The qualification was deleted"
+msgstr "Die Qualifikation wurde gelöscht"
+
+msgid "Qualification was deleted"
+msgstr "Die Qualifikation wurde gelöscht"
+
+msgid "Qualification was not deleted"
+msgstr "Die Qualifikation konnte nicht gelöscht werden"
+
+msgid "Sorry, no results."
+msgstr "Es wurden keine Ergebnisse gefunden"
+
+msgid "Create"
+msgstr "Erstelle "
+
+msgid "Show"
+msgstr "Zeige"
+
+msgid "Please select a report type in the project settings."
+msgstr "Bitte wählen Sie eine Prüfberichtsmappe in den Projekteinstellungen aus."
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+msgid "Searching"
+msgstr "Suche"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Search report"
+msgstr "Prüfberichtssuche"
+
+msgid "Dropdowns"
+msgstr "Dropdownfelder"
+
+msgid "Invalid reportnumber"
+msgstr "Ungültige Prüfberichtsnummer"
+
+msgid "Show report no."
+msgstr "Zeige Prüfbericht Nr."
+
+msgid "The report has been saved"
+msgstr "Der Prüfbericht wurde gespeichert"
+
+msgid "The report could not be saved. Please, try again."
+msgstr "Der Prüfbericht konnte nicht gespeichert werden"
+
+msgid "Edit report no."
+msgstr "Bearbeite Prüfbericht Nr."
+
+msgid "The new report has been saved."
+msgstr "Der neue Prüfbericht wurde gespeichert"
+
+msgid "Edit evalution"
+msgstr "Auswertung bearbeiten"
+
+msgid "The report was closed."
+msgstr "Der Prüfbericht wurde geschlossen"
+
+msgid "Copy"
+msgstr "Kopie"
+
+msgid "The evalution area has been duplicated"
+msgstr "Der Auswertungsbereich wurde dupliziert"
+
+msgid "Images report no."
+msgstr "Bilder aus Prüfbericht Nr."
+
+msgid "Discription was saved"
+msgstr "Die Beschreibung wurde gespeichert"
+
+msgid "Discription was not saved"
+msgstr "Die Beschreibung konnte nicht gespeichert werden"
+
+msgid "Image was deleted"
+msgstr "Das Bild wurde gelöscht"
+
+msgid "Image was not deleted"
+msgstr "Das Bild konnte nicht gelöscht werden."
+
+msgid "Image does not exist"
+msgstr "Das Bild konnte nicht gefunden werden"
+
+msgid "Files report no."
+msgstr "Dateien aus Prüfbericht Nr."
+
+msgid "File was deleted"
+msgstr "Die Datei wurde gelöscht"
+
+msgid "File was not deleted"
+msgstr "Die Datei konnte nicht gelöscht werden."
+
+msgid "File does not exist"
+msgstr "Die Datei konnte nicht gefunden werden."
+
+msgid "Report was closed"
+msgstr "Der Prüfbericht wurde geschlossen"
+
+msgid "State could not be changed"
+msgstr "Der Status konnte nicht geändert werden."
+
+msgid "Close this report"
+msgstr "Diesen Prüfbericht schließen"
+
+msgid "request supervision release"
+msgstr "Freigabe Prüfaufsicht erteilen"
+
+msgid "revoke supervision release request"
+msgstr "Freigabe Prüfaufsicht zurückziehen"
+
+msgid "Report was re-opened."
+msgstr "Der Prüfbericht wurde wieder geöffnet"
+
+msgid "Report deleted"
+msgstr "Der Prüfbericht wurde gelöscht"
+
+msgid "Report was not deleted"
+msgstr "Der Prüfbericht konnte nicht gelöscht werden"
+
+msgid "Evalution area deleted"
+msgstr "Dei Auswertung wurde gelöscht"
+
+msgid "Welding areas were created"
+msgstr "Schweißbereiche wurden erstellt"
+
+msgid "Invalid report"
+msgstr "Ungültiger Prüfbericht"
+
+msgid "Invalid roll"
+msgstr "Ungültige Rolle"
+
+msgid "Roll was saved"
+msgstr "Die Rolle wurde gespeichert"
+
+msgid "Roll could not be saved. Please, try again."
+msgstr "Die Rolle konnte nicht gespeichert werden. Bitte veruschen Sie es erneut."
+
+msgid "Roll was deleted"
+msgstr "Die Rolle wurde gelöscht"
+
+msgid "Roll was not deleted"
+msgstr "Die Rolle konnte nicht gelöscht werden"
+
+msgid "Special character was saved"
+msgstr "Das Sonderzeichen wurde gespeichert"
+
+msgid "Special character could not be saved. Please, try again."
+msgstr "Das Sonderzeichen konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "The Specialcharacter has been saved"
+msgstr "Das Sonderzeichen wurde gespeichert"
+
+msgid "The Specialcharacter could not be saved. Please, try again."
+msgstr "Das Sonderzeichen konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Invalid testingcomp"
+msgstr "Ungültiges Prüfunternehmen"
+
+msgid "Testingcomp was saved"
+msgstr "Prüfunternehmen wurde gespeichert"
+
+msgid "Testingcomp could not be saved. Please, try again."
+msgstr "Das Prüfunternehmen konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Testingcomp was deleted"
+msgstr "Das Prüfunternehmen wurde gelöscht"
+
+msgid "Testingcomp was not deleted"
+msgstr "Das Prüfunternehmen konnte nicht gelöscht werden"
+
+msgid "has no testingmethod"
+msgstr " hat keine Prüfverfahren"
+
+msgid "Invalid testingmethod"
+msgstr "Ungültiges Prüfverfahren"
+
+msgid "Testingmethod was saved"
+msgstr "Das Prüfverfahren wurde gespeichert"
+
+msgid "Testingmethod could not be saved. Please, try again."
+msgstr "Das Prüfverfahren konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Testingmethod was deleted"
+msgstr "Das Prüfverfahren wurde gelöscht"
+
+msgid "Testingmethod was not deleted"
+msgstr "Das Prüfverfahren konnte nicht gelöscht werden"
+
+msgid "Invalid topproject"
+msgstr "Ungültiges Projekt"
+
+msgid "Topproject was saved"
+msgstr "Projekt wurde gespeichert"
+
+msgid "Topproject could not be saved. Please, try again."
+msgstr "Das Projekt konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Topproject was deleted"
+msgstr "Das Projekt wurde gelöscht"
+
+msgid "Topproject was not deleted"
+msgstr "Das Projekt konnte nicht gelöscht werden"
+
+msgid "Invalid username or password, try again"
+msgstr "Ungültige Kombination aus Benutzername und Passwort. Bitte versuchen Sie es erneut"
+
+msgid "No rights for this project."
+msgstr "Keine Berechtigung für den Zugriff auf dieses Projekt"
+
+msgid "Invalid user"
+msgstr "Ungültiger Benutzer"
+
+msgid "User was saved"
+msgstr "Benutzer wurde gespeichert"
+
+msgid "User could not be saved. Please, try again."
+msgstr "Der Benutzer konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "This user can not be deleted"
+msgstr "Dieser Benutzer kann nicht gelöscht werden. Sind Sie dieser Benutzer ?"
+
+msgid "User was deleted"
+msgstr "Der Benutzer wurde gelöscht"
+
+msgid "Invalid user or password!"
+msgstr "Ungültiger Benutzer oder falsches Passwort"
+
+msgid "Sorry, not enough permission!"
+msgstr "Keine Berechtigung für den Zugriff"
+
+msgid "No rights for this function"
+msgstr "Keine Berechtigung für den Zugriff auf diese Funktion"
+
+msgid "You were logged out due inactivity"
+msgstr "Sie wurden wegen zu langer Untatigkeit ausgeloggt"
+
+msgid "This report is not yours or you are logged out."
+msgstr "Dieser Prüfbericht gehört nicht Ihnen. Wurden Sie wegen Untatigkeit ausgeloggt ?"
+
+msgid "Show stated reports"
+msgstr "Zeige abgerechnete Prüfberichte"
+
+msgid "No statable reports found - only closed reports can be stated. Only additional services can be added."
+msgstr "Keine abrechennbaren Prüfberichte gefunden - nur geschlossene Prüfberichte können abgerechnet werden. Sie können nur weitere Dienste hinzufügen."
+
+msgid "Following reports were removed due missing data"
+msgstr "Die folgenden Prüfberichte wurden wegen fehlender Daten entfernt"
+
+msgid "radiation source missing"
+msgstr "Es wurde keine Strahlungsquelle angegeben"
+
+msgid "dimensions missing"
+msgstr "Es wurden keine Abmessungen angegeben"
+
+msgid "exposure arrangement missing"
+msgstr "Es wurde keine Aufnahmeanordnung angegeben"
+
+msgid "Data was saved"
+msgstr "Die Daten wurden gelöscht"
+
+msgid "Complete settlement"
+msgstr "Abrechnung abschließen"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "End"
+msgstr "Ende"
+
+msgid "Back to Dropdown Boxes"
+msgstr "Zurück zu den Dropdownfeldern"
+
+msgid "Create order manually"
+msgstr "Equipment manuell erstellen"
+
+msgid "Back to list"
+msgstr "Zurück zur Liste"
+
+msgid "Delete this"
+msgstr "Löschen"
+
+msgid "Projects"
+msgstr "Projekte"
+
+msgid "Reports"
+msgstr "Prüfberichtsmappen"
+
+msgid "Testingcompanies"
+msgstr "Prüfunternehmen"
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "Qualifications"
+msgstr "Qualifikationen"
+
+msgid "Testingmethods"
+msgstr "Prüfverfahren"
+
+msgid "List projects"
+msgstr "Projekte auflisten"
+
+msgid "Show this project"
+msgstr "Projekt anzeigen"
+
+msgid "New project"
+msgstr "Projekt erstellen"
+
+msgid "Edit this project"
+msgstr "Projekt bearbeiten"
+
+msgid "Delete this project"
+msgstr "Projekt löschen"
+
+msgid "List reports"
+msgstr "Prüfberichte anzeigen"
+
+msgid "Show this report"
+msgstr "Prüfbericht anzeigen"
+
+msgid "New report"
+msgstr "Prüfbericht erstellen"
+
+msgid "Edit this report"
+msgstr "Prüfbericht bearbeiten"
+
+msgid "Delete this report"
+msgstr "Prüfbericht löschen"
+
+msgid "List testingcompanies"
+msgstr "Prüfunternehmen auflisten"
+
+msgid "Show this testingcompany"
+msgstr "Prüfunternehmen anzeigen"
+
+msgid "New testingcompany"
+msgstr "Prüfunternehmen erstellen"
+
+msgid "Edit this testingcompany"
+msgstr "Prüfunternehmen bearbeiten"
+
+msgid "Delete this testingcompany"
+msgstr "Prüfunternehmen löschen"
+
+msgid "List users"
+msgstr "Benutzer auflisten"
+
+msgid "Show this user"
+msgstr "Benutzer anzeigen"
+
+msgid "New user"
+msgstr "Benutzer erstellen"
+
+msgid "Edit this user"
+msgstr "Benutzer bearbeiten"
+
+msgid "Delete this user"
+msgstr "Benutzer löschen"
+
+msgid "List qualifications"
+msgstr "Qualifikationen auflisten"
+
+msgid "Show this qualification"
+msgstr "Qualifikation anzeigen"
+
+msgid "New qualification"
+msgstr "Qualifikation erstellen"
+
+msgid "Edit this qualification"
+msgstr "Qualifikation bearbeiten"
+
+msgid "Delete this qualification"
+msgstr "Qualifikation löschen"
+
+msgid "List testingmethods"
+msgstr "Prüfverfahren auflisten"
+
+msgid "Show this testingmethod"
+msgstr "Prüfverfahren anzeigen"
+
+msgid "New testingmethod"
+msgstr "Prüfverfahren erstellen"
+
+msgid "Edit this testingmethod"
+msgstr "Prüfverfahren bearbeiten"
+
+msgid "Delete this testingmethod"
+msgstr "Prüfverfahren löschen"
+
+msgid "open"
+msgstr "geöffnet"
+
+msgid "closed"
+msgstr "geschlossen"
+
+msgid "settled"
+msgstr "geprüft"
+
+msgid "The uploaded file could not be processed, the scheme of the file is incorrect. Check the file and try again."
+msgstr "Die hochgeladene Datei konnte nicht verarbeitet werden, weil das Dateischema ungültig ist. Bitte prüfen Sie die Datei und versuchen Sie es erneut."
+
+msgid "Successfully uploaded"
+msgstr "Datei erfolgreich hochgeladen"
+
+msgid "Please select a project"
+msgstr "Bitte wahlen Sie ein Projekt aus"
+
+msgid "Please select a testingmethod"
+msgstr "Bitte wahlen Sie ein Prüfverfahren aus"
+
+msgid "Please enter a name"
+msgstr "Bitte geben Sie einen Namen an"
+
+msgid "Please enter an identification"
+msgstr "Bitte geben Sie eine Identifikation an"
+
+msgid "Please enter a discription"
+msgstr "Bitte geben Sie eine Beschreibung an"
+
+msgid "Please select a testingcompany"
+msgstr "Bitte geben Sie ein Prüfunternehmen an"
+
+msgid "Passwords do not match"
+msgstr "Die Passwörter stimmen nicht überein"
+
+msgid "You must submit a password"
+msgstr "Sie müssen ein Passwort angeben"
+
+msgid "Report"
+msgstr "Prüfbericht"
+
+msgid "examiner no. Wacker"
+msgstr "Prüfer-Nr. Wacker"
+
+msgid "Page"
+msgstr "Seite"
+
+msgid "of"
+msgstr "von"
+
+msgid "no"
+msgstr "nein"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "-"
+msgstr "-"
+
+msgid "Rate of film consumption"
+msgstr "Filmverbrauch"
+
+msgid "Films"
+msgstr "Filme"
+
+msgid "Add Dropdown"
+msgstr "Dropdownfeld hinzufügen"
+
+msgid "Submit"
+msgstr "Speichern"
+
+msgid "List Dropdowns"
+msgstr "Dropdownfelder auflisten"
+
+msgid "List Testingcomps"
+msgstr "Prüfunternehmen auflisten"
+
+msgid "New Testingcomp"
+msgstr "Prüfunternehmen erstellen"
+
+msgid "erstellen"
+msgstr "erstellen"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "previous"
+msgstr "vorherige"
+
+msgid "next"
+msgstr "nachste"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Seite {:page} von {:pages}, Zeige {:current} Eintrage von insgesamt {:count}, beginnend bei Eintrag {:start} bis {:end}"
+
+msgid "Edit Dropdown"
+msgstr "Dropdownfeld bearbeiten"
+
+msgid "Discription"
+msgstr "Beschreibung"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Sind Sie sicher, dass sie # %s löschen wollen ?"
+
+msgid "Testingcompany"
+msgstr "Prüfunternehmen"
+
+msgid "Edit dropdown settings"
+msgstr "Dropdowneinstellungen bearbeiten"
+
+msgid "Edit dropdown content"
+msgstr "Dropdowninhalt bearbeiten"
+
+msgid "New Dropdown"
+msgstr "Dropdownfeld erstellen"
+
+msgid "Entries in this downdown are available due link with another dropdown"
+msgstr "Die verfügbaren Eintrage in diesem Dropdownfeld stammen aus einem anderen Dropdownfeld"
+
+msgid "remove link"
+msgstr "Verknüpfung aufheben"
+
+msgid "link with another dropdown"
+msgstr "Dropdown verknüpfen"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Value (optional)"
+msgstr "Wert (optional)"
+
+msgid "modified"
+msgstr "bearbeitet"
+
+msgid "Please select the dropdown for transfering values to the chosen dropdown"
+msgstr "Bitte wahlen Sie das Dropdownfeld, dessen Werte in das gewahlte Dropdownfeld übertragen werden sollen"
+
+msgid "transfer the values to the chosen dropdown"
+msgstr "Die Werte in das gewahlte Dropdownfeld übertragen"
+
+msgid "Transfer values below to the current dropdown"
+msgstr "Die unten folgenden Werte in das gewählte Dropdownfeld übertragen"
+
+msgid "Link this values with dropdown"
+msgstr "Die Werte mit dem Dropdownfeld verknüpfen"
+
+msgid "Dropdown"
+msgstr "Dropdownfeld"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "Wert"
+msgstr "Wert"
+
+msgid "Edit dropdown"
+msgstr "Dropdownfeld bearbeiten"
+
+msgid "Delete dropdown"
+msgstr "Dropdownfeld löschen"
+
+msgid "List dropdowns"
+msgstr "Dropdownfelder auflisten"
+
+msgid "New dropdown"
+msgstr "Dropdownfeld erstellen"
+
+msgid "List testingcomps"
+msgstr "Prüfunternehmen auflisten"
+
+msgid "New testingcomp"
+msgstr "Prüfunternehmen anlegen"
+
+msgid "Related testingcomps"
+msgstr "Verbundene Prüfunternehmen"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Roll Id"
+msgstr "Rollen ID"
+
+msgid "Logopath"
+msgstr "Logopfad"
+
+msgid "Company name"
+msgstr "Unternehmensname"
+
+msgid "Company name addition"
+msgstr "Unternehmenszusatz"
+
+msgid "Street"
+msgstr "Straße"
+
+msgid "Postcode"
+msgstr "Plz"
+
+msgid "City"
+msgstr "Ort"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Fax"
+msgstr "Telefax"
+
+msgid "Internet"
+msgstr "Internetadresse"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "View"
+msgstr "Anzeigen"
+
+msgid "Edit order"
+msgstr "Equipment bearbeiten"
+
+msgid "Warning, this function may not be reversed!"
+msgstr "Achtung: Diese Funktion kann nicht rückgangig gemacht werden."
+
+msgid "Are you sure you want to duplicate this Report?"
+msgstr "Sind Sie sicher, dass Sie den Prüfbericht kopieren wollen ?"
+
+msgid "Are you sure you want to duplicate this Evalution Area?"
+msgstr "Sind Sie sicher, dass Sie den Auswertungsbereich kopieren wollen ?"
+
+msgid "Are you sure you want to delete this Report?"
+msgstr "Sind Sie sicher, dass Sie den Prüfbericht löschen wollen ?"
+
+msgid "Are you sure you want to delete this Order?"
+msgstr "Sind Sie sicher, dass Sie das Equipment löschen wollen ?"
+
+msgid "Are you sure you want to delete this Evalution Area?"
+msgstr "Sind Sie sicher, dass Sie den Auswertgsbereich löschen wollen ?"
+
+msgid "Are you sure you want to delete this entry?"
+msgstr "Sind Sie sicher, dass Sie den Eintrag löschen wollen ?"
+
+msgid "Are you sure you want to delete this file?"
+msgstr "Sind Sie sicher, dass Sie die Datei löschen wollen ?"
+
+msgid "order no."
+msgstr "Equipments-Nr."
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "kks no."
+msgstr "KKS Nr."
+
+msgid "Reportnumber"
+msgstr "Prüfberichtsnummer"
+
+msgid "report no."
+msgstr "Prüfbericht Nr."
+
+msgid "Reopen this Report"
+msgstr "Prüfbericht wieder öffnen"
+
+msgid "View this report"
+msgstr "Prüfbericht anzeigen"
+
+msgid "Duplicate this report"
+msgstr "Prüfbericht kopieren"
+
+msgid "Print this report"
+msgstr "Prüfbericht drucken"
+
+msgid "Show images"
+msgstr "Bilder anzeigen"
+
+msgid "Show files"
+msgstr "Dateien anzeigen und/oder speichern"
+
+msgid "Show report history"
+msgstr "Änderungsübersicht des Prüfberichts anzeigen"
+
+msgid "Show history"
+msgstr "Verlauf anzeigen"
+
+msgid "Print this waiting report"
+msgstr "Wartebericht drucken"
+
+msgid "closed by examiner"
+msgstr "Vom Prüfer freigegeben"
+
+msgid "closed by supervisor"
+msgstr "Von Prüfaufsicht freigegeben"
+
+msgid "Testingmethod"
+msgstr "Prüfverfahren"
+
+msgid "Created"
+msgstr "Erstellt"
+
+msgid "Modified"
+msgstr "Bearbeitet"
+
+msgid "Duplicate"
+msgstr "Kopieren"
+
+msgid "duplicat"
+msgstr "duplizieren"
+
+msgid "add"
+msgstr "hinzufügen"
+
+msgid "Add dropdown"
+msgstr "Dropdownfeld erstellen"
+
+msgid "Edit general infos"
+msgstr "Allgemeine Angaben bearbeiten"
+
+msgid "choose one"
+msgstr "bitte auswählen"
+
+msgid "Source"
+msgstr "Quelle"
+
+msgid "Dimension"
+msgstr "Abmessung"
+
+msgid "Picture-No."
+msgstr "Bild Nr."
+
+msgid "Invoices"
+msgstr "Abrechnungen"
+
+msgid "Report no."
+msgstr "Prüfbericht Nr."
+
+msgid "Date of test"
+msgstr "Prüfdatum"
+
+msgid "Waiting time beginning"
+msgstr "Beginn der Wartezeit"
+
+msgid "Waiting time ending"
+msgstr "Ende der Wartezeit"
+
+msgid "Waiting time (h)"
+msgstr "Wartezeit (h)"
+
+msgid "Justification of the waiting time"
+msgstr "Anpassung der Wartezeit"
+
+msgid "Aktive"
+msgstr "Aktiv"
+
+msgid "This waiting time collides with the waiting time of the following inspection reports"
+msgstr "Diese Wartezeit überschneidet sich mit der Wartezeit des folgenden Prüfberichts"
+
+msgid "Testing team"
+msgstr "Prüftrupp"
+
+msgid "Begin of test"
+msgstr "Anfangszeitpunkt der Prüfung"
+
+msgid "End of test"
+msgstr "Endzeitpunkt der Prüfung"
+
+msgid "Duration of Test"
+msgstr "Dauer der Prüfung"
+
+msgid "No. of welds"
+msgstr "Anzahl der Schweißnahte"
+
+msgid "thereof NE-welds"
+msgstr "davon NE-Schweißnahte"
+
+msgid "Aktivate/Deactivate"
+msgstr "Aktivieren/Deaktivieren"
+
+msgid "Cancel"
+msgstr "Abbruch"
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "Overview Testing areas / Welds"
+msgstr "Übersicht der Prüfbereiche / Schweißnähte"
+
+msgid "Hide"
+msgstr "Verstecken"
+
+msgid "Amount"
+msgstr "Anzahl"
+
+msgid "Dimensions"
+msgstr "Abmessungen"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Unit price"
+msgstr "Einzelpreis"
+
+msgid "Total price"
+msgstr "Gesamtpreis"
+
+msgid "Overview additional services"
+msgstr "Übersicht weitere Leistungen"
+
+msgid "New additional part"
+msgstr "Weitere Leistung erstellen"
+
+msgid "Please select"
+msgstr "Bitte auswählen"
+
+msgid "Save Billing"
+msgstr "Abrechnung speichern"
+
+msgid "With this action the report is stated \\\"
+msgstr "Mit dieser Aktion wird der Prüfbericht auf folgenden Status gesetzt \\\"
+
+msgid "Please enter all values"
+msgstr "Bitte geben Sie alle Werte ein"
+
+msgid "Overview order details"
+msgstr "Übersicht Details"
+
+msgid "Duration of test"
+msgstr "Prüfdauer"
+
+msgid "Modification time"
+msgstr "Letzte Änderung"
+
+msgid "Editor"
+msgstr "Bearbeiter"
+
+msgid "Creation time"
+msgstr "Erstellung"
+
+msgid "Overview addiitional services"
+msgstr "Überblick weitere Leistungen"
+
+msgid "Examiner"
+msgstr "Prüfer"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Create new additional service"
+msgstr "Weitere Leistung anlegen"
+
+msgid "Show invoice parts"
+msgstr "Teilabrechnungen anzeigen"
+
+msgid "Print invoice"
+msgstr "Abrechnung drucken"
+
+msgid "Invoice of other Testingmethods"
+msgstr "Abrechnungen anderer Prüfverfahren anzeigen"
+
+msgid "Radiation source"
+msgstr "Strahlungsquelle"
+
+msgid "Films 10x24"
+msgstr "Filme 10x24"
+
+msgid "Films 10x48"
+msgstr "Filme 10x48"
+
+msgid "Welds are ready for invocation. Invocation can be saved when all welds are ready."
+msgstr "Die Schweißnaht ist fertig zur Berechnung. Eine Berechnung kann erst gespeichert werden, wenn alle Schweißnähte fertig sind"
+
+msgid "For invocation radiation source, image no. and dimensions must be entered into report."
+msgstr "Für die Abrechnung müssen Strahlenquelle, Bild-Nr. und Abmessungen in den Prüfbericht eingegeben werden"
+
+msgid "welds are ready for invocation."
+msgstr "Schweißnähte sind fertig zur Abrechnung"
+
+msgid "Image-No."
+msgstr "Bild-Nr."
+
+msgid "Save billing"
+msgstr "Abrechnung speichern"
+
+msgid "deactivate"
+msgstr "deaktivieren"
+
+msgid "Show invocation parts"
+msgstr "Teilabrechnungen anzeigen"
+
+msgid "print invocation"
+msgstr "Abrechnung drucken"
+
+msgid "Invocation of other testing methods"
+msgstr "Abrechnungen anderer Prüfverfahren anzeigen"
+
+msgid "Export in Excel-Format"
+msgstr "Als Excel-Datei exportieren"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Add language"
+msgstr "Sprache hinzufügen"
+
+msgid "List languages"
+msgstr "Sprachen auflisten"
+
+msgid "Edit language"
+msgstr "Sprache bearbeiten"
+
+msgid "Languages"
+msgstr "Sprachen"
+
+msgid "New language"
+msgstr "Sprache erstellen"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Locale"
+msgstr "Kurzbezeichnung"
+
+msgid "Delete language"
+msgstr "Sprache löschen"
+
+msgid "Logout"
+msgstr "Ausloggen"
+
+msgid "Sorry, this Application will run only with JavaScript, please activate JavaScript in your browser, and try again."
+msgstr "Ihr Browser hat kein Javascript aktiviert. Um diese Anwendung benutzen zu können, müssen Sie Javascript aktivieren und die Seite neu laden."
+
+msgid "Add Order"
+msgstr "Equipment hinzufügen"
+
+msgid "Orders"
+msgstr "Aufträge"
+
+msgid "Overview KKS-No."
+msgstr "Übersicht KKS-Nummern"
+
+msgid "Overview measure points"
+msgstr "Übersicht Messpunkte"
+
+msgid "measure points"
+msgstr "Messpunkte"
+
+msgid "If you change the state, it can not be reversed."
+msgstr "Wenn Sie den Status andern, kann dies nicht rückgangig gemacht werden."
+
+msgid "State"
+msgstr "Status"
+
+msgid "KKS-No."
+msgstr "KKS-Nr."
+
+msgid "Measure points"
+msgstr "Messpunkte"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "If you change the state, this can not be reversed."
+msgstr "Die Änderung des Status kann nicht rückgängig gemacht werden."
+
+msgid "There is no report matching the entered parameters."
+msgstr "Es gibt keinen passenden Prüfbericht zu Ihren Angaben"
+
+msgid "Testing areas"
+msgstr "Prüfbereiche"
+
+msgid "Open the newly created order"
+msgstr "Das neuen Equipment öffnen"
+
+msgid "Testing method"
+msgstr "Prüfverfahren"
+
+msgid "Filmposition"
+msgstr "Filmposition"
+
+msgid "Last modified"
+msgstr "Letzte Änderung"
+
+msgid "Show report"
+msgstr "Prüfbericht anzeigen"
+
+msgid "Search order"
+msgstr "Equipment suchen"
+
+msgid "Order No."
+msgstr "Equipments-Nr."
+
+msgid "Add qualification"
+msgstr "Qualifikation hinzufügen"
+
+msgid "Edit qualification"
+msgstr "Qualifikation bearbeiten"
+
+msgid "Delete qualification"
+msgstr "Qualifikation löschen"
+
+msgid "Really delete this qualification?"
+msgstr "Wollen Sie diese Qualifikation wirklich löschen ?"
+
+msgid "Edit Qualification"
+msgstr "Qualifikation bearbeiten"
+
+msgid "Qualification"
+msgstr "Qualifikation"
+
+msgid "Examiner-id"
+msgstr "Prüfer-ID"
+
+msgid "Certification-number"
+msgstr "Zertifizierungs-Nr."
+
+msgid "Level"
+msgstr "Level"
+
+msgid "Timeperiod"
+msgstr "Periode"
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "Testingcomp"
+msgstr "Prüfunternehmen"
+
+msgid "Supervisors"
+msgstr "Prüfaufsicht"
+
+msgid "Assign report"
+msgstr "Prüfbericht zuordnen"
+
+msgid "New Evaluation Area"
+msgstr "Neuer Auswertungsbereich"
+
+msgid "Evaluation Area"
+msgstr "Auswertungsbereich"
+
+msgid "Naht-Assistent"
+msgstr "Naht-Assistent"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Duplicate"
+msgstr "Kopieren"
+
+msgid "Fileupload"
+msgstr "Datei hochladen"
+
+msgid "Filename"
+msgstr "Dateiname"
+
+msgid "Uploaded from"
+msgstr "Hochgeladen von"
+
+msgid "Uploaded time"
+msgstr "Hochgeladen am"
+
+msgid "History"
+msgstr "Änderungsverfolgung"
+
+msgid "Date/Time"
+msgstr "Datum/Uhrzeit"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Edit discription"
+msgstr "Beschreibung bearbeiten"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "delete image"
+msgstr "Bild löschen"
+
+msgid "Are you sure you want to delete this image?"
+msgstr "Sind Sie sicher, dass Sie das Bild löschen wollen ?"
+
+msgid "Imageupload"
+msgstr "Bild hochladen"
+
+msgid "Assign Report"
+msgstr "Prüfbereich zuweisen"
+
+msgid "Last edited"
+msgstr "letzte Änderung"
+
+msgid "Evaluation"
+msgstr "Auswertung"
+
+msgid "Search reports"
+msgstr "Prüfberichte suchen"
+
+msgid "Show matching reports"
+msgstr "Gefundene Prüfberichte anzeigen"
+
+msgid "There are no reports matching your search"
+msgstr "Es gibt keinen passenden Prüfbericht zu Ihren Angaben"
+
+msgid "There are no reports from your testing company."
+msgstr "Ihr Prüfunternehmen hat noch keine Prüfberichte"
+
+msgid "What do you want to do ?"
+msgstr "Was wollen Sie tun ?"
+
+msgid "Report Penetration Generallies"
+msgstr "Objektdaten"
+
+msgid "Report Penetration Specifics"
+msgstr "Prüftechnische Daten"
+
+msgid "Report Penetration Evaluations"
+msgstr "Prüfergebnis"
+
+msgid "Weld assistent"
+msgstr "Schweißnaht-Assistent"
+
+msgid "Add report"
+msgstr "Prüfberichtsmappe hinzufügen"
+
+msgid "Edit report"
+msgstr "Prüfberichtsmappe bearbeiten"
+
+msgid "Project name"
+msgstr "Projektname"
+
+msgid "Identification"
+msgstr "Identifikation"
+
+msgid "Project discription"
+msgstr "Projektbeschreibung"
+
+msgid "Related testingmethods"
+msgstr "Zugeordnete Prüfverfahren"
+
+msgid "Add roll"
+msgstr "Rollen hinzufügen"
+
+msgid "List rolls"
+msgstr "Rollen auflisten"
+
+msgid "Edit roll"
+msgstr "Rolle bearbeiten"
+
+msgid "Rolls"
+msgstr "Rollen"
+
+msgid "New roll"
+msgstr "Rolle erstellen"
+
+msgid "Roll"
+msgstr "Rolle"
+
+msgid "Delete roll"
+msgstr "Rolle löschen"
+
+msgid "Related users"
+msgstr "Zugeordnete Benutzer"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Lastlogin"
+msgstr "letzter Login"
+
+msgid "Enabled"
+msgstr "Aktiv"
+
+msgid "Roll id"
+msgstr "Rollen ID"
+
+msgid "Testingcomp id"
+msgstr "Prüfunternehmen ID"
+
+msgid "Add specialcharacter"
+msgstr "Sonderzeichen hinzufügen"
+
+msgid "Edit specialcharacter"
+msgstr "Sonderzeichen bearbeiten"
+
+msgid "Double click to enter this specialcharacter"
+msgstr "Doppelklick, um ein Sonderzeichen einzufügen"
+
+msgid "Edit specialcharacters"
+msgstr "Sonderzeichen bearbeiten"
+
+msgid "Add testingcomp"
+msgstr "Prüfunternehmen hinzufügen"
+
+msgid "Edit testingcomp"
+msgstr "Prüfunternehmen bearbeiten"
+
+msgid "Testingcomps"
+msgstr "Prüfunternehmen"
+
+msgid "Testingcomp Id"
+msgstr "Prüfunternehmen ID"
+
+msgid "Related topprojects"
+msgstr "Zugeordnete Prüfunternehmen"
+
+msgid "Add testingmethod"
+msgstr "Prüfverfahren hinzufügen"
+
+msgid "Edit testingmethod"
+msgstr "Prüfverfahren bearbeiten"
+
+msgid "Create report"
+msgstr "Prüfbericht erstellen"
+
+msgid "Related qualifications"
+msgstr "Zugeordnete Qualifikationen"
+
+msgid "Add topproject"
+msgstr "Projekt hinzufügen"
+
+msgid "Edit topproject"
+msgstr "Projekt bearbeiten"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Topproject"
+msgstr "Projekt"
+
+msgid "Related Reports"
+msgstr "Zugeordnete Projekte"
+
+msgid "Post code"
+msgstr "Plz"
+
+msgid "Add user"
+msgstr "Benutzer hinzufügen"
+
+msgid "Edit user"
+msgstr "Benutzer bearbeiten"
+
+msgid "Please log in to your account"
+msgstr "Bitte loggen Sie sich ein"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Edit User"
+msgstr "Benutzer bearbeiten"
+
+msgid "Related Qualifications"
+msgstr "Zugeordnete Qualifiationen"
+
+msgid "notempty"
+msgstr "Dieses Feld darf nicht leer sein"
+
+msgid "mimeType"
+msgstr "Der Dateityp ist ungültig"
+
+msgid "numeric"
+msgstr "Dieses Feld muss eine Zahl enthalten"
+
+msgid "date"
+msgstr "Datum"
+
+msgid "boolean"
+msgstr "Dieses Feld muss Wahr oder Falsch sein"
+
+msgid "Your custom message here"
+msgstr "Tragen Sie Ihren eigenen Wert hier ein"
+
+msgid "Searching for orders or reports"
+msgstr "Aufträge oder Prüfberichte suchen"
+
+msgid "Search for orders"
+msgstr "Aufträge suchen"
+
+msgid "list reports"
+msgstr "Prüfberichtsmappen auflisten"
+
+msgid "list testing companies"
+msgstr "Prüfunternehmen auflisten"
+
+msgid "list examiner"
+msgstr "Prüfer auflisten"
+
+msgid "list user"
+msgstr "Benutzer auflisten"
+
+msgid "list qualifications"
+msgstr "Qulifikationen auflisten"
+
+msgid "list test methods"
+msgstr "Prüfverfahren auflisten"
+
+msgid "Edit qualification"
+msgstr "Qualifikation bearbeiten"
+
+msgid "not global"
+msgstr "nicht global"
+
+msgid "global"
+msgstr "global"
+
+msgid "for all Testingmethods"
+msgstr "für alle Prüfverfahren"
+
+msgid "deleted"
+msgstr "gelöscht"
+
+msgid "Invalid examiner"
+msgstr "Ungültiger Prüfer"
+
+msgid "Print workload"
+msgstr "Prüfzeitauslastung drucken"
+
+msgid "The examiner has been saved"
+msgstr "Der Prüfer wurde gespeichert"
+
+msgid "The examiner could not be saved. Please, try again."
+msgstr "Der Prüfer konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Examiner deleted"
+msgstr "Der Prüfer wurde gelöscht"
+
+msgid "Examiner was not deleted"
+msgstr "Der Prüfer konnte nicht gelöscht werden"
+
+msgid "Invalid workload id"
+msgstr "Ungültige ID"
+
+msgid "Examiner workload duplicated"
+msgstr "Prüfzeiteintrag wurde kopiert"
+
+msgid "Examiner workload was not duplicated"
+msgstr "Prüfzeiteintrag konnte nicht kopiert werden"
+
+msgid "Invalid Date"
+msgstr "Ungültiges Datum"
+
+msgid "No data to display"
+msgstr "Keine Daten gefunden"
+
+msgid "Examiner workload saved"
+msgstr "Prüfzeiteintrag wurde gespeichert"
+
+msgid "Examiner workload was not saved"
+msgstr "Prüfzeiteintrag konnte nicht gespeichert werden"
+
+msgid "Examiner workload deleted"
+msgstr "Prüfzeiteintrag wurde gelöscht"
+
+msgid "Examiner workload was not deleted"
+msgstr "Prüfzeiteintrag konnte nicht gelöscht werden"
+
+msgid "Show settled reports"
+msgstr "Abgerechnete Prüfberichte anzeigen"
+
+msgid "Select Testingmethod"
+msgstr "Prüfverfahren wählen"
+
+msgid "Select invoices"
+msgstr "Aufmaß wählen"
+
+msgid "Add new aditional"
+msgstr "Neue Zusatzleistung erstellen"
+
+msgid "Print invoices"
+msgstr "Aufmaß drucken"
+
+msgid "Export invoices"
+msgstr "Aufmaß exportieren"
+
+msgid "Add new order"
+msgstr "Neues Equipment anlegen"
+
+msgid "Upload new order"
+msgstr "Neues Equipment hochladen"
+
+msgid "Searching for order"
+msgstr "Nach Aufträge suchen"
+
+msgid "Will you you change the state to open."
+msgstr "Wollen Sie den Status 'geöffnet' setzen?"
+
+msgid "Will you you change the state to close."
+msgstr "Wollen Sie den Status 'geschlossen' setzen?"
+
+msgid "view"
+msgstr "Anzeigen"
+
+msgid "Will you delete this order?"
+msgstr "Wollen Sie dieses Equipment löschen?"
+
+msgid "The order has been delete."
+msgstr "Das Equipment wurde gelöscht."
+
+msgid "Order was not deleted."
+msgstr "Das Equipment wurde nicht gelöscht"
+
+msgid "Sorry, no Searchresults."
+msgstr "Ihre Suche ergab keine Ergebnisse"
+
+msgid "Please select a report typ in the project settings."
+msgstr "Bitte wahlen Sie in den Projekteinstellungen einen Equipmentstyp"
+
+msgid "offen"
+msgstr "offen"
+
+msgid "geschlossen"
+msgstr "geschlossen"
+
+msgid "Examiner workload"
+msgstr "Prüfzeitauslastung"
+
+msgid "Search Report"
+msgstr "Prüfbericht suchen"
+
+msgid "Dropdown Boxes"
+msgstr "Dropdowns"
+
+msgid "Edit Evalution"
+msgstr "Auswertung bearbeiten"
+
+msgid "Evaluation edited"
+msgstr "Auswertung bearbeitet"
+
+msgid "The Testingreport was closed."
+msgstr "Der Prüfbericht ist geschlossen"
+
+msgid "The Area has been duplicated"
+msgstr "Der Bereich wurde kopiert"
+
+msgid "The Evalution Area has been duplicated"
+msgstr "Die Auswertung wurde kopiert"
+
+msgid "Will you delete this image?"
+msgstr "Soll dieses Bild gelöscht werden?"
+
+msgid "Image was delete"
+msgstr "Das Bild wurde gelöscht"
+
+msgid "Image was not delete"
+msgstr "Das Bild wurde nicht gelöscht"
+
+msgid "The image does not exist"
+msgstr "Das Bild existiert nicht"
+
+msgid "Back to discription"
+msgstr "Zurück zur Beschreibung"
+
+msgid "File was delete"
+msgstr "Die Datei wurde gelöscht"
+
+msgid "File was not delete"
+msgstr "Die Datei wurde nicht gelöscht"
+
+msgid "The file does not exist"
+msgstr "Die Datei existiert nicht"
+
+msgid "The Report was closed."
+msgstr "Der Prüfbericht wurde geschlossen"
+
+msgid "The status could not be changed"
+msgstr "Der Status konnte nicht geandert werden"
+
+msgid "Close this Report"
+msgstr "Diesen Prüfbericht schließen"
+
+msgid "grant supervision release"
+msgstr "Prüfaufsichtsfreigabe erteilen"
+
+msgid "revoke supervision release"
+msgstr "Prüfaufsichtsfreigabe zurückziehen"
+
+msgid "Evalution Area deleted"
+msgstr "Der Auswertungsbereich wurde gelöscht"
+
+msgid "Die Nahtbereiche wurden angelegt."
+msgstr "Die Nahtbereiche wurden angelegt"
+
+msgid "Deletetion of %s failed"
+msgstr "%s konnte nicht gelöscht werden"
+
+msgid "waiting time"
+msgstr "Wartezeit"
+
+msgid "testing time"
+msgstr "Prüfzeit"
+
+msgid "Examiner workload added"
+msgstr "Prüfzeiteintrag wurde hinzugefügt"
+
+msgid "Unknown examiner"
+msgstr "Unbekannter Prüfer"
+
+msgid "Waiting time:"
+msgstr "Wartezeit:"
+
+msgid "Testing time:"
+msgstr "Prüfzeit:"
+
+msgid "Examiner workload edited"
+msgstr "Prüfzeiteintrag gespeichert"
+
+msgid "Saved despite collisions or errors"
+msgstr "Trotz Fehlern oder Kollisionen gespeichert"
+
+msgid "Old"
+msgstr "Alt"
+
+msgid "New"
+msgstr "Neu"
+
+msgid "Testingreport created"
+msgstr "Der Prüfbericht wurde gespeichert"
+
+msgid "Testingreport deleted"
+msgstr "Der Prüfbericht wurde gelöscht"
+
+msgid "Evaluation deleted"
+msgstr "Die Auswertung wurde gelöscht"
+
+msgid "File deleted"
+msgstr "Datei wurde gelöscht"
+
+msgid "Testingreport duplicated"
+msgstr "Der Prüfbericht wurde kopiert"
+
+msgid "Evaluation duplicated"
+msgstr "Der Auswertungsbereich wurde kopiert"
+
+msgid "Authorisation error"
+msgstr "Autorisierungsfehler"
+
+msgid "%s tried to open testingreport %s"
+msgstr "%s versuchte, den Prüfbericht %s zu öffnen"
+
+msgid "First entry for %s"
+msgstr "Erster Eintrag für %s"
+
+msgid "Edited %s"
+msgstr "%s bearbeitet"
+
+msgid "New entry for %s"
+msgstr "Neuer Eintrag für %s"
+
+msgid "Edited complete weld"
+msgstr "Komplette Naht bearbeitet"
+
+msgid "Sorted evaluation"
+msgstr "Auswertungsbereiche sortiert"
+
+msgid "Edited %s directly"
+msgstr "%s direkt bearbeitet"
+
+msgid "File uploaded"
+msgstr "Datei hochgeladen"
+
+msgid "Image deleted"
+msgstr "Bild gelöscht"
+
+msgid "Image discription set"
+msgstr "Bildbeschreiung geandert"
+
+msgid "Imagename"
+msgstr "Bildname"
+
+msgid "Image discription changed"
+msgstr "Bildbeschreibung geandert"
+
+msgid "old"
+msgstr "alt"
+
+msgid "new"
+msgstr "neu"
+
+msgid "Image uploaded"
+msgstr "Bild hochgeladen"
+
+msgid "Testingreport printed"
+msgstr "Prüfbericht gedruckt"
+
+msgid "Raw data testingreport printed"
+msgstr "Rohdatenbericht gedruckt"
+
+msgid "Evaluation label printed"
+msgstr "Nahtlabel gedruckt"
+
+msgid "opened"
+msgstr "geöffnet"
+
+msgid "invoiced"
+msgstr "abgerechnet"
+
+msgid "Testingreport state changed"
+msgstr "Status des Prüfberichts geandert"
+
+msgid "Deleted all welds by weld assistent"
+msgstr "Alle Nahte wurden durch den Nahtassistenten gelöscht"
+
+msgid "Created welds by weld assistent"
+msgstr "Nahte durch den Nahtassistenten erzeugt"
+
+msgid "Inactiv for to long."
+msgstr "Zu lange inaktiv"
+
+msgid "This report is not yours, you ar logged out."
+msgstr "Dieser Prüfbericht gehört nicht Ihnen oder Sie wurden ausgeloggt."
+
+msgid "Dynamic values"
+msgstr "Gefundene Eintrage"
+
+msgid "Static values"
+msgstr "Feste Werte"
+
+msgid "Values from database"
+msgstr "Werte aus der Datenbank"
+
+msgid "Image before"
+msgstr "vorheriges Bild"
+
+msgid "Next image"
+msgstr "nachstes Bild"
+
+msgid "Reportorder"
+msgstr "Prüfberichtsmappe"
+
+msgid "Identification %s already used for project %s"
+msgstr "Identifikation %s bereits für Projekt %s benutzt"
+
+msgid "Edit Dropdown Settings"
+msgstr "Dropdowneinstellungen bearbeitet"
+
+msgid "Edit Dropdown Content"
+msgstr "Dropdowninhalt bearbeitet"
+
+msgid "Delete Dropdown"
+msgstr "Dropdown gelöscht"
+
+msgid "Related Testingcomps"
+msgstr "Zugehörige Prüfunternehmen"
+
+msgid "Logopfad"
+msgstr "Logopfad"
+
+msgid "Firmenname"
+msgstr "Firmenname"
+
+msgid "Firmenzusatz"
+msgstr "Firmenzusatz"
+
+msgid "Strasse"
+msgstr "Strasse"
+
+msgid "Plz"
+msgstr "Plz"
+
+msgid "Ort"
+msgstr "Ort"
+
+msgid "Telefon"
+msgstr "Telefon"
+
+msgid "Telefax"
+msgstr "Telefax"
+
+msgid "F-number"
+msgstr "F-Nummer"
+
+msgid "Day"
+msgstr "Tag"
+
+msgid "From"
+msgstr "Von"
+
+msgid "Until"
+msgstr "Bis"
+
+msgid "Testing time"
+msgstr "Prüfzeit"
+
+msgid "Testing times for"
+msgstr "Prüfzeiten für"
+
+msgid "on"
+msgstr "am"
+
+msgid "Collision with waiting time of report no. %s, workload %s: %s - %s"
+msgstr "Kollision mit Wartezeit von Prüfbericht Nummer %s, Prüfzeiteintrag %s: %s - %s"
+
+msgid "Collision with testing time of report no. %s, workload %s: %s - %s"
+msgstr "Kollision mit Prüfzeit von Prüfbericht Nummer %s, Prüfzeiteintrag %s: %s - %s"
+
+msgid "End of testing time before start"
+msgstr "Ende der Prüfzeit vor dem Anfang"
+
+msgid "End of waiting time before start"
+msgstr "Ende der Wartezeit vor dem Anfang"
+
+msgid "Start of testing time before end of waiting time"
+msgstr "Start der Prüfzeit vor dem Ende der Wartezeit"
+
+msgid "Add Examiner"
+msgstr "Prüfer hinzugefügt"
+
+msgid "Add examiner workload"
+msgstr "Prüfzeiteintrag hinzugefügt"
+
+msgid "Missing entry for waiting time"
+msgstr "Fehlender Eintrag für die Wartezeit"
+
+msgid "Edit Examiner"
+msgstr "Prüfer bearbeitet"
+
+msgid "Edit examiner workload"
+msgstr "Prüfzeiteintrag bearbeitet"
+
+msgid "Examiners"
+msgstr "Prüfer"
+
+msgid "Number of entries"
+msgstr "Anzahl der Eintrage"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "Sind Sie sicher, dass Sie %s löschen wollen?"
+
+msgid "Testing times"
+msgstr "Prüfzeiten"
+
+msgid "Month"
+msgstr "Monat"
+
+msgid "Days with waiting times"
+msgstr "Tage mit Wartezeiten"
+
+msgid "Waiting time"
+msgstr "Wartezeit"
+
+msgid "Days with testing times"
+msgstr "Tage mit Prüfzeiten"
+
+msgid "Are you sure you want to duplicate this entry?"
+msgstr "Sind Sie sicher, dass Sie diesen Eintrag kopieren wollen?"
+
+msgid "Examiner details"
+msgstr "Prüferdetails"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "You have to select a date first."
+msgstr "Sie müssen zuerst eine Tag wahlen."
+
+msgid "Workload for day"
+msgstr "Prüfzeitauslastung für den Tag"
+
+msgid "Workload by Reports"
+msgstr "Prüfzeitauslastung nach Berichten"
+
+msgid "Workload for month"
+msgstr "Prüfzeitauslastung für den Monat"
+
+msgid "Testing times for month"
+msgstr "Prüfzeiten für den Monat"
+
+msgid "Workload for complete year"
+msgstr "Prüfzeitauslastung für das Jahr"
+
+msgid "Testing times for complete year"
+msgstr "Prüfzeiten für das komplette Jahr"
+
+msgid "Sun"
+msgstr "So"
+
+msgid "Mon"
+msgstr "Mo"
+
+msgid "Tue"
+msgstr "Di"
+
+msgid "Wed"
+msgstr "Mi"
+
+msgid "Thu"
+msgstr "Do"
+
+msgid "Fri"
+msgstr "Fr"
+
+msgid "Sat"
+msgstr "Sa"
+
+msgid "Image not found"
+msgstr "Bild nicht gefunden"
+
+msgid "Are you sure you want to duplicate this weld?"
+msgstr "Sind Sie sicher, dass Sie diese Naht kopieren wollen ?"
+
+msgid "The supplied data contains errors. Do you want to save anyway?"
+msgstr "Die eingegebenen Daten enthalten Fehler. Wollen Sie trotzdem speichern?"
+
+msgid "Close Window"
+msgstr "Fenster schliessen"
+
+msgid "Print this Report"
+msgstr "Diesen Prüfbericht drucken"
+
+msgid "Print Raw Template"
+msgstr "Rohdatenbericht drucken"
+
+msgid "Attention: Entries in first row will be used for titles."
+msgstr "Achtung: Eintrage der ersten Zeile werden als Überschriften verwendet"
+
+msgid "Click to edit"
+msgstr "Klicken, um den Eintrag zu bearbeiten"
+
+msgid "Double click to insert specialchars"
+msgstr "Doppelklicken, um Sonderzeichen einzufügen"
+
+msgid "Dropdown values"
+msgstr "Dropdownwerte"
+
+msgid "Show this Report"
+msgstr "Diesen Prüfbericht anzeigen"
+
+msgid "View this Report"
+msgstr "Diesen Prüfbericht anzeigen"
+
+msgid "Edit this Report"
+msgstr "Diesen Prüfbericht bearbeiten"
+
+msgid "Duplicate this Report"
+msgstr "Diesen Prüfbericht kopieren"
+
+msgid "Show Images"
+msgstr "Bilder anzeigen"
+
+msgid "Show Files"
+msgstr "Dateien anzeigen und/oder speichern"
+
+msgid "Show Reporthistory"
+msgstr "Änderungsverlauf anzeigen"
+
+msgid "Show History"
+msgstr "Änderungsverlauf anzeigen"
+
+msgid "Print this Waiting Report"
+msgstr "Diesen Wartebericht drucken"
+
+msgid "Edit General Infos"
+msgstr "Allgemeine Informationen bearbeiten"
+
+msgid "With this action the report is stated \\\\"
+msgstr "Durch diese Aktion wird der Prüfbericht als 'Abgerechnet' markiert, ohne bei der Abrechnung einbezogen zu werden"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Show Testing Reports"
+msgstr "Zeige Prüfberichte"
+
+msgid "If you change the status, this of them may not be reversed.?"
+msgstr "Diese Statusanderung kann nicht möglicherweise nicht rückgangig gemacht werden."
+
+msgid "Es existieren keine offenen Aufträge in dieser Kategorie."
+msgstr "Es existieren keine offenen Aufträge in dieser Kategorie."
+
+msgid "Messpunkte im Auftrag"
+msgstr "Messpunkte im Equipment"
+
+msgid "Component"
+msgstr "Aufträge"
+
+msgid "Change status"
+msgstr "Ändere Status "
+
+msgid "Will you you change the state."
+msgstr "Wollen Sie den Status andern?"
+
+msgid "Result"
+msgstr "Ergebnis"
+
+msgid "Project"
+msgstr "Projekt"
+
+msgid "Search for order"
+msgstr "Aufträge suchen"
+
+msgid "Search for reports"
+msgstr "Prüfberichte suchen"
+
+msgid "Searching for Orders"
+msgstr "Aufträge suchen"
+
+msgid "Show matching results"
+msgstr "Gefundene Ergebnisse anzeigen"
+
+msgid "There are no results matching your search"
+msgstr "Es gibt keine passenden Ergebnisse"
+
+msgid "Change state"
+msgstr "Status andern"
+
+msgid "Upload"
+msgstr "Datei hochladen"
+
+msgid "Clear"
+msgstr "Dateiauswahl löschen"
+
+msgid "Select files"
+msgstr "Dateiauswahl"
+
+msgid "< previous"
+msgstr "< vorherige"
+
+msgid "next >"
+msgstr "nachste >"
+
+msgid "Page {:page} of {:pages}"
+msgstr "Seite {:page} von {:pages}"
+
+msgid "Alle Prüfberichte im Projekt"
+msgstr "Alle Prüfberichte im Projekt"
+
+msgid "Es existieren außerdem folgende offene Aufträge mit dieser KKS- und Auftrags-Nr."
+msgstr "Es existieren außerdem folgende offene Equipmente mit dieser KKS- und Equipments-Nr."
+
+msgid "Es existieren außerdem folgende offene Aufträge mit dieser KKS- unter einer anderen Auftrags-Nr."
+msgstr "Es existieren außerdem folgende offene Equipmente mit dieser KKS- unter einer anderen Equipments-Nr."
+
+msgid "Messpunkte"
+msgstr "Messpunkte"
+
+msgid "Searching for Reports"
+msgstr "Prüfberichte suchen"
+
+msgid "Print"
+msgstr "Drucken"
+
+msgid "revoke examiner release"
+msgstr "Prüferfreigabe zurückziehen"
+
+msgid "This report is attached to another report. Edit for details."
+msgstr "Dieser Prüfbericht ist Teil eines weiteren Prüfberichts. Für Details bearbeiten."
+
+msgid "This report has attached reports. Edit for details."
+msgstr "Dieser Prüfbericht enthalt weitere Prüfberichte. Für Details bearbeiten."
+
+msgid "Vorschau"
+msgstr "Vorschau"
+
+msgid "Upload logo"
+msgstr "Logo hochladen"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "No logo"
+msgstr "Kein Logo"
+
+msgid "Waiting Time Start"
+msgstr "Beginn der Wartezeit"
+
+msgid "Waiting Time End"
+msgstr "Ende der Wartezeit"
+
+msgid "Testing Time Start"
+msgstr "Beginn der Prüfzeit"
+
+msgid "Testing Time End"
+msgstr "Ende der Prüfzeit"
+
+msgid "Remarks"
+msgstr "Bemerkungen"
+
+msgid "Waiting time for %s"
+msgstr "Wartezeit für %s"
+
+msgid "No waiting time data available for %s"
+msgstr "Keine Wartezeiteintrage für %s gefunden"
+
+msgid "Testing time for %s"
+msgstr "Prüfzeit für %s"
+
+msgid "Examiner workload %s"
+msgstr "Prüfzeitauslastung für %s"
+
+msgid "Testingtime %s"
+msgstr "Prüfzeit %s"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Workload by Day"
+msgstr "Prüfzeitauslastung für den Tag"
+
+msgid "Invalid file or extention (should be jpg, jpeg, png or gif)"
+msgstr "Ungültige Dateierweiterung (Sollte jpg, jpeg, png oder gif sein)"
+
+msgid "Invalid file"
+msgstr "Ungültige Datei"
+
+msgid "notEmpty"
+msgstr "nicht leer"
+
+msgid "This field may not be empty"
+msgstr "Dieses Feld darf nicht leer bleiben"
+
+msgid "This field must contain a valid email"
+msgstr "Die eingegebene Emailadresse ist nicht gültig"
+
+msgid "Locale not found: %s"
+msgstr "Übersetzung nicht gefunden: %s"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "Print Label"
+msgstr "Filmtütenaufkleber drucken"
+
+msgid "Print weld label"
+msgstr "Filmtütenaufkleber drucken"
+
+msgid "Custom weld label"
+msgstr "Blankofilmtütenaufkleber drucken"
+
+msgid "Costum weld label"
+msgstr "Blankofilmtütenaufkleber drucken"
+
+msgid "open old database"
+msgstr "Alte Datenbank öffnen"
+
+msgid "Equipment Types"
+msgstr "Ausrüstungsart"
+
+msgid "Equipment"
+msgstr "Ausrüstung"
+
+msgid "Create new order"
+msgstr "Neues Equipment erstellen"
+
+msgid "Add new project"
+msgstr "Ein neues Projekt hinzufügen"
+
+msgid "Open this Project"
+msgstr "Projekt öffnen"
+
+msgid "View Informationen of this Project"
+msgstr "Informationen über dieses Projekt anzeigen"
+
+msgid "Edit this Project"
+msgstr "Projekt bearbeiten"
+
+msgid "Delete this Project"
+msgstr "Projekt löschen"
+
+msgid "Show/Hide"
+msgstr "zeigen/verbergen"
+
+msgid "Edit General infos"
+msgstr "Allgemeine Daten bearbeiten"
+
+msgid "Edit Specify infos"
+msgstr "Prüfdaten bearbeiten"
+
+msgid "Show General infos"
+msgstr "Allgemeine Daten anzeigen"
+
+msgid "Show Specify infos"
+msgstr "Prüfdaten anzeigen"
+
+msgid "Show Testing area"
+msgstr "Auswertungsbereiche anzeigen"
+
+msgid "Examination"
+msgstr "Auswertung"
+
+msgid "Data tables"
+msgstr "Tabellarische Auflistung"
+
+msgid "Welds by days"
+msgstr "Monatsübersicht"
+
+msgid "Involved welders"
+msgstr "Beteiligte Schweißer"
+
+msgid "The welder has been saved"
+msgstr "Der Schweißer wurde gespeichert"
+
+msgid "Add Welder"
+msgstr "Schweißer hinzufügen"
+
+msgid "Hide welder infos"
+msgstr "Schweißerinformationen ausblenden"
+
+msgid "Send informations per email"
+msgstr "Informationen per E-mail versenden"
+
+msgid "Show last welder tests"
+msgstr "Handfertigkeitstest anzeigen"
+
+msgid "Print welder infos"
+msgstr "Schweißerinformationen drucken"
+
+msgid "Edit Welder"
+msgstr "Schweißer bearbeiten"
+
+msgid "Delete Welder"
+msgstr "Schweißer löschen"
+
+msgid "Welder deleted"
+msgstr "Der Schweißer wurde gelöscht"
+
+msgid "There are no Tests for this Welder"
+msgstr "Es sind keine Handfertigkeitstests verfügbar"
+
+msgid "Welder Tests"
+msgstr "Handfertigkeitstests"
+
+msgid "Welder Qualifications"
+msgstr "Schweißerqualifikation"
+
+msgid "Welders"
+msgstr "Schweißer"
+
+msgid "This document is still valid for"
+msgstr "Dieses Dokument ist gültig für"
+
+msgid "Weld errors by frequency"
+msgstr "Schweißnahtfehler"
+
+msgid "Type of weld"
+msgstr "Schweißnähte"
+
+msgid "Weld type total"
+msgstr "Alle Schweißnähte"
+
+msgid "whole allowance"
+msgstr "gesamtes Aufmaß"
+
+msgid "moved to %s"
+msgstr "verschoben nach %s"
+
+msgid "new version created: %s"
+msgstr "Neue Version erstellt: %s"
+
+msgid "The newly created report will get a new reportnumber. Are you sure you want to continue?"
+msgstr "Der neu erstellte Prüfbericht wird eine neue Nummer erhalten. Sind Sie sicher, dass Sie fortfahren wollen?"
+
+msgid "validty is exceeded"
+msgstr "Gültigkeit überschritten"
+
+msgid "Weldingcomp approval"
+msgstr "Firmenzulassung"
+
+msgid "Welder Supervisor"
+msgstr "Schweißaufsicht"
+
+msgid "Create new version"
+msgstr "Revision erstellen"
+
+msgid "vision test"
+msgstr "Sehtest"
+
+msgid "vision tests"
+msgstr "Sehtests"
+
+msgid "zertificats"
+msgstr "Zertifizierungen"
+
+msgid "zertificat"
+msgstr "Zertifizierung"
+
+msgid "Move order"
+msgstr "Verschiebe Equipment"
+
+msgid "Will you move Order"
+msgstr "Soll das Equipment"
+
+msgid "Change password"
+msgstr "Passwort ändern"
+
+msgid "Edit examination area"
+msgstr "Prüfbereich bearbeiten"
+
+msgid "Edit the complete weld"
+msgstr "Komplette Naht bearbeiten"
+
+msgid "The dependency has been saved"
+msgstr "Der Abhängigkeitswert wurde gespeichert"
+
+msgid "The dependency could not be saved. Please, try again."
+msgstr "Der Abhängigkeitswert konnte nicht gespeichert werden."
+
+msgid "Dependency deleted"
+msgstr "Der Abhängigkeitswert wurde gelöscht"
+
+msgid "Dependency was not deleted"
+msgstr "Der Abhängigkeitswert wurde nicht gelöscht"
+
+msgid "Progress was saved"
+msgstr "Der Fortschritt wurde gespeichert"
+
+msgid "Progress could not be saved. Please, try again."
+msgstr "Der Fortschritt konnte nicht gespeichert werden"
+
+msgid "Invalid equipment"
+msgstr "Ungültiges Equipment"
+
+msgid "The equipment has been saved"
+msgstr "Das Equipment wurde gespeichert."
+
+msgid "The equipment could not be saved. Please, try again."
+msgstr "Das Equipment konnte nicht gespeichert werden, bitte versuchen Sie es erneut."
+
+msgid "Invalid equipment type"
+msgstr "Ungültiger Equipmenttyp"
+
+msgid "Equipment deleted"
+msgstr "Das Equipment wurde gelöscht."
+
+msgid "The equipment type has been saved"
+msgstr "Der Equipmenttyp wurde gespeichert."
+
+msgid "The equipment type could not be saved. Please, try again."
+msgstr "Der Equipmentty konnte nicht gespeichert werden, bitte versuchen Sie es erneut."
+
+msgid "Equipment type deleted"
+msgstr "Der Equipmenttyp wurde gelöscht."
+
+msgid "Additional created"
+msgstr "Zusatzwert erstellt"
+
+msgid "The order is closed"
+msgstr "Das Equipment wurde geschlossen."
+
+msgid "Currently only search for reportnumbers is possible. Please try again in a few moments."
+msgstr "Aktuell ist nur die Suchen nach Reportnummern möglich, die Suche steht in einigen Augenblicken wieder zur Verfügung."
+
+msgid "Report is writeprotected - changes will not be saved."
+msgstr "Der Prüfbericht ist schreibgeschützt -  Änderungen werden nicht gespeichert."
+
+msgid "The value could not be saved. The report is closed!"
+msgstr "Der Wert konnte nicht gespeichert werden, der Prüfbericht ist geschlossen"
+
+msgid "The value could not be saved. The report is marked as deleted!"
+msgstr "Der Wert konnte nicht gespeichert werden, der Prüfbericht ist als gelöscht markiert."
+
+msgid "The value could not be saved. The report is marked as deactivate!"
+msgstr "Der Wert konnte nicht gespeichert werden, das Projekt dieses Prüfberichts wurde deaktiviert."
+
+msgid "The value has been saved."
+msgstr "Der Wert wurde gespeichert."
+
+msgid "The value could not be saved. Please try again!"
+msgstr "Der Wert konnte nicht gespeichert werden, bitte versuchen Sie es erneut."
+
+msgid "Es wurden keine PrÃ¼fbereiche ausgewÃ¤hlt."
+msgstr "Es wurden keine Prüfberichte ausgewählt."
+
+msgid "The welds"
+msgstr "Die Nähte"
+
+msgid "weld"
+msgstr "Naht"
+
+msgid "welds"
+msgstr "Nähte"
+
+msgid "Sollen die aufgefÃ¼hrten PrÃ¼fbereiche dupliziert werden?"
+msgstr "Sollen die aufgeführten Prüfberichte dupliziert werden?"
+
+msgid "Sollen die aufgefÃ¼hrten PrÃ¼fbereiche gelÃ¶scht werden?"
+msgstr "Sollen die aufgeführten Prüfbereiche gelöscht werden?"
+
+msgid "Sollen die aufgefÃ¼hrten PrÃ¼fbereiche mit erfÃ¼llt bewertet werden?"
+msgstr "Sollen die aufgeführten Prüfbereiche mit erfüllt bewertet werden?"
+
+msgid "Sollen die aufgefÃ¼hrten PrÃ¼fbereiche mit nicht erfÃ¼llt bewertet werden?"
+msgstr "Sollen die aufgeführten Prüfbereiche mit nicht erfüllt bewertet werden?"
+
+msgid "Sollen die Bewertungen der aufgefÃ¼hrten PrÃ¼fbereiche entfernt werden?"
+msgstr "Sollen die Bewertunge de aufgeführten Prüfbereiche entfernt werden?"
+
+msgid "The error codes"
+msgstr "Die Fehlercodes"
+
+msgid "The error code"
+msgstr "Die Fehlercodes"
+
+msgid "Sollen die Fehler-Codes der aufgefÃ¼hrten PrÃ¼fbereiche entfernt werden?"
+msgstr "Sollen die Fehler-Codes der aufgeführten Prüfberichte entfernt werden?"
+
+msgid "Report is closed - this function is not available."
+msgstr "Der Prüfbericht wurde geschlossen - diese Funktion steht nicht zur Verfügung"
+
+msgid "The report"
+msgstr "Der Prüfbericht"
+
+msgid "Vierstufig"
+msgstr "Vierstufig"
+
+msgid "Dreistufig"
+msgstr "Dreistufig"
+
+msgid "Zweistufig"
+msgstr "Zweistufig"
+
+msgid "Einstufig"
+msgstr "Einstufig"
+
+msgid "Topproject was reopened"
+msgstr "Das Projekt wurde wieder geöffnet"
+
+msgid "Topproject could not be reopened. Please, try again."
+msgstr "Das Projekt konnte nicht wieder geöffnet werden, bitte versuchen Sie es erneut."
+
+msgid "Password was saved"
+msgstr "Das Passwort wurde gespeichert."
+
+msgid "Password could not be saved. Please, try again."
+msgstr "Das Passwort konnte nicht gespeichert werden, bitte versuchen Sie es erneut."
+
+msgid "Revision created"
+msgstr "Revision erstellt"
+
+msgid "Examinierer"
+msgstr "Prüfer"
+
+msgid "signExaminer"
+msgstr "Unterschrift Prüfer"
+
+msgid "Supervisor"
+msgstr "Prüfaufsicht"
+
+msgid "signSupervisor"
+msgstr "Unterschrift Prüfaufsicht"
+
+msgid "Third part"
+msgstr "Leistungskontrolle Wacker"
+
+msgid "Four part"
+msgstr "Überwachungsorganisation"
+
+msgid "You can not sign the report until all required fields have been completed."
+msgstr "Der Prüfbericht kann erst unterschrieben werden, wenn alle Pflichtfelder ausgefüllt sind."
+
+msgid "Clear Signature"
+msgstr "Unterschrift löschen"
+
+msgid "Pad Type"
+msgstr "Typ"
+
+msgid "Serial Number"
+msgstr "Seriennummer"
+
+msgid "Firmware Version"
+msgstr "Softwareversion"
+
+msgid "Confirm Signature"
+msgstr "Unterschrift speichern"
+
+msgid "signThirdPart"
+msgstr "Unterschrift Überwachungsorganisation"
+
+msgid "Create a revision without duplicating"
+msgstr "Revision für diesen Prüfbericht erstellen"
+
+msgid "send report as email"
+msgstr "Prüfbericht per E-Mail versenden"
+
+msgid "Export data as xml"
+msgstr "Daten des Prüfberichts als XML exportieren"
+
+msgid "Add Dependency"
+msgstr "Untergeordneten Wert hinzufügen"
+
+msgid "Edit Dependency"
+msgstr "Untergeordneten Wert bearbeiten"
+
+msgid "Dependencies"
+msgstr "Untergeordnete Werte"
+
+msgid "Dropdown value"
+msgstr "Dropdownwerte"
+
+msgid "Dependent fields"
+msgstr "Untergeordnete Felder"
+
+msgid "Main fild"
+msgstr "Hauptfeld"
+
+msgid "Dependency"
+msgstr "Untergeordneter Wert"
+
+msgid "Dropdowns Value"
+msgstr "Dropdownwerte"
+
+msgid "Field"
+msgstr "Feld"
+
+msgid "Delete Dependency"
+msgstr "Untergeordneten Wert löschen"
+
+msgid "List Dependencies"
+msgstr "Untergeordnete Werte auflisten"
+
+msgid "New Dependency"
+msgstr "Neuen untergeordneten Wert erstellen"
+
+msgid "List Dropdowns Values"
+msgstr "Dropdownwerte auflisten"
+
+msgid "New Dropdowns Value"
+msgstr "Neuen Dropdownwert erstellen"
+
+msgid "Add progress"
+msgstr "Fortschritt hinzufügen"
+
+msgid "Measuring point"
+msgstr "Messpunkt"
+
+msgid "for"
+msgstr "für"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Open"
+msgstr "Offen"
+
+msgid "Repairs"
+msgstr "Reparaturen"
+
+msgid "Closet"
+msgstr "Geschlossen"
+
+msgid "Open this report"
+msgstr "Diesen Prüfbericht öffnen"
+
+msgid "Delete this progress"
+msgstr "Diesen Fortschritt entfernen"
+
+msgid "Edit this progress"
+msgstr "Diesen Fortschritt bearbeiten"
+
+msgid "Create progress"
+msgstr "Fortschritt erstellen"
+
+msgid "Progress"
+msgstr "Fortschritt"
+
+msgid "Fortschritte auswÃ¤hlen"
+msgstr "Fortschritt auswählen"
+
+msgid "Fortschritte erstellen"
+msgstr "Fortschritt erstellen"
+
+msgid "Daten fÃ¼r Fortschritt bereitstellen"
+msgstr "Daten für Fortschritt bereitstellen"
+
+msgid "Delete Orders"
+msgstr "Aufträge löschen"
+
+msgid "Go to this evalation"
+msgstr "Diese Bewertung aufrufen"
+
+msgid "Go to report"
+msgstr "Diesen Prüfbericht öffnen"
+
+msgid "Open Orders"
+msgstr "Equipment offnen"
+
+msgid "Closed Orders"
+msgstr "Geschlossene Equipments"
+
+msgid "All Orders"
+msgstr "Alle Equipments"
+
+msgid "Closed"
+msgstr "Geschlossen"
+
+msgid "Open order"
+msgstr "Equipment öffnen"
+
+msgid "Select progress"
+msgstr "Fortschritt auswählen"
+
+msgid "Open this progress"
+msgstr "Diesen Fortschritt öffnen"
+
+msgid "Bearbeiten"
+msgstr "Bearbeiten"
+
+msgid "Anzahl"
+msgstr "Anzahl"
+
+msgid "Show progress"
+msgstr "Fortschritt anzeigen"
+
+msgid "Orders Overview"
+msgstr "Equipmentsübersicht"
+
+msgid "Examiner times Overview"
+msgstr "Prüfzeitenübersicht"
+
+msgid "Statistics Overview"
+msgstr "Statistikübersicht"
+
+msgid "LÃ¶schen"
+msgstr "Löschen"
+
+msgid "Soll dieser Eintrag gelÃ¶scht werden?"
+msgstr "Soll dieser Eintrag gelöscht werden?"
+
+msgid "Count"
+msgstr "Anzahl"
+
+msgid "Field used in"
+msgstr "Dieses Feld wird benutzt in"
+
+msgid "Transfer these values"
+msgstr "Diese Werte übertragen"
+
+msgid "Es ist ein Fehler aufgetreten, die Fehlermeldung wurde in den Log-Dateien dokumentiert."
+msgstr "Es ist ein Fehler aufgetreten, die Fehlermeldung wurde in den Log-Dateien dokumentiert."
+
+msgid "Benutzen Sie den unten stehenden Link um zur Startseite der Anwendung zurÃ¼ckzukehren"
+msgstr "Benutzen Sie den unten stehenden Link um zur Startseite der Anwendung zurückzukehren"
+
+msgid "Es konnte keine Verbindung zum Datenbankserver aufgebaut werden, die Fehlermeldung wurde in den Log-Dateien dokumentiert."
+msgstr "Es konnte keine Verbindung zum Datenbankserver aufgebaut werden, die Fehlermeldung wurde in den Log-Dateien dokumentiert."
+
+msgid "Sie kÃ¶nnen versuchen, die Verbindung erneut aufzubauen"
+msgstr "Sie können versuchen, die Verbindung erneut aufzubauen"
+
+msgid "Es ist ein Datenbankfehler aufgetreten, die Fehlermeldung wurde in den Log-Dateien dokumentiert."
+msgstr "Es ist ein Datenbankfehler aufgetreten, die Fehlermeldung wurde in den Log-Dateien dokumentiert."
+
+msgid "Aktuelle Aufteilung des Projekts"
+msgstr "Aktuelle Aufteilung des Projekts"
+
+msgid "Reopen"
+msgstr "Erneut öffnen"
+
+msgid "Reopen this Project"
+msgstr "Dieses Projekt erneut öffnen"
+
+msgid "Add Equipment"
+msgstr "Equipment hinzufügen"
+
+msgid "Delete Equipment"
+msgstr "Equipment löschen"
+
+msgid "Edit Equipment"
+msgstr "Equipment bearbeiten"
+
+msgid "active"
+msgstr "aktiv"
+
+msgid "deactive"
+msgstr "deaktiv"
+
+msgid "Equipment type"
+msgstr "Equipmentart"
+
+msgid "Soll diese Komponente gelÃ¶scht werden?"
+msgstr "Soll diese Komponente gelöscht werden?"
+
+msgid "Move equipment"
+msgstr "Eqipment verschieben"
+
+msgid "Select"
+msgstr "Auswahl"
+
+msgid "Will you move equipment"
+msgstr "Soll dieses Equipment verschoben werden"
+
+msgid "Move"
+msgstr "Verschieben"
+
+msgid "Orderstatus"
+msgstr "Equipmentsstatus"
+
+msgid "status"
+msgstr "Status"
+
+msgid "Bauteil"
+msgstr "Bauteil"
+
+msgid "created"
+msgstr "erstellt"
+
+msgid "Change Status"
+msgstr "Status ändern"
+
+msgid "Soll dieser Auftrag gelÃ¶scht werden?"
+msgstr "Soll dieses Equipment gelöscht werden?"
+
+msgid "Add Equipment Type"
+msgstr "Equipmenttyp hinzufügen"
+
+msgid "Delete Equipment Type"
+msgstr "Equipmenttyp löschen"
+
+msgid "Edit Equipment Type"
+msgstr "Equipmenttype bearbeiten"
+
+msgid "Soll dieser Komponentetype gelÃ¶scht werden?"
+msgstr "Soll dieser Komponentetype gelöscht werden?"
+
+msgid "Move equipment type"
+msgstr "Equipmenttyp verschieben"
+
+msgid "Will you move equipment type"
+msgstr "Soll dieser Equipmenttype verschoben werden"
+
+msgid "Add new equipment type"
+msgstr "Einen neuen Equipmenttyp erstellen"
+
+msgid "Add new equipment"
+msgstr "Ein neues Equipment estellen"
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "Number of workload entries"
+msgstr "Anzahl der Einträge"
+
+msgid "Soll dieser PrÃ¼fer gelÃ¶scht werden?"
+msgstr "Soll dieser Prüfer gelöscht werden?"
+
+msgid "Examiner No."
+msgstr "Prüfer-Nr."
+
+msgid "KKS No."
+msgstr "KKS-Nr."
+
+msgid "Waiting time start"
+msgstr "Wartezeit Anfang"
+
+msgid "Waiting time end"
+msgstr "Wartezeit Ende"
+
+msgid "Testing time start"
+msgstr "Prüfzeit Start"
+
+msgid "Testing time end"
+msgstr "Prüfzeit Ende"
+
+msgid "Collisions"
+msgstr "Überschneidung"
+
+msgid "Arbeitsauftrag bearbeiten"
+msgstr "Zeit bearbeiten"
+
+msgid "Duplicate Workload"
+msgstr "Zeit duplizieren"
+
+msgid "Delete Workload"
+msgstr "Zeit löschen"
+
+msgid "Waiting times for month"
+msgstr "Wartezeiten für Monat"
+
+msgid "Waiting times for complete year"
+msgstr "Wartezeiten für das komplette Jahr"
+
+msgid "Refresh this page"
+msgstr "Ansicht aktualisieren"
+
+msgid "Show validation errors"
+msgstr "Eingabefehler anzeigen"
+
+msgid "Required fields missing"
+msgstr "Pflichtfelder nicht ausgefüllt"
+
+msgid "marked as not processed"
+msgstr "Dieser Prüfbereich wurde noch nicht als abgearbeitet markiert."
+
+msgid "marked as error"
+msgstr "Dieser Prüfbereich wurde als Reparatur markiert."
+
+msgid "marked as processed"
+msgstr "Dieser Prüfbereich wurde als abgearbeitet markiert."
+
+msgid "Changes to previous version"
+msgstr "Zur Vorgängerversion zurückkehren"
+
+msgid "Fehler entfernen"
+msgstr "Fehler-Codes entfernen"
+
+msgid "Massenaktion wÃ¤hlen"
+msgstr "Massenaktion auswählen"
+
+msgid "Duplizieren"
+msgstr "Duplizieren"
+
+msgid "Mit e bewerten"
+msgstr "Mit e bewerten"
+
+msgid "Mit ne bewerten"
+msgstr "Mit ne bewerten"
+
+msgid "Bewertungen entfernen"
+msgstr "Bewertungen entfernen"
+
+msgid "Gesamte Naht bearbeiten"
+msgstr "Gesamte Naht bearbeiten"
+
+msgid "Gesamte Naht duplizieren"
+msgstr "Gesamte Naht duplizieren"
+
+msgid "Soll die gesamte Naht dupliziert werden?"
+msgstr "Soll die gesamte Naht dupliziert werden?"
+
+msgid "Show QR-Code"
+msgstr "QR-Code anzeigen"
+
+msgid "Gesamte Naht lÃ¶schen"
+msgstr "Gesamte Naht löschen"
+
+msgid "Soll die gesamte Naht gelÃ¶scht werden?"
+msgstr "Soll die gesamte Naht gelöscht werden?"
+
+msgid "Diesen Nahtabschnitt bearbeiten"
+msgstr "Diesen Nahtabschnitt bearbeiten"
+
+msgid "Diesen Nahtabschnitt duplizieren"
+msgstr "Diesen Nahtabschnitt duplizieren"
+
+msgid "Soll dieser Nahtabschnitt dupliziert werden?"
+msgstr "Soll dieser Nahtabschnitt dupliziert werden?"
+
+msgid "Diesen Nahtabschnitt lÃ¶schen"
+msgstr "Diesen Nahtabschnitt löschen"
+
+msgid "Soll dieser Nahtabschnitt gelÃ¶scht werden?"
+msgstr "Soll dieser Nahtabschnitt gelöscht werden?"
+
+msgid "Edit dependent fields"
+msgstr "Untergeordnete Felder bearbeiten"
+
+msgid "Costum value"
+msgstr "Benutzerdefiniertes Feld"
+
+msgid "EN 1435"
+msgstr "EN 1435"
+
+msgid "For invocation dimensions must be entered into report."
+msgstr "Um das Aufmaß zuerstellen, müssen die Abmessungen in den Prüfbericht eingetragen werden."
+
+msgid "Add order to"
+msgstr "Das Equipment hinzufügen"
+
+msgid "Delete order"
+msgstr "Equipment löschen"
+
+msgid "Duplicat"
+msgstr "Duplikat"
+
+msgid "Result for Orders"
+msgstr "Ergebnisse Aufträge"
+
+msgid "Search for KKS"
+msgstr "Nach KKS-Nr. suchen"
+
+msgid "Zurück zur Übersicht"
+msgstr "Zurück zur Übersicht"
+
+msgid "Vorhergehender PrÃ¼fbericht"
+msgstr "Vorhergehender Prüfbericht"
+
+msgid "NÃ¤chster PrÃ¼fbericht"
+msgstr "Nächster Prüfbericht"
+
+msgid "Naht"
+msgstr "Naht"
+
+msgid "duplizieren"
+msgstr "duplizieren"
+
+msgid "lÃ¶schen"
+msgstr "löschen"
+
+msgid "Nahtbereich"
+msgstr "Nahtbereich"
+
+msgid "von"
+msgstr "von"
+
+msgid "PrÃ¼fbereich"
+msgstr "Prüfbereich"
+
+msgid "wird"
+msgstr "wird"
+
+msgid "angezeigt"
+msgstr "angezeigt"
+
+msgid "anzeigen"
+msgstr "anzeigen"
+
+msgid "angezeigen"
+msgstr "angezeigen"
+
+msgid "PrÃ¼fbereiche anzeigen von"
+msgstr "Prüfbereiche anzeigen von"
+
+msgid "Gesamte Naht"
+msgstr "Gesamte Naht"
+
+msgid "Neuer Auswertungsbereich"
+msgstr "Neuer Auswertungsbereich"
+
+msgid "Aufnahmeanordnungen nach EN 1435"
+msgstr "Aufnahmeanordnungen nach EN 1435"
+
+msgid "Validation errors"
+msgstr "Überprüfungsfehler"
+
+msgid "Examiner ID"
+msgstr "Prüfer ID"
+
+msgid "Delete file"
+msgstr "Datei löschen"
+
+msgid "Soll diese Datei gelÃ¶scht werden?"
+msgstr "Soll diese Datei gelöscht werden?"
+
+msgid "Show image"
+msgstr "Bild anzeigen"
+
+msgid "Edit discription image"
+msgstr "Bildbeschreibung bearbeiten"
+
+msgid "Edit image discription"
+msgstr "Bildbeschreibung bearbeiten"
+
+msgid "Delete image"
+msgstr "Bild löschen"
+
+msgid "Soll dieses Bild gelÃ¶scht werden?"
+msgstr "Soll dieses Bild gelöscht werden?"
+
+msgid "My last reports"
+msgstr "Meine letzten Prüfberichte"
+
+msgid "The latest report"
+msgstr "Der letzte Prüfbericht"
+
+msgid "Mass actions"
+msgstr "Massenaktion"
+
+msgid "Move report"
+msgstr "Prüfbericht verschieben"
+
+msgid "Will you move report"
+msgstr "Soll der Prüfbericht verschoben werden"
+
+msgid "Remove signaturs"
+msgstr "Unterschriften entfernen"
+
+msgid "Will you realy remove all signaturs of this report?"
+msgstr "Sollen wirklich alle Unterschriften aus diesem Prüfbericht entfernt werden?"
+
+msgid "from"
+msgstr "von"
+
+msgid "to"
+msgstr "bis"
+
+msgid "Please wait"
+msgstr "Bitte warten"
+
+msgid "Testing companie"
+msgstr "Prüfunternehmen"
+
+msgid "Soll dieser PrÃ¼fbericht dupliziert werden?"
+msgstr "Soll dieser Prüfbericht dupliziert werden?"
+
+msgid "Soll dieser Prüfbericht gelöscht werden?"
+msgstr "Soll dieser Prüfbericht gelöscht werden?"
+
+msgid "Testing reports"
+msgstr "Prüfberichte"
+
+msgid "Create repair"
+msgstr "Reparatur erstellen"
+
+msgid "Weld type ne"
+msgstr "Nicht erfüllte Nähte"
+
+msgid "Weld type e"
+msgstr "Erfüllte Nähte"
+
+msgid "Weld type n"
+msgstr "Nicht ausgewertete Nähte"
+
+msgid "Direct link to this report"
+msgstr "Direktlink zu diesem Prüfbericht"
+
+msgid "Direct link to this weld"
+msgstr "Direktlink zu dieser Naht"
+
+msgid "Send this QR-Code per mail"
+msgstr "Diesen QR-Code per E-Mail versenden"
+
+msgid "Print this QR-Code"
+msgstr "Diesen QR-Code ausdrucken"
+
+msgid "Oberkategorie"
+msgstr "Oberkategorie"
+
+msgid "Kategorie"
+msgstr "Kategorie"
+
+msgid "Unterkategorie"
+msgstr "Unterkategorie"
+
+msgid "Testreport"
+msgstr "Prüfbericht"
+
+msgid "Logged user account"
+msgstr "Eingeloggter Benuzter"
+
+msgid "Remove this signatures"
+msgstr "Unterschriften entfernen"
+
+msgid "Signatur Examiner"
+msgstr "Unterschrift Prüfer"
+
+msgid "Save Signature?"
+msgstr "Diese Unterschrift speichern?"
+
+msgid "Signatur"
+msgstr "Unterschrift"
+
+msgid "Signatur Supervisor"
+msgstr "Unterschrift Prüfaufsicht"
+
+msgid "Signatur third part"
+msgstr "Unterschrift Überwachungsorganisation"
+
+msgid "Show video"
+msgstr "Video abspielen"
+
+msgid "Writelock"
+msgstr "Schreibschutz"
+
+msgid "identification"
+msgstr "Identifikation"
+
+msgid "projektbeschreibung"
+msgstr "Projektbeschreibung"
+
+msgid "Soll diese PrÃ¼fberichtsmappe gelÃ¶scht werden?"
+msgstr "Soll diese Prüfberichtsmappe gelöscht werden?"
+
+msgid "Specialcharacter"
+msgstr "Sonderzeichen"
+
+msgid "No field selected to append Specialcharacter"
+msgstr "Es wurde kein Formulafeld ausgewählt. Schließen Sie diese Fenster, markieren Sie das Formularfeld welchem Sie ein Sonderzeichen hinzufügen wollen. öffnen Sie das Sonderzeichenfenster erneut."
+
+msgid "Welds by months"
+msgstr "Nähte pro Monat"
+
+msgid "No displayable data"
+msgstr "Es stehen keine Daten zur Verfügung"
+
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+msgid "welder missing"
+msgstr "Es wurde kein Schweißer gefunden"
+
+msgid "Welder details"
+msgstr "Schweißer Details"
+
+msgid "highest valid roll"
+msgstr "Höchste gültige Rolle"
+
+msgid "Rang"
+msgstr "Rang"
+
+msgid "Straße"
+msgstr "Straße"
+
+msgid "PLZ"
+msgstr "PLZ"
+
+msgid "Soll dieses Unternehmen gelÃ¶scht werden?"
+msgstr "Soll dieses Unternehmen gelöscht werden?"
+
+msgid "Delete topproject"
+msgstr "Projekt löschen"
+
+msgid "Deleted projects"
+msgstr "Gelöschte Projekte"
+
+msgid "Closed projects"
+msgstr "Geschlossene Projekte"
+
+msgid "Show my last reports of each testing method"
+msgstr "Meine zuletzt bearbeiteten Prüfberichte, sortiert nach Prüfverfahren anzeigen."
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Aktuell"
+msgstr "Aktuell"
+
+msgid "Diese Projekt steht standardmäßig auf"
+msgstr "Diese Projekt steht standardmäßig auf"
+
+msgid "Diese Projekt steht aktuell auf"
+msgstr "Diese Projekt steht aktuell auf"
+
+msgid "View project"
+msgstr "Projekt anzeigen"
+
+msgid "Edit project"
+msgstr "Projekt bearbeiten"
+
+msgid "Delete project"
+msgstr "Projekt löschen"
+
+msgid "Soll das gesamte Project gelÃ¶scht werden?"
+msgstr "Soll das gesamte Project gelöscht werden?"
+
+msgid "Reopen topproject"
+msgstr "Projekt erneut öffnen"
+
+msgid "Results for Orders"
+msgstr "Suchergebnisse Aufträge"
+
+msgid "Disabled projects"
+msgstr "Deaktivierte Projekte"
+
+msgid "Last login"
+msgstr "Zuletzt eingeloggt"
+
+msgid "Aktiv/Deaktiv"
+msgstr "Aktiv/Deaktiv"
+
+msgid "Soll dieser User gelÃ¶scht werden?"
+msgstr "Soll dieser Benutzer gelöscht werden?"
+
+msgid "Edit password"
+msgstr "Passwort bearbeiten"
+
+msgid "back to list"
+msgstr "zurück zur Liste"
+
+msgid "close this window"
+msgstr "Fenster schließen"
+
+msgid "add new entry"
+msgstr "neuer Eintrag"
+
+msgid "What you want to do after saving?"
+msgstr "Welche Aktion wollen Sie nach dem Speichern ausführen"
+
+msgid "Will you delete this value?"
+msgstr "Wollen Sie diesen Wert löschen?"
+
+msgid "Assign report as %s"
+msgstr "Prüfbericht zuordnen als %s"
+
+msgid "parent report"
+msgstr "Übergeordneter Bericht"
+
+msgid "child report"
+msgstr "untergeordneter Bericht"
+
+msgid "this measuring point is not associated with a evaluation area"
+msgstr "Dieser Messpunkt ist mit keinem Auswertungsbereich verknüpft"
+
+msgid "Sie haben keinen Zugriff auf diesen Prüfbericht"
+msgstr "Sie haben keinen Zugriff auf diesen Prüfbericht"
+
+msgid "Toggle dropdowns for other testingmethods"
+msgstr "Dropdowns für andere Prüfverfahren ein-/ausblenden"
+
+msgid "Copy other dropdown values for this dropdown"
+msgstr "Die Werte eines Dropdownfeldes in dieses Dropdownfeld kopieren"
+
+msgid "Delete all dropdown values"
+msgstr "Alle Werte dieses Dropdownfeldes löschen"
+
+msgid "Will you delete all values from the dropdown field"
+msgstr "Wollen Sie alle Werte dieses Dropdownfeldes löschen"
+
+msgid "Dropdown unlinked"
+msgstr "Dropdownfeld nicht verknüpft"
+
+msgid "close"
+msgstr "schließen"
+
+msgid "all"
+msgstr "alle"
+
+msgid "Move this equipment"
+msgstr "Diese Equipment verschieben"
+
+msgid "Back to overview"
+msgstr "Zurück zur Übersicht"
+
+msgid "has been moved to this location."
+msgstr "wurde an diese Stelle verschoben."
+
+msgid "Equipment Type Settings"
+msgstr "Eintstellungen Equipmentart"
+
+msgid "Equipment Settings"
+msgstr "Einstellungen Equipment"
+
+msgid "Move this equipment type"
+msgstr "Diese Equipmentart verschieben"
+
+msgid "Invalid certificate"
+msgstr "Ungültige Zertifizierung"
+
+msgid "The value could not be saved. The certificate is deactive!"
+msgstr "Der Wert konnte nicht gespeichert werden. Die Zertifizierung ist deaktiviert"
+
+msgid "The value could not be saved. The report is deleted!"
+msgstr "Der Wert konnte nicht gelöscht werden. Der Prüfbericht wurde gelöscht!"
+
+msgid "Edit examiner"
+msgstr "Prüfer bearbeiten"
+
+msgid "Reminder time is exceeded"
+msgstr "Die Erinnerungszeit wurde überschritten"
+
+msgid "recertification time is exceeded"
+msgstr "Die Zeit zur Rezertifizierung wurde überschritten am"
+
+msgid "Add eye check"
+msgstr "Sehtest hinzufügen"
+
+msgid "Edit eye check"
+msgstr "Sehtest bearbeiten"
+
+msgid "Invalid eyecheck"
+msgstr "Sehtest ungültig"
+
+msgid "The eye check has been saved"
+msgstr "Der Sehtest wurde gespeichert"
+
+msgid "The eye check could not be saved. Please, try again."
+msgstr "Der Sehtest konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Delete this certification"
+msgstr "Diese Qualifikation löschen"
+
+msgid "Invalid certificate info"
+msgstr "Ungültige Zertifizierungsinformationen"
+
+msgid "The eye check infos has been saved"
+msgstr "Die Informationen zu Sehtest wurden gespeichert"
+
+msgid "The eye check infos could not be saved. Please, try again."
+msgstr "Die Informationen zu Sehtest konnten nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "no entry found"
+msgstr "Es konnte kein Eintrag gefunden werden"
+
+msgid "Add certificate"
+msgstr "Eine Qualifizierung hinzufügen"
+
+msgid "The certificate has been saved"
+msgstr "Die Zertifizierung wurde gespeichert"
+
+msgid "The certificate could not be saved. Please, try again."
+msgstr "Die Zertifizierung konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Will you delete this certificate?"
+msgstr "Wollen Sie diese Zertifizierung löschen?"
+
+msgid "The certificate infos has been saved"
+msgstr "Die Informationen zu dieser Zertifizierung wurden gespeichert."
+
+msgid "The certificate infos could not be saved. Please, try again."
+msgstr "Die Informationen zu dieser Zertifizierung konnten nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Will you delete the certificate info from this certifikate? The certificate will then be invalid."
+msgstr "Wenn sie die Informatioen zu diese Zertifizierung löschen, erhält die Zertifizierung den Status ungültig."
+
+msgid "The certificate infos has been delete"
+msgstr "Die Informationen zu dieser Zertifizierung wurden gelöscht."
+
+msgid "The certificate infos could not be delete. Please, try again."
+msgstr "Die Informationen zu dieser Zertifizierung konnten nicht gelöscht werden. Bitte versuchen Sie es erneut."
+
+msgid "Do you want to overwrite the existing file?"
+msgstr "Möchten Sie die vorhandene Datei überschreiben?"
+
+msgid "Will you delete the certificate file from this certifikate?"
+msgstr "Wollen Sie diese Zertifikationsdatei löschen?"
+
+msgid "The certificate file has been delete"
+msgstr "Die Zertifikationsdatei wurde gelöscht"
+
+msgid "Der Auftrag wurde geschlossen und kann nicht mehr bearbeitet werden."
+msgstr "Das Equipment wurde geschlossen und kann nicht mehr bearbeitet werden."
+
+msgid "Order "
+msgstr "Equipment"
+
+msgid "back"
+msgstr "zurück"
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "Change status "
+msgstr "Ändere Status "
+
+msgid "move order"
+msgstr "Equipment verschieben"
+
+msgid "Create "
+msgstr "Erstelle "
+
+msgid "Print result list"
+msgstr "Ergebnisliste drucken"
+
+msgid "Reload"
+msgstr "Neu laden"
+
+msgid "not evaluated"
+msgstr "nicht ausgewertet"
+
+msgid "accepted"
+msgstr "akzeptiert"
+
+msgid "defect"
+msgstr "defekt"
+
+msgid "unchanged"
+msgstr "unverändert"
+
+msgid "repaired"
+msgstr "repariert"
+
+msgid "Create repair report"
+msgstr "Erstelle Reparaturbericht"
+
+msgid "Es wurden keine Prüfbereiche ausgewählt."
+msgstr "Es wurden keine Prüfbereiche ausgewählt."
+
+msgid "has been duplicate."
+msgstr "wurde dupliziert."
+
+msgid "Sollen die aufgeführten Prüfbereiche dupliziert werden?"
+msgstr "Sollen die aufgeführten Prüfbereiche dupliziert werden?"
+
+msgid "delete"
+msgstr "lösche"
+
+msgid "has been delete."
+msgstr "wurde gelöscht."
+
+msgid "was not deleted."
+msgstr "konnte nicht gelöscht werden."
+
+msgid "Sollen die aufgeführten Prüfbereiche gelöscht werden?"
+msgstr "Sollen die aufgeführten Prüfbereiche gelöscht werden?"
+
+msgid "result"
+msgstr "Ergebnis"
+
+msgid "has been updated."
+msgstr "wurde aktualisiert."
+
+msgid "was not updated."
+msgstr "wurde nicht aktualisiert."
+
+msgid "Mit erfüllt bewerten"
+msgstr "Mit erfüllt bewerten"
+
+msgid "Sollen die aufgeführten Prüfbereiche mit erfüllt bewertet werden?"
+msgstr "Sollen die aufgeführten Prüfbereiche mit erfüllt bewertet werden?"
+
+msgid "Mit nicht erfüllt bewerten"
+msgstr "Mit nicht erfüllt bewerten"
+
+msgid "Sollen die aufgeführten Prüfbereiche mit nicht erfüllt bewertet werden?"
+msgstr "Sollen die aufgeführten Prüfbereiche mit nicht erfüllt bewertet werden?"
+
+msgid "Sollen die Bewertungen der aufgeführten Prüfbereiche entfernt werden?"
+msgstr "Sollen die Bewertungen der aufgeführten Prüfbereiche entfernt werden?"
+
+msgid "has been removed."
+msgstr "wurde entfernt."
+
+msgid "was not removed."
+msgstr "wurde nicht entfernt."
+
+msgid "Sollen die Fehler-Codes der aufgeführten Prüfbereiche entfernt werden?"
+msgstr "Sollen die Fehler-Codes der aufgeführten Prüfbereiche entfernt werden?"
+
+msgid "Association was removed"
+msgstr "Zuordnung wurde gelöscht"
+
+msgid "Report was associated"
+msgstr "Prüfbericht wurde zugeordnet"
+
+msgid "Nächster Prüfbereich"
+msgstr "Nächster Prüfbereich"
+
+msgid "Vorhergehender Prüfbereich"
+msgstr "Vorhergehender Prüfbereich"
+
+msgid "Nächste Naht"
+msgstr "Nächste Naht"
+
+msgid "Vorhergehende Naht"
+msgstr "Vorhergehende Naht"
+
+msgid "Pressuretest"
+msgstr "Druckprüfung"
+
+msgid "Print statistics"
+msgstr "Statistik drucken"
+
+msgid "Export statistics"
+msgstr "Statistik exportieren"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "March"
+msgstr "März"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Dezember"
+
+msgid "Percentage"
+msgstr "Prozent"
+
+msgid "Weld type"
+msgstr "Schweißnahttyp"
+
+msgid "Welder"
+msgstr "Schweißer"
+
+msgid "Welder test"
+msgstr "Schweißertest"
+
+msgid "Welder Parts"
+msgstr "Kategorien"
+
+msgid "Welding Companies"
+msgstr "Schweißfirmen"
+
+msgid "Welder supervisor"
+msgstr "Schweißaufsichtsperson"
+
+msgid "Weldingcomp info"
+msgstr "Details Schweißfirma"
+
+msgid "Welder administration"
+msgstr "Schweißerverwaltung"
+
+msgid "Print active welder list"
+msgstr "Schweißerliste drucken (aktiv)"
+
+msgid "Print deactive welder list"
+msgstr "Schweißerliste drucken (deaktiv)"
+
+msgid "Show last tests"
+msgstr "Handfertigkeitstests anzeigen"
+
+msgid "Send welder informations"
+msgstr "Schweißerinformationen senden"
+
+msgid "Edit welder"
+msgstr "Schweißer bearbeiten"
+
+msgid "Add welder"
+msgstr "Schweißer hinzufügen"
+
+msgid "Company licence"
+msgstr "Firmenzulassung"
+
+msgid "Type of error"
+msgstr "Fehlerart"
+
+msgid " has no testingmethod"
+msgstr " hat kein Prüfverfahren"
+
+msgid "Searching for reports"
+msgstr "Suche nach Prüfberichten"
+
+msgid "in"
+msgstr "in"
+
+msgid "Export result list"
+msgstr "Ergebnisliste exportieren"
+
+msgid "Prüfpunkte"
+msgstr "Prüfpunkte"
+
+msgid "für Fortschritt von"
+msgstr "für Fortschritt von"
+
+msgid "File not found."
+msgstr "Die Datei konnte nicht gefunden werden."
+
+msgid "File could not be decrypted."
+msgstr "Die Datei konnte nicht entschlüsselt werden."
+
+msgid "Please upload a certificate file."
+msgstr "Bitte laden Sie eine Zertifikatsdatei in das System."
+
+msgid "The certificate file could not be found, pleace upload a new file."
+msgstr "Die Zertifikatsdatei konnte nicht gefunden werden. Bitte laden Sie eine neue Datei in das System."
+
+msgid "No settled reports found - only closed reports can be settle. Only additional services can be added."
+msgstr "Keine abrechennbaren Berichte gefunden, es können nur geschlossene Berichte abgerechnet werden. Es können nur zusätzliche Leistungen hinzugefügt werden."
+
+msgid "Es sind keine abrechenbare Prüfberichte vorhanden, es können nur geschlossene Prüfberichte abgerechnet werden. Es können zusätzliche Leistungen angelegt werden."
+msgstr "Es sind keine abrechenbare Prüfberichte vorhanden, es können nur geschlossene Prüfberichte abgerechnet werden. Es können zusätzliche Leistungen angelegt werden."
+
+msgid "Create order through a file"
+msgstr "Equipment durch das Laden einer gültigen Datei erstellen."
+
+msgid "bereit für Aufmaß"
+msgstr "bereit für Aufmaß"
+
+msgid "Seite"
+msgstr "Seite"
+
+msgid "Welding company: %s"
+msgstr "Schweißfirma: %s"
+
+msgid "No rights for this function,"
+msgstr "Sie haben keine Berechtigung für diese Funktion."
+
+msgid "this window will close in"
+msgstr "Dieses Fenster wird geschlossen "
+
+msgid "Es existieren keine geplanten Prüfpunkte für die"
+msgstr "Es existieren keine geplanten Prüfpunkte für die"
+
+msgid "Edited by"
+msgstr "Bearbeitet von"
+
+msgid "Fortschritte auswählen"
+msgstr "Fortschritte auswählen"
+
+msgid "Daten für Fortschritt bereitstellen"
+msgstr "Daten für Fortschritt bereitstellen"
+
+msgid "Rep"
+msgstr "Rep"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Show details of progress"
+msgstr "Details diese Fortschritts anzeigen"
+
+msgid "Open this Order"
+msgstr "Equipment öffnen"
+
+msgid "Close this Order"
+msgstr "Equipment schließen"
+
+msgid "repairs"
+msgstr "Reparaturen"
+
+msgid "Delete dropdown value"
+msgstr "Dropdowneintrag löschen"
+
+msgid "aus"
+msgstr "aus"
+
+msgid "Löschen"
+msgstr "Löschen"
+
+msgid "Die Werte des Feldes"
+msgstr "Die Werte des Feldes"
+
+msgid "in das Feld"
+msgstr "in das Feld"
+
+msgid "kopieren"
+msgstr "kopieren"
+
+msgid "Das Feld"
+msgstr "Das Feld"
+
+msgid "besitzt folgende abhängige Werte, die mit kopiert werden können."
+msgstr "besitzt folgende abhängige Werte, die mit kopiert werden können."
+
+msgid "Ursprung"
+msgstr "Ursprung"
+
+msgid "Ziel"
+msgstr "Ziel"
+
+msgid "Abhängige Werte ebenfalls kopieren?"
+msgstr "Abhängige Werte ebenfalls kopieren?"
+
+msgid "Abhängige Werte mit kopieren"
+msgstr "Abhängige Werte mit kopieren"
+
+msgid "Abhängige Werte nicht mit kopieren"
+msgstr "Abhängige Werte nicht mit kopieren"
+
+msgid "Remove exististing values"
+msgstr "Vorhanden Werte löschen"
+
+msgid "Entschuldigung"
+msgstr "Entschuldigung"
+
+msgid "Benutzen Sie den unten stehenden Link um zur Startseite der Anwendung zurückzukehren"
+msgstr "Benutzen Sie den unten stehenden Link um zur Startseite der Anwendung zurückzukehren"
+
+msgid "Sie können versuchen, die Verbindung erneut aufzubauen"
+msgstr "Sie können versuchen, die Verbindung erneut aufzubauen"
+
+msgid "Achtung, beim Löschen dieser Komponente werden alle untergeordneten Aufträge und Prüfberichte ebenfalls gelöscht!"
+msgstr "Achtung, beim Löschen dieser Komponente werden alle untergeordneten Aufträge und Prüfberichte ebenfalls gelöscht!"
+
+msgid "Soll diese Komponente gelöscht werden?"
+msgstr "Soll diese Komponente gelöscht werden?"
+
+msgid "Pr-Nr. (YYYY-NN)"
+msgstr "Pr-Nr. (YYYY-NN)"
+
+msgid "Soll dieser Auftrag gelöscht werden?"
+msgstr "Soll dieses Equipment gelöscht werden?"
+
+msgid "Achtung, beim Löschen dieser Komponente werden alle untergeordneten Komponenten, Aufträge und Prüfberichte ebenfalls gelöscht!"
+msgstr "Achtung, beim Löschen dieser Komponente werden alle untergeordneten Komponenten, Aufträge und Prüfberichte ebenfalls gelöscht!"
+
+msgid "Soll dieser Komponentetype gelöscht werden?"
+msgstr "Soll dieser Komponentetype gelöscht werden?"
+
+msgid "certificate"
+msgstr "Zertifizierung"
+
+msgid "Edit examiner data"
+msgstr "Prüferdaten bearbeiten"
+
+msgid "Certification infos"
+msgstr "Zertifizierungsinformationen"
+
+msgid "Certificate file not found."
+msgstr "Die Zertifizierungsdatei konnte nicht gefunden werden."
+
+msgid "There is a valid certificate."
+msgstr "Eine Zertifikatsdatei ist vorhanden."
+
+msgid "When you upload a new file, the existing file will be deleted."
+msgstr "Wenn Sie einen neue Datei in das System laden, wird die vorhandene Datei gelöscht."
+
+msgid "Show certificate file"
+msgstr "Zertifikationsdatei anzeigen"
+
+msgid "Replace certificate file"
+msgstr "Zertifikationsdatei ersetzen"
+
+msgid "Delete certificate file"
+msgstr "Zertifikationsdatei löschen"
+
+msgid "This certificate is still valid for"
+msgstr "Dauer der Gültigkeit"
+
+msgid "To recertificate they are reminded in"
+msgstr "Sie werden informiert in"
+
+msgid "months"
+msgstr "Monaten"
+
+msgid "before"
+msgstr "vor"
+
+msgid "This certificate has the status"
+msgstr "Diese Zertifizierung hat den Status"
+
+msgid "not certificated"
+msgstr "nicht zertifiziert"
+
+msgid "This certificate has no status"
+msgstr "Diese Zertifizierung besitzt keinen Status"
+
+msgid "Edit this information"
+msgstr "Zertifizierungsinformationen bearbeiten"
+
+msgid "Delete this information"
+msgstr "Diese Informationen löschen"
+
+msgid "Renewal certificat"
+msgstr "Erneuerung"
+
+msgid "Replace or create certificat (recertification)"
+msgstr "Rezertifizierung"
+
+msgid "Renewal this information"
+msgstr "Zertifizierung erneuern"
+
+msgid "Replace this information"
+msgstr "Qualifikation rezertifizieren"
+
+msgid "There is no certifcate file available."
+msgstr "Es ist keine Zertifikatsdatei vorhanden."
+
+msgid "Edit certificate"
+msgstr "Zertifizierung bearbeiten"
+
+msgid "Recertification is not requested"
+msgstr "Rezertifizierungsantrag wurde nicht gestellt"
+
+msgid "Renewal is not requested"
+msgstr "Antrag auf Erneuerung wurde nicht gestellt"
+
+msgid "Recertification is requested"
+msgstr "Rezertifizierungsantrag wurde gestellt"
+
+msgid "The request for recertification can be submitted earliest on"
+msgstr "Der Antrag auf Rezertifizierung kann gestellt werden am"
+
+msgid "Select file"
+msgstr "Datei auswählen"
+
+msgid "certificates"
+msgstr "Zertifizierungen"
+
+msgid "Sector"
+msgstr "Sektor"
+
+msgid "certificat"
+msgstr "Zertifizierung"
+
+msgid "certificats"
+msgstr "Zertifizierungen"
+
+msgid "Refresh qualification infos"
+msgstr "Qualifizierungsinformationen aktualisieren"
+
+msgid "Show qualification infos"
+msgstr "Qualifizierungsinformationen anzeigen"
+
+msgid "The request for renewal is submitted."
+msgstr "Antrag auf Erneuerung wurde gestellt."
+
+msgid "They were reminded on"
+msgstr "Sie wurden erinnert am"
+
+msgid "next certification"
+msgstr "Nächste Zertifizierung am"
+
+msgid "This certification will expire on"
+msgstr "Diese Zertifizierung endet am"
+
+msgid "They will be remembered"
+msgstr "Sie werden erinnert am"
+
+msgid "reminder"
+msgstr "Erinnerung am"
+
+msgid "There is a valid eye check."
+msgstr "Der Sehtest ist gültig"
+
+msgid "Show eye check"
+msgstr "Sehtest anzeigen"
+
+msgid "Delete eye check"
+msgstr "Sehtest löschen"
+
+msgid "Select eye check"
+msgstr "Sehtest auswählen"
+
+msgid "Select check"
+msgstr "Test auswählen"
+
+msgid "Show certificate"
+msgstr "Zertifizierung anzeigen"
+
+msgid "eye check"
+msgstr "Sehtest"
+
+msgid "Eye check infos"
+msgstr "Sehtestinformationen"
+
+msgid "eye checks"
+msgstr "Sehtests"
+
+msgid "Eye check carried out by"
+msgstr "Der Sehtest wurde erstellt von"
+
+msgid "Eye check carried out on"
+msgstr "Der Sehtest wurde erstellt am"
+
+msgid "The next eye check must be carried out"
+msgstr "Der nächste Sehtest muss erstellt werden am"
+
+msgid "The next reminder is on"
+msgstr "Die nächste Erinnerung erfolgt am"
+
+msgid "Werkstatt"
+msgstr "Werkstatt"
+
+msgid "Soll dieser Prüfer gelöscht werden?"
+msgstr "Soll dieser Prüfer gelöscht werden?"
+
+msgid "Workload"
+msgstr "Arbeitsaufwand"
+
+msgid "Edit Workload"
+msgstr "Arbeitsaufwand bearbeitet"
+
+msgid "Soll dieser Eintrag gelöscht werden?"
+msgstr "Soll dieser Eintrag gelöscht werden?"
+
+msgid "add certificate"
+msgstr "Qualifizierung hinzufügen"
+
+msgid "edit certificate"
+msgstr "Qualifizierung bearbeiten"
+
+msgid "Irregularities"
+msgstr "Unregelmäßigkeiten"
+
+msgid "Warning"
+msgstr "Warnung"
+
+msgid "Warnings"
+msgstr "Warnungen"
+
+msgid "Hint"
+msgstr "Hinweis"
+
+msgid "Irregularity"
+msgstr "Unregelmäßigkeit"
+
+msgid "Grunddaten"
+msgstr "Grunddaten"
+
+msgid "Es liegen keine Daten vor."
+msgstr "Es liegen keine Daten vor."
+
+msgid "Replace or create certificat info"
+msgstr "Zertifiktatinfos ersetzen"
+
+msgid "Show videos"
+msgstr "Videos anzeigen"
+
+msgid "Move this report"
+msgstr "Diesen Prüfbericht verschieben"
+
+msgid "Signature"
+msgstr "Unterschrift"
+
+msgid "Signatures"
+msgstr "Unterschriften"
+
+msgid "removed"
+msgstr "entfernt"
+
+msgid "reopened"
+msgstr "wiedereröffnet"
+
+msgid "Not connected to WSS-Service"
+msgstr "Es wurde kein WSS-Service auf diesem Computer gefunden, es können keine digitalen Unterschriften erstellt werden."
+
+msgid "Connected to WSS service"
+msgstr "Es wurde eine sichere Verbindung mit dem WSS-Service hergestellt."
+
+msgid "Sign pad not conected"
+msgstr "Aktuell besteht keine Verbindung zu einem Unterschriftenpad."
+
+msgid "Sign pad conected"
+msgstr "Es besteht eine Verbindung zu einem Unterschriftenpad. Sie können Ihre Unterschrift auf das Pad schreiben."
+
+msgid "The current connection has been closed, please try again"
+msgstr "Aktuell besteht keine Verbindung zu einem Unterschriftenpad."
+
+msgid "examination development"
+msgstr "Prüffortschritte"
+
+msgid "Examination development"
+msgstr "Prüffortschritte"
+
+msgid "Show repair history"
+msgstr "Reparaturbericht anzeigen/erstellen"
+
+msgid "Enforce parent reportnumber"
+msgstr "Prüfberichtsnummer untergeordneter Berichte überschreiben"
+
+msgid "Current status is not enforce"
+msgstr "Aktueller Status ist nicht untergeordnet"
+
+msgid "Current status is enforce"
+msgstr "Aktueller Status ist untergeordnet"
+
+msgid "Assigned reports"
+msgstr "Zugeordnete Berichte"
+
+msgid "Attached images"
+msgstr "Angehängte Bilder"
+
+msgid "abgerechnet"
+msgstr "abgerechnet"
+
+msgid "Massenaktion wählen"
+msgstr "Massenaktion wählen"
+
+msgid "Gesamte Naht löschen"
+msgstr "Gesamte Naht löschen"
+
+msgid "Soll die gesamte Naht gelöscht werden?"
+msgstr "Soll die gesamte Naht gelöscht werden?"
+
+msgid "Diesen Nahtabschnitt löschen"
+msgstr "Diesen Nahtabschnitt löschen"
+
+msgid "Soll dieser Nahtabschnitt gelöscht werden?"
+msgstr "Soll dieser Nahtabschnitt gelöscht werden?"
+
+msgid "Edit "
+msgstr "Bearbeite "
+
+msgid "EN 1435 Bildnummern"
+msgstr "EN 1435 Bildnummern"
+
+msgid "Statisticsadditional"
+msgstr "weitere Statistiken"
+
+msgid "show/Hide"
+msgstr "anzeigen/verstecken"
+
+msgid "Achtung, beim Löschen dieser Komponente werden alle untergeordneten Prüfberichte ebenfalls gelöscht!"
+msgstr "Achtung, beim Löschen dieser Komponente werden alle untergeordneten Prüfberichte ebenfalls gelöscht!"
+
+msgid "Custom value"
+msgstr "zusätzlicher Eintrag"
+
+msgid "Es existieren keine offenen Aufträge in dieser Kategorie."
+msgstr "Es existieren keine offenen Aufträge in dieser Kategorie."
+
+msgid "Overview Reports"
+msgstr "Übersicht Prüfberichte"
+
+msgid "Order-No."
+msgstr "Equipments-Nr."
+
+msgid "EquipmentType"
+msgstr "Ausrüstungstyp"
+
+msgid "Assigned reports for %s"
+msgstr "Zugeordnete Prüfberichte für %s"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Parent report"
+msgstr "Übergeordneter Bericht"
+
+msgid "Child report"
+msgstr "Untergeordneter Bericht"
+
+msgid "Remove assignment"
+msgstr "Zuordnung löschen"
+
+msgid "Duplicate report"
+msgstr "Prüfbericht duplizieren"
+
+msgid "Soll folgender Prüfbericht dupliziert werden:"
+msgstr "Soll folgender Prüfbericht dupliziert werden:"
+
+msgid "Sie haben die Möglichkeit Daten, welche nicht dupliziert werden sollen, abzuwählen."
+msgstr "Sie haben die Möglichkeit Daten, welche nicht dupliziert werden sollen, abzuwählen."
+
+msgid "Abbrechen"
+msgstr "Abbrechen"
+
+msgid "Zurück zur Übersicht"
+msgstr "Zurück zur Übersicht"
+
+msgid "Vorhergehender Prüfbericht"
+msgstr "Vorhergehender Prüfbericht"
+
+msgid "Nächster Prüfbericht"
+msgstr "Nächster Prüfbericht"
+
+msgid "Custom value"
+msgstr "Eigener Wert"
+
+msgid "löschen"
+msgstr "löschen"
+
+msgid "Prüfbereich"
+msgstr "Prüfbereich"
+
+msgid "Prüfbereiche anzeigen von"
+msgstr "Prüfbereiche anzeigen von"
+
+msgid "This field must not be empty"
+msgstr "Dieses Feld darf nicht leer sein"
+
+msgid "Validation"
+msgstr "Eingabeüberprüfung"
+
+msgid "Es wurden alle Pflichtfelder ausgefüllt, der Prüfbericht kann gedruckt werden."
+msgstr "Es wurden alle Pflichtfelder ausgefüllt, der Prüfbericht kann gedruckt werden."
+
+msgid "error(s)"
+msgstr "Fehler"
+
+msgid "Soll diese Datei gelöscht werden?"
+msgstr "Soll diese Datei gelöscht werden?"
+
+msgid "Soll dieses Bild gelöscht werden?"
+msgstr "Soll dieses Bild gelöscht werden?"
+
+msgid "Alle Prüfberichte im Projekt"
+msgstr "Alle Prüfberichte im Projekt"
+
+msgid "Project %s"
+msgstr "Projekt %s"
+
+msgid "Evaluating statistics for more than %s reports may cause problems."
+msgstr "Die statistische Ausgabe von mehr als %s Prüfberichten kann zu Problemen führen."
+
+msgid "Soll dieser Prüfbericht gelöscht werden?"
+msgstr "Soll dieser Prüfbericht gelöscht werden?"
+
+msgid "Create signature for"
+msgstr "Unterschrift anlegen für "
+
+msgid "Videoupload"
+msgstr "Video hochladen"
+
+msgid "Soll diese Prüfberichtsmappe gelöscht werden?"
+msgstr "Soll diese Prüfberichtsmappe gelöscht werden?"
+
+msgid "Specialcharacter will be appended to field %s"
+msgstr "Das Sonderzeichen wird in das Feld %s eingetragen."
+
+msgid "Error number"
+msgstr "Fehlernummer"
+
+msgid "There are no matching reports containing evaluations"
+msgstr "Es gibt keine passenden Prüfberichte mit Nähten"
+
+msgid "Percent"
+msgstr "Prozent"
+
+msgid "Straße"
+msgstr "Straße"
+
+msgid "Soll dieses Unternehmen gelöscht werden?"
+msgstr "Soll dieses Unternehmen gelöscht werden?"
+
+msgid "Achtung, beim Löschen dieses Projekts werden alle untergeordneten Komponenten, Aufträge und Prüfberichte ebenfalls gelöscht!"
+msgstr "Achtung, beim Löschen dieses Projekts werden alle untergeordneten Komponenten, Aufträge und Prüfberichte ebenfalls gelöscht!"
+
+msgid "Projektname"
+msgstr "Projektname"
+
+msgid "Diese Projekt steht standardmäßig auf"
+msgstr "Diese Projekt steht standardmäßig auf"
+
+msgid "Soll das gesamte Project gelöscht werden?"
+msgstr "Soll das gesamte Projekt gelöscht werden?"
+
+msgid "Soll dieser User gelöscht werden?"
+msgstr "Soll dieser Benutzer gelöscht werden?"
+
+msgid "No options available"
+msgstr "Keine Auswahlmöglichkeiten vorhanden"
+
+msgid "Displayed period"
+msgstr "Zeitraum"
+
+msgid "All months"
+msgstr "Alle Monate"
+
+msgid "Hints"
+msgstr "Hinweise"
+
+msgid "year"
+msgstr "Jahr"
+
+msgid "month"
+msgstr "Monat"
+
+msgid "day"
+msgstr "Tag"
+
+msgid "hour"
+msgstr "Stunde"
+
+msgid "minute"
+msgstr "Minute"
+
+msgid "second"
+msgstr "Sekunde"
+
+msgid "level"
+msgstr "Stufe"
+
+msgid "show zertificate"
+msgstr "Zertifizierung anzeigen"
+
+msgid "Examiner data"
+msgstr "Informationen zum Prüfer"
+
+msgid "Examiners administration"
+msgstr "Prüferverwaltung"
+
+msgid "This certificate has the status deaktive."
+msgstr "Diese Zertifizierung wurde deaktiviert."
+
+msgid "Deactive"
+msgstr "Deaktivierte Zertifizierungen"
+
+msgid "Add examiner"
+msgstr "Prüfer hinzufügen"
+
+msgid "certificates/see tests"
+msgstr "Zertifizierungen/Sehtests"
+
+msgid "The time for certification will be reached in:"
+msgstr "Der Zeitpunkt für die Zertifizierung wird erreicht in"
+
+msgid "The time for certification is reached on"
+msgstr "Der Zeitpunkt für die Zertifizierung wird erreicht am"
+
+msgid "The time for the certification was reached."
+msgstr "Der Zeitpunkt für die Zertifizierung ist erreicht."
+
+msgid "This certificat has the status CERTIFICATED but there is no certification date. Please open the certification and enter a valid date."
+msgstr "Diese Zertifizierung hat den Status ZERTIFIZIERT, aber es existiert kein Zertifizierungsdatum. Bitte öffnen Sie die Zertifizierung, um ein gültiges Datum einzutragen."
+
+msgid "The time for certification was reached on"
+msgstr "Der Zeitpunkt zur Zertifizierung wurde erreicht am"
+
+msgid "qualifications"
+msgstr "Qualifizierungen"
+
+msgid "qualification"
+msgstr "Qualifizierung"
+
+msgid "No vision tests for this examiner available."
+msgstr "Für diesen Prüfer sind keine Sehtests vorhanden"
+
+msgid "This vision test is deactive"
+msgstr "Dieser Sehtest wurde deaktiviert"
+
+msgid "Eye check carried out by"
+msgstr "Diese Sehtest wurde erstellt von"
+
+msgid "Eye check carried out/renewed on"
+msgstr "Diese Sehtest wurde erstellt/erneuert am"
+
+msgid "The next eye check must be carried out"
+msgstr "Der nächste Sehtest muss erstellt werden am"
+
+msgid "The next reminder is on"
+msgstr "Die nächste Erinnerung erfolgt am"
+
+msgid "Edit vision test"
+msgstr "Sehtest bearbeiten"
+
+msgid "Show vision test file"
+msgstr "Sehtest Datei anzeigen"
+
+msgid "Delete vision test file"
+msgstr "Sehtest Datei löschen"
+
+msgid "This vision test is still valid for"
+msgstr "Diese Sehtest ist gültig für"
+
+msgid "For the next vision test they are reminded in"
+msgstr "Für den nächsten Sehtest werden Sie informiert in"
+
+msgid "This vision test has the status"
+msgstr "Dieser Sehtest hat den Status"
+
+msgid "This vision test has no status"
+msgstr "Dieser Sehtest besitzt keinen Status"
+
+msgid "Edit this vision test"
+msgstr "Sehtest bearbeiten"
+
+msgid "Delete this vision test"
+msgstr "Sehtest löschen"
+
+msgid "Replace this vision test"
+msgstr "Sehtest erneuern"
+
+msgid "Examiner name"
+msgstr "Prüfer-Name"
+
+msgid "Vision tests"
+msgstr "Sehtests"
+
+msgid "Use this date for certification"
+msgstr "Dieses Datum für die Zertifizierung verwenden"
+
+msgid "Use this date for renewal"
+msgstr "Dieses Datum für die Erneuerung verwenden"
+
+msgid "Scheduled renewal"
+msgstr "Erneuerungstermin"
+
+msgid "Scheduled certification"
+msgstr "Zertifizierungstermin"
+
+msgid "First-time certification"
+msgstr "Erste Zertifizierung"
+
+msgid "First-time certifications"
+msgstr "Erste Zertifizierungen"
+
+msgid "Send this vision test informations per email"
+msgstr "Sehtestinformationen per E-Mail versenden"
+
+msgid "Send this certificate informations per email"
+msgstr "Zertifizierungsinformationen per E-Mail versenden"
+
+msgid "email"
+msgstr "E-mail Adresse"
+
+msgid "comment"
+msgstr "Kommentar"
+
+msgid "E-mail is sent"
+msgstr "E-mail versendet"
+
+msgid "Commentar"
+msgstr "Kommentar"
+
+msgid "Devices administration"
+msgstr "Geräteverwaltung"
+
+msgid "Devices"
+msgstr "Geräte"
+
+msgid "Device"
+msgstr "Gerät"
+
+msgid "Device name"
+msgstr "Gerätename"
+
+msgid "Add device"
+msgstr "Gerät hinzufügen"
+
+msgid "Edit device"
+msgstr "Gerät bearbeiten"
+
+msgid "Duplicate this device"
+msgstr "Diese Gerät duplizieren"
+
+msgid "Delete this device"
+msgstr "Diese Gerät löschen"
+
+msgid "Edit file description"
+msgstr "Dateibeschreibung bearbeiten"
+
+msgid "Show file"
+msgstr "Datei anzeigen"
+
+msgid "Show document"
+msgstr "Dateien anzeigen und/oder speichern"
+
+msgid "The value has been saved"
+msgstr "Der Wert wurde gespeichert"
+
+msgid "Please enter a description for the uploaded file"
+msgstr "Bitte geben Sie eine Beschreibung für die hochgeladene Datei an"
+
+msgid "File description"
+msgstr "Dateibeschreibung"
+
+msgid "Originally filename"
+msgstr "Ursprünglicher Dateiname"
+
+msgid "Will you delete this file?"
+msgstr "Wollen Sie diese Datei löschen?"
+
+msgid "The file has been deleted"
+msgstr "Die Datei wurde gelöscht"
+
+msgid "renewal time is exceeded"
+msgstr "Die Zeit zur Erneuerung wurde überschritten am"
+
+msgid "next renewal"
+msgstr "Nächste Erneuerung"
+
+msgid "To renewal they are reminded in"
+msgstr "Sie werden informiert in"
+
+msgid "Renewal is requested"
+msgstr "Erneuerung ist beantragt"
+
+msgid "The request for renewal can be submitted earliest on"
+msgstr "Der Antrag auf Erneuerung kann gestellt werden am"
+
+msgid "This device ist not certificated"
+msgstr "Dieses Gerät ist nicht zertifiziert"
+
+msgid "There is no valide vision test."
+msgstr "Es existiert kein gültiger Sehtest"
+
+msgid "ZI-T-W-W"
+msgstr "ZI-T-W-W"
+
+msgid "TÜV/TAW"
+msgstr "TÜV/TAW"
+
+msgid "Protocol"
+msgstr "Protokoll"
+
+msgid "Conducted testings"
+msgstr "Durchgeführte Prüfungen"
+
+msgid "TÜV / TAW"
+msgstr "TÜV / TAW"
+
+msgid "Capable person"
+msgstr "Befähigte Person"
+
+msgid "Results"
+msgstr "Befund"
+
+msgid "for tanks, machines and steel construction"
+msgstr "für Behälter, Apparate und Stahlbau"
+
+msgid "Pos."
+msgstr "Pos."
+
+msgid "Num."
+msgstr "Stk."
+
+msgid "Caption"
+msgstr "Benennung"
+
+msgid "Material"
+msgstr "Werkstoff"
+
+msgid "Stamping"
+msgstr "Stempelung"
+
+msgid "Certificate %s"
+msgstr "Zeugnis %s"
+
+msgid "BP / TÜV"
+msgstr "BP / TÜV"
+
+msgid "Material certification"
+msgstr "Werkstoffnachweis"
+
+msgid "Welding details"
+msgstr "Schweißtechnische Einzelheiten"
+
+msgid "List of welds"
+msgstr "Schweißnahtliste"
+
+msgid "Welding method"
+msgstr "Schweißverfahren"
+
+msgid "Welding addition"
+msgstr "Schweißzusatz"
+
+msgid "Main welds"
+msgstr "Hauptnähte"
+
+msgid "Weld clip"
+msgstr "Stutzen"
+
+msgid "Weld no."
+msgstr "Naht-Nr."
+
+msgid "Preheat"
+msgstr "Vorwärmen"
+
+msgid "Temperature"
+msgstr "Temperatur"
+
+msgid "Batch no."
+msgstr "Chargennr."
+
+msgid "Inhouse post"
+msgstr "Hauspost"
+
+msgid "Receiver"
+msgstr "Empfänger"
+
+msgid "Organiz. unit"
+msgstr "Org. Einheit"
+
+msgid "Post circle"
+msgstr "Postkreis"
+
+msgid "LP"
+msgstr "LP"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Filing"
+msgstr "Ablage"
+
+msgid "Forward to"
+msgstr "Weiterleiten"
+
+msgid "Weld repair tracking"
+msgstr "Reparaturverfolgung"
+
+msgid "Place the cursor on a report to view details about its welds."
+msgstr "Halten Sie den Mauszeiger über einen Prüfbericht, um Details zu den Nähten zu sehen."
+
+msgid "Weld"
+msgstr "Naht"
+
+msgid "first occourence"
+msgstr "erstes Vorkommen"
+
+msgid "last occourence"
+msgstr "letztes Vorkommen"
+
+msgid "last change"
+msgstr "letzte Änderung"
+
+msgid "No welds found"
+msgstr "Keine Nähte gefunden"
+
+msgid "Project %s"
+msgstr "Projekt %s"
+
+msgid "Evaluating statistics for more than %s reports may cause problems."
+msgstr "Statistiken für mehr als %s Prüfberichte auszuwerten, kann Probleme verursachen."
+
+msgid "Soll dieser Prüfbericht gelöscht werden?"
+msgstr "Soll dieser Prüfbericht gelöscht werden?"
+
+msgid "Create signature for "
+msgstr "Unterschrift anlegen für "
+
+msgid "Videoupload"
+msgstr "Video hochladen"
+
+msgid "Soll diese Prüfberichtsmappe gelöscht werden?"
+msgstr "Soll diese Prüfberichtsmappe gelöscht werden?"
+
+msgid "Specialcharacter will be appended to field %s"
+msgstr "Das Sonderzeichen wird für das Feld %s eingefügt"
+
+msgid "Error number"
+msgstr "Fehlernummer"
+
+msgid "There are no matching reports containing evaluations"
+msgstr "Es gibt keine passenden Prüfberichte mit Nähten"
+
+msgid "Percent"
+msgstr "Prozent"
+
+msgid "Straße"
+msgstr "Straße"
+
+msgid "Soll dieses Unternehmen gelöscht werden?"
+msgstr "Soll dieses Unternehmen gelöscht werden?"
+
+msgid "Achtung, beim Löschen dieses Projekts werden alle untergeordneten Komponenten, Aufträge und Prüfberichte ebenfalls gelöscht!"
+msgstr "Achtung, beim Löschen dieses Projekts werden alle untergeordneten Komponenten, Aufträge und Prüfberichte ebenfalls gelöscht!"
+
+msgid "Projektname"
+msgstr "Projektname"
+
+msgid "Diese Projekt steht standardmäßig auf"
+msgstr "Diese Projekt steht standardmäßig auf"
+
+msgid "Soll das gesamte Project gelöscht werden?"
+msgstr "Soll das gesamte Projekt gelöscht werden?"
+
+msgid "Soll dieser User gelöscht werden?"
+msgstr "Soll dieser Benutzer gelöscht werden?"
+
+msgid "No options available"
+msgstr "Keine Auswahlmöglichkeiten vorhanden"
+
+msgid "Displayed period"
+msgstr "Zeitraum"
+
+msgid "All months"
+msgstr "Alle Monate"
+
+msgid "Reset evaluation sorting"
+msgstr "Nahtsortierung zurücksetzen"
+
+msgid "Examination object"
+msgstr "Prüfobjekt"
+
+msgid "Welds without results found"
+msgstr "unbewertete Nahtabschnitte gefunden"
+
+msgid "Monitoring"
+msgstr "Überwachungen"
+
+msgid "Monitoring infos"
+msgstr "Überwachungen"
+
+msgid "Registered in the following testing methods"
+msgstr "Registriert für folgende Prüfverfahren"
+
+msgid "Edit monitoring"
+msgstr "Überwachung bearbeiten"
+
+msgid "The monitoring infos has been saved"
+msgstr "Die Überwachung wurde gespeichert"
+
+msgid "The monitoring infos could not be saved. Please, try again."
+msgstr "Die Überwachung konnte nicht gespeichert werden, bitte versuchen Sie es erneut."
+
+msgid "is not valid"
+msgstr "ist nicht gültig"
+
+msgid "is valid"
+msgstr "ist gültig"
+
+msgid "has not been performed"
+msgstr "wurde nicht vorgenommen"
+
+msgid "No file available"
+msgstr "Keine Datei vorhanden"
+
+msgid "File available"
+msgstr "Datei vorhanden"
+
+msgid "File not available"
+msgstr "Datei nicht vorhanden"
+
+msgid "Certificate file not available"
+msgstr "Zertifikat nicht vorhanden"
+
+msgid "Please upload a file."
+msgstr "Bitte laden Sie eine Datei in das System"
+
+msgid "The uploadet file could not be found, pleace upload a new file."
+msgstr "Die hochgeladene Datei konnte nicht gefunden werden, bitte laden Sie eine neuen Datei in das System."
+
+msgid "This verification has the status"
+msgstr "Diese Überwachnung hat den Status"
+
+msgid "The request for the next verification can be submitted earliest on"
+msgstr "Die Beantragung für die nächste Überprüfung kann gestellt werden am"
+
+msgid "Next verification is requested"
+msgstr "Die nächste Überprüfung wurde beantragt"
+
+msgid "next verification"
+msgstr "nächste Überprüfung"
+
+msgid "next verification is not requested"
+msgstr "Die nächste Überprüfung wurde nicht beantragt"
+
+msgid "verification time is exceeded"
+msgstr "Der Überwachungszeitraum wurde überschritten"
+
+msgid "For the next verification they are reminded in"
+msgstr "Für die nächste Überprüfung werden sie erinnert in"
+
+msgid "This verification is still valid for"
+msgstr "Diese Überwachung ist gültig für"
+
+msgid "Next scheduled monitoring"
+msgstr "Diese Überwachung muss erneuert werden am"
+
+msgid "This verification is valide but there is no verification date. Please open the verification and enter a valid date."
+msgstr "Diese Überprüfung ist gültig, aber es existiert kein Überprüfungsdatum. Bitte öffnen Sie diese Überwachung um ein gültiges Datum einzugeben."
+
+msgid "The time for the verification was reached."
+msgstr "Der Zeitpunkt zur Überprüfung wurde erreicht"
+
+msgid "The time for verification will be reached in:"
+msgstr "Der Zeitpunkt für die nächste Überprüfung wird erreicht in:"
+
+msgid "add monitoring"
+msgstr "Überwachung hinzufügen"
+
+msgid "Add monitoring"
+msgstr "Überwachung hinzufügen"
+
+msgid "Information could not be saved, there is already a monitoring"
+msgstr "Die Informationen konnten nicht gespeichert werden, folgende Überwachung ist für diese Gerät schon vorhanden"
+
+msgid "add vision test"
+msgstr "Sehtest hinzufügen"
+
+msgid "The uploaded file exceeds the max filesize"
+msgstr "Die hochgeladene Datei ist größer als erlaubt, und wurde nicht gespeichert."
+
+msgid "The file uploaded with success"
+msgstr "Die Datei wurde erfolgreich gespeichert."
+
+msgid "Examiner overview"
+msgstr "Prüferübersicht"
+
+msgid "Delete examiner"
+msgstr "Prüfer löschen"
+
+msgid "Examiner qualifications"
+msgstr "Qualifikationen"
+
+msgid "Examiner eyechecks"
+msgstr "Sehtests"
+
+msgid "Next scheduled certification"
+msgstr "Nächste geplante Zertifizierung"
+
+msgid "Refresh basic data infos"
+msgstr "Grunddaten aktualisieren"
+
+msgid "Show basic data infos"
+msgstr "Grunddaten anzeigen"
+
+msgid "First-time certifications reached"
+msgstr "Der Zeitpunkt für die erste Zertifizierung wurde überschritten"
+
+msgid "The certificate infos could not be saved."
+msgstr "Die Zertifizierungsinformationen konnten nicht gespeichert werden."
+
+msgid "There is a qualification with the same testingmethod and a higher level."
+msgstr "Es existiert eine Qualifikation im gleichem Prüfverfahren mit höherer Stufe."
+
+msgid "A qualification with the same testingmethod and a lower level was deactivated."
+msgstr "Eine Qualifikation mit dem gleichem Prüfverfahren und einer niedrigeren Stufe wurde deaktiviert."
+
+msgid "A qualification with the same testingmethod and a lower level could not be disabled."
+msgstr "Eine Qualifikation mit dem gleichem Prüfverfahren und einer niedrigeren Stufe konnte nicht deaktiviert werden."
+
+msgid "This Qualification was deactivated."
+msgstr "Diese Qualifikation wurde daktiviert."
+
+msgid "Device infos"
+msgstr "Geräteinformationen"
+
+msgid "Delete monitoring"
+msgstr "Überwachung löschen"
+
+msgid "Edit monitoring infos"
+msgstr "Überwachung, Grunddaten bearbeiten"
+
+msgid "Edit this monitoring information"
+msgstr "Diese Überwachungsinfos bearbeiten"
+
+msgid "Replace this monitoring"
+msgstr "Überwachung erneuern"
+
+msgid "Gerät certifications"
+msgstr "Geräte Überwachung"
+
+msgid "Back to monitorings of device"
+msgstr "Zurück zu den Überwachungen von Gerät"
+
+msgid "assigned report"
+msgstr "untergeordneter Bericht"
+
+msgid "assigned reports"
+msgstr "untergeordnete Berichte"
+
+msgid "An error occoured while loading settings. Please notify the Administrator."
+msgstr "Beim Laden der Einstellungen ist ein Fehler aufgetreten. Bitte Benachrichten Sie den Administrator."
+
+msgid "Time to lock"
+msgstr "Zeit bis zur Sperrung"
+
+msgid "Less than 1"
+msgstr "Weniger als 1"
+
+msgid "Will you create a revision of this report?"
+msgstr "Wollen Sie von diesem Prüfbericht einen Revision erstellen?"
+
+msgid "This function deactivated the current report and create a new report with a new report no."
+msgstr "Diese Funktion deaktiviert den aktuelle Prüfbericht und erstellt einen neuen Prüfbericht mit neuer Prüfberichts-Nr."
+
+msgid "All changes will be documented in the new report."
+msgstr "Alle Änderungen werden im neu erstellten Prüfbericht dokumentiert."
+
+msgid "Copy general data from source report"
+msgstr "Allgemeine Daten aus dem übergeordneten Bericht übernemen"
+
+msgid "Testing progress"
+msgstr "Prüffortschritt"
+
+msgid "Order functions"
+msgstr "Equipmentsbezogene Funktionen"
+
+msgid "Statistic"
+msgstr "Statistik"
+
+msgid "Testing and waiting times"
+msgstr "Prüf- und Wartezeiten"
+
+msgid "This report contains"
+msgstr "Dieser Prüfbericht enthält"
+
+msgid "Defect welds"
+msgstr "fehlerhafte Prüfbereiche"
+
+msgid "Evaled welds"
+msgstr "ausgewertete Prüfbereiche"
+
+msgid "Unevaled welds"
+msgstr "unausgewertete Prüfbereiche"
+
+msgid "The file has been delete"
+msgstr "Die Datei wurde gelöscht."
+
+msgid "Create revision"
+msgstr "Revision erstellen"
+
+msgid "revision"
+msgstr "Revision"
+
+msgid "Old version can not be displayed"
+msgstr "Die revisionierte Version kann nicht angezeigt werden"
+
+msgid "Do you want to delete this device?"
+msgstr "Soll dieses Gerät gelöscht werden?"
+
+msgid "The device has been deleted"
+msgstr "Das Gerät wurde gelöscht"
+
+msgid "Send this monitoring informations per email"
+msgstr "Überwachungsinformationen per E-Mail versenden"
+
+msgid "The value could not be saved. The record is deactive!"
+msgstr "Die Daten konnten nicht gespeichert werden. Dieser Datensatz besitzt den Status deaktiv. Ändern Sie den Status auf aktiv, um Daten zu ändern."
+
+msgid "Show or upload documents"
+msgstr "Dokumente anzeigen und/oder speichern"
+
+msgid "No documents avilable."
+msgstr "Es sind keine Dokumente vorhanden"
+
+msgid "Show vision test documents"
+msgstr "Sehtestdokumente anzeigen und/oder speichern"
+
+msgid "First-time certification reached"
+msgstr "Zeitpunkt für die erste Zertifizierung"
+
+msgid "subordinate reports show original reportnumber"
+msgstr "Untergeordnete Prüfberichte zeigen die originale Berichtsnummer"
+
+msgid "subordinate reports show parent reportnumber"
+msgstr "Untergeordnete Prüfberichte zeigen die Berichtsnummer des Elternberichts"
+
+msgid "This is a repair of"
+msgstr "Dieser Prüfbericht ist eine Reparatur von"
+
+msgid "Sorting was reset"
+msgstr "Sortierung zurückgesetzt"
+
+msgid "Monitorings"
+msgstr "Überwachungen"
+
+msgid "The device has been saved"
+msgstr "Die Änderungen wurden gespeichert"
+
+msgid "No results available."
+msgstr "Es sind keine Ergebnisse vorhanden."
+
+msgid "documents"
+msgstr "Dokumente"
+
+msgid "Examiner infos"
+msgstr "Prüfer Informationen"
+
+msgid "Are you sure you want to delete this monitoring?"
+msgstr "Sind Sie sicher, dass diese Überwachung gelöscht werden soll?"
+
+msgid "The monitoring infos could not be saved. The following monitoring exists for this device"
+msgstr "Die Überwachungsinformationen konnten nicht gespeichert werden. Die folgende Überwachung exisitiert schon für dieses Gerät."
+
+msgid "This monitoring has been disabled."
+msgstr "Diese Überwachung wurde deaktiviert."
+
+msgid "Registration no."
+msgstr "Registrierungs-Nr."
+
+msgid "Working place"
+msgstr "Dienststelle"
+
+msgid "Serial no."
+msgstr "Serien-Nr."
+
+msgid "Contact person"
+msgstr "Kontaktperson"
+
+msgid "Eye checks"
+msgstr "Sehtest"
+
+msgid "First registration"
+msgstr "Erste Registrierung"
+
+msgid "This monitoring was switched to invalid."
+msgstr "Diese Überwachung wurde als ungültig markiert."
+
+msgid "There is a valid monitoring file."
+msgstr "Dateiupload erfolgreich."
+
+msgid "Information could not be saved, there is already a certificate"
+msgstr "Die Informationen konnten nicht gespeichert werden, für diese Prüfer existiert bereits eine entsprechenden Qualifizierung."
+
+msgid "Delete vision test"
+msgstr "Sehtest löschen"
+
+msgid "Replace vision test"
+msgstr "Sehtest erneuern"
+
+msgid "Next scheduled  visiontest"
+msgstr "Nächste geplante Erneuerung des Sehtests"
+
+msgid "Will you delete the examiner"
+msgstr "Wollen Sie diesen Prüfer löschen"
+
+msgid "The monitoring infos has been saved."
+msgstr "Die Überwachung wurde gespeichert."
+
+msgid "Information could not be saved."
+msgstr "Die Informationen konnten nicht gespeichert werden."
+
+msgid "The infos has been saved"
+msgstr "Die Informationen wurden gespeichert."
+
+msgid "The date is too far in the past."
+msgstr "Das Zertifizierungsdatum muss größer als das letzte Zertifizierungsdatum sein."
+
+msgid "Information could not be saved, there is already a certificate with a higher level for this testingmethod."
+msgstr "Die Informationen konnten nicht gespeichert werden, es existiert eine Qualifizierung dieses Verfahrens in einer höheren Stufe."
+
+msgid "Working Place"
+msgstr "Dienststelle"
+
+msgid "Certificat"
+msgstr "Zertifikat"
+
+msgid "Recertification In Year"
+msgstr "Rezertifizierung in Jahren"
+
+msgid "Renewal In Year"
+msgstr "Erneuerung in Jahren"
+
+msgid "firmenname"
+msgstr "Prüfunternehmen"
+
+msgid "Date Of Birth"
+msgstr "Geburtsdatum"
+
+msgid "Certificate"
+msgstr "Zertifikat"
+
+msgid "Registration No"
+msgstr "Registriernummer"
+
+msgid "testingmethod"
+msgstr "Prüfverfahren"
+
+msgid "Producer"
+msgstr "Hersteller"
+
+msgid "Device Type"
+msgstr "Geräteart"
+
+msgid "Webplan"
+msgstr "Netzplan"
+
+msgid "First Registration"
+msgstr "Erste Registrierung"
+
+msgid "Remark"
+msgstr "Bemerkungen"
+
+msgid "Search examiner"
+msgstr "Prüfer suchen"
+
+msgid "Search examiners"
+msgstr "Prüfersuche"
+
+msgid "Search device"
+msgstr "Geräte suchen"
+
+msgid "Search devices"
+msgstr "Gerätesuche"
+
+msgid "Equipment Type"
+msgstr "Ausrüstungsart"
+
+msgid "Year"
+msgstr "Jahr"
+
+msgid "Device typ"
+msgstr "Geräteart"
+
+msgid "Description"
+msgstr "Bezeichnung"
+
+msgid "Responsible person"
+msgstr "Verantwortliche(r)"
+
+msgid "The device could not be deleted. Please, try again."
+msgstr "Das Gerät konnte nicht gelöscht werden, versuchen Sie es erneut."
+
+msgid "Das Gerät konnte nicht gespeichert werden. Bitte korrigieren Sie die markierten Felder."
+msgstr ""
+
+msgid "Id Card"
+msgstr "DA-Nr."
+
+msgid "Show vision test history"
+msgstr "Sehtests Verlauf anzeigen"
+
+msgid "renewed on"
+msgstr "erneuert am"
+
+msgid "history"
+msgstr "Verlauf"
+
+msgid "created on"
+msgstr "erstellt am"
+
+msgid "No certificate file found"
+msgstr "Es konnte keine Zertifikatsdatei gefunden werden"
+
+msgid "Qualification created on"
+msgstr "Die Qualifikation wurde erstellt am"
+
+msgid "Qualification certificated on"
+msgstr "Die Qualifikation wurde zertifiziert/erneuert/rezertifiziert am"
+
+msgid "Document administration"
+msgstr "Dokumenteverwaltung"
+
+msgid "Documents"
+msgstr "Dokumente"
+
+msgid "Document"
+msgstr "Dokument"
+
+msgid "Add document"
+msgstr "Dokument hinzufügen"
+
+msgid "Hide document infos"
+msgstr "Dokumentinfos verbergen"
+
+msgid "Show document infos"
+msgstr "Dokumentinfos anzeigen"
+
+msgid "Hide infos"
+msgstr "Infos verbergen"
+
+msgid "Show infos"
+msgstr "Infos anzeigen"
+
+msgid "Edit document infos"
+msgstr "Dokumenteninfos bearbeiten"
+
+msgid "Replace file"
+msgstr "Datei ersetzen"
+
+msgid "Delete document"
+msgstr "Dokumentinfos und Datei löschen"
+
+msgid "Minimize Window"
+msgstr "Fenster minimieren"
+
+msgid "Maximize Window"
+msgstr "Fenster maximieren"
+
+msgid "The document has been saved"
+msgstr "Die Dokumentinfos wurden gespeichert"
+
+msgid "Do you want to delete this document?"
+msgstr "Soll diese Dokument gelöscht werden?"
+
+msgid "Document description"
+msgstr "Dokument-Bezeichnung"
+
+msgid "The document has been deleted"
+msgstr "Das Dokument wurde gelöscht"
+
+msgid "Upload monitoring file"
+msgstr "Überwachungsdatei speichern"
+
+msgid "Show and add additional documents"
+msgstr "Zusätzliche Dokumente anzeigen und speichern"
+
+msgid "There is no monitoring file available."
+msgstr "Es ist keine Überwachungsdatei vorhanden."
+
+msgid "Show monitoring file"
+msgstr "Überwachungsdatei anzeigen"
+
+msgid "Change monitoring file"
+msgstr "Überwachungsdatei bearbeiten"
+
+msgid "Change eye check file"
+msgstr "Sehtestdatei bearbeiten"
+
+msgid "The uploaded file exceeds the max filesize directive that was specified in the HTML form"
+msgstr "Die Dateigröße"
+
+msgid "The uploaded file was only partially uploaded"
+msgstr "Die Datei wurde nur teilweise hochgeladen"
+
+msgid "No file was uploaded"
+msgstr "Die Datei wurde hochgeladen"
+
+msgid "Missing a temporary folder"
+msgstr "Kein temporärer Ordner gefunden"
+
+msgid "Deactiv"
+msgstr "Deaktiviert"
+
+msgid "1 Device found"
+msgstr "1 Gerät gefunden"
+
+msgid "Device not found"
+msgstr "Gerät nicht gefunden"
+
+msgid "The value could not be saved. Wrong parameters!"
+msgstr "Der Wert konnte wegen falscher Parameter nicht gespeichert werden."
+
+msgid "Invalid ID"
+msgstr "Ungültige ID"
+
+msgid "The value could not be saved. The record is deleted!"
+msgstr "Der Wert konnte nicht gespeichert werden, weil der Eintrag gelöscht wurde."
+
+msgid "Invalid value"
+msgstr "Ungültiger Wert"
+
+msgid "Invalid value 2"
+msgstr "Ungültiger Wert 2"
+
+msgid "Das Gerät ist keiner Kategorie zugeordnet."
+msgstr ""
+
+msgid "Invalid device"
+msgstr "Ungültiges Gerät"
+
+msgid "Invalid value 1"
+msgstr "Ungültiger Wert 1"
+
+msgid "Back to start"
+msgstr "Zurück zum Start"
+
+msgid "Back to device"
+msgstr "Zurück zum Gerät"
+
+msgid "Invalid id"
+msgstr "Ungültiger ID"
+
+msgid "The monitoring infos could not be deleted."
+msgstr "Die Überwachungsinformationen konnten nicht gelöscht werden."
+
+msgid "The monitoring infos has been be deleted. Please, try again."
+msgstr "Die Überwachungsinformationen sind schon gelöscht worden"
+
+msgid "The monitoring infos could not be deleted. Please, try again."
+msgstr "Die Überwachungsinformationen konnten nicht gelöscht werden. Bitte versuchen Sie es noch einmal."
+
+msgid "Invalid id 1"
+msgstr "Ungültige ID 1"
+
+msgid "Invalid id 2"
+msgstr "UJngültiger ID 2"
+
+msgid "Invalid id 3"
+msgstr "Ungültige ID 3"
+
+msgid "Das Gerät konnte nicht gespeichert werden, wählen Sie eine Kategorie"
+msgstr ""
+
+msgid "Copy of"
+msgstr "Kopie von"
+
+msgid "The device could not be saved. Please, try again."
+msgstr "Das Gerät konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "The value could not be saved. Please, try again."
+msgstr "Der Wert konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "The file does not exist."
+msgstr "Die Datei existiert nicht."
+
+msgid "The file cannot be found."
+msgstr "Die Datei wurde nicht gefunden."
+
+msgid "The file could not be deleted. Please, try again."
+msgstr "Die Datei konnte nicht gelöscht werden. Bitte versuchen Sie es erneut."
+
+msgid "Invalid monitoring"
+msgstr "Ungültige Überwachung"
+
+msgid "Invalid monitoring info"
+msgstr "Ungültiger Überwachungsinformationen"
+
+msgid "The file could not be delete. Please, try again."
+msgstr "Die Datei konnte nicht gelöscht werden. Bitte versuchen Sie es erneut."
+
+msgid "Eine Zusammenfassung von anstehenden und fehlerhaften Überwachungen, wird an die eingegebene E-Mail-Adresse versand."
+msgstr ""
+
+msgid "Sie können Meldungen abwählen in dem Sie die Checkbox der Meldung deaktivieren."
+msgstr ""
+
+msgid "E-Mail versendet an "
+msgstr ""
+
+msgid "E-Mail konte nicht versendet werden. Sie haben keine gültige E-Mail-Adresse angegeben."
+msgstr ""
+
+msgid "Equipment "
+msgstr "Ausrüstung"
+
+msgid "Equipment type "
+msgstr "Ausrüstungstyp"
+
+msgid "Invalid vision test"
+msgstr "Ungülgtiger Sehtest"
+
+msgid "The value could not be saved. There is a qualification with the following values: "
+msgstr "Der Wert konnte nicht gespeichert werden, es gibt eine Qualifikation mit den folgenden Werten: "
+
+msgid "The Qualification with lower level has been disabled"
+msgstr "Die Qualifikation mit niedrigerer Stufe wurde deaktiviert"
+
+msgid "Eine Zusammenfassung von anstehenden und fehlerhaften Sehtests, wird an die eingegebene E-Mail-Adresse versand."
+msgstr ""
+
+msgid "First-time eyecheck reached"
+msgstr "Erste Augenüberprüfung wurde erreicht"
+
+msgid "First-time eyecheck"
+msgstr "Erste Augenüberprüfung"
+
+msgid "Eine Zusammenfassung von anstehenden und fehlerhaften Zertifizierungen, wird an die eingegebene E-Mail-Adresse versand."
+msgstr ""
+
+msgid "The vision test has been saved"
+msgstr "Sehtest wurde gespeichert"
+
+msgid "The vision test could not be saved. Please, try again."
+msgstr "Der Sehtest konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Dokument description"
+msgstr "Dokumentenbeschreibung"
+
+msgid "Back to certificate"
+msgstr "Zurück zum Zertiffikat"
+
+msgid "The certificate has been deleted"
+msgstr "Das Zertifikat wurde gelöscht"
+
+msgid "The certificate could not be deleted. Please, try again."
+msgstr "Das Zertifikat konnte nicht gelöscht werden. Bitte versuchen Sie es erneut."
+
+msgid "The infos could not be saved. Please, try again."
+msgstr "Die Information konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Examiner was not deleted. Please, try again."
+msgstr "Der Prüfer konnte nicht gelöscht werden. Bitte versuchen Sie es erneut."
+
+msgid "Do you want delete this additional"
+msgstr "Wollen Sie den zusätzlichen Service löschen ?"
+
+msgid "Order "
+msgstr "Equipment "
+
+msgid "Weld type "
+msgstr "Nahttyp"
+
+msgid "Invalid strip datum"
+msgstr "Ungültiges Stripdatum"
+
+msgid "Add evaluation"
+msgstr "Auswertung hinzufügen"
+
+msgid "The strip has been created."
+msgstr "Der Strip wurde angelegt"
+
+msgid "The strip could not be saved. Please, try again."
+msgstr "Der Strip konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "The strip was not found."
+msgstr "Der Strip wurde nicht gefunden"
+
+msgid "The strip datum has been saved"
+msgstr "Der Strip wurde gespeichert"
+
+msgid "The strip datum could not be saved. Please, try again."
+msgstr "Der Strip konnte nicht gespeichert werden."
+
+msgid "Invalid strip"
+msgstr "Ungültiger Strip"
+
+msgid "The strip was deleted."
+msgstr "Der Strip wurde gelöscht"
+
+msgid "The strip was not deleted."
+msgstr "Der Strip wurde nicht gelöscht."
+
+msgid "The strip evaluation has been created."
+msgstr "Die Auswertung wurde angelegt."
+
+msgid "The strip evaluation could not be saved. Please, try again."
+msgstr "Die Auswertung konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Evaluation was saved."
+msgstr "Die Auswertung wurde gespeichert."
+
+msgid "Evaluation could not be deleted. Please try again later."
+msgstr "Die Auswertung konnte nicht gespeichert werden."
+
+msgid "Evaluation was deleted."
+msgstr "Die Auswertung wurde gelöscht"
+
+msgid "Invalid strip evaluation"
+msgstr "Ungültige Auswertung."
+
+msgid "The strip evaluation has been saved"
+msgstr "Die Auswertung wurde gespeichert"
+
+msgid "Strip evaluation deleted"
+msgstr "Die Auswertung wurde gelöscht."
+
+msgid "Strip evaluation was not deleted"
+msgstr "Die Auswertung konnte nicht gelöscht werden."
+
+msgid " has no testingmethod"
+msgstr " hat keine Prüfverfahren"
+
+msgid "User name"
+msgstr "Benutzername"
+
+msgid "Change status "
+msgstr "Ändere Status "
+
+msgid "Strips manager"
+msgstr "Stripmanager"
+
+msgid "Edit TCP Strips"
+msgstr "TCP Strips bearbeiten"
+
+msgid "Create "
+msgstr "Erstelle "
+
+msgid "The new report could not be saved. Please, try again."
+msgstr "Der neue Bericht konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "Sorting could not be reset"
+msgstr "Die Sortung konnte nicht zurückgesetzt werden."
+
+msgid "The value has been removed."
+msgstr "Der Wert wurde entfernt."
+
+msgid "Print weld label"
+msgstr "Filmtütenaufkleber drucken"
+
+msgid "Die Version des zu kopierenden Prüfberichtes ist veraltet und kann nicht mehr dupliziert werden."
+msgstr ""
+
+msgid "Your file is bigger than"
+msgstr "Die Datei ist größer als"
+
+msgid "Das Gerät konnte nicht gespeichert werden, es wurden nicht alle Pflichtfelder ausgefüllt."
+msgstr ""
+
+msgid "1 Document found"
+msgstr "1 Dokument gefunden"
+
+msgid "Document not found"
+msgstr "Dokument nicht gefunden"
+
+msgid "Invalid document"
+msgstr "Ungültiges Dokument"
+
+msgid "Back to document"
+msgstr "Zurück zum Dokument"
+
+msgid "Documents administration"
+msgstr "Dokumentenverwaltung"
+
+msgid "Back to monitorings of document"
+msgstr "Dokumentenüberwachung"
+
+msgid "The monitoring infos could not be saved. The following monitoring exists for this document"
+msgstr "Die Überwachungsinformationen konnten nicht gespeichert werden. Die folgende Überwachung existiert bereits für das Dokument."
+
+msgid "The document could not be saved. Please, try again."
+msgstr "Das Dokument konnte nicht gespeichert werden. Bitte versuchen Sie es noch einmal."
+
+msgid "Delete this document"
+msgstr "Das Dokument löschen"
+
+msgid "The document could not be deleted. Please, try again."
+msgstr "Das Dokument konnte nicht gelöscht werden. Bitte versuchen Sie es erneut"
+
+msgid "Waiting time: "
+msgstr "Wartezeit"
+
+msgid "Testing time: "
+msgstr "Prüfzeit"
+
+msgid "removed report"
+msgstr "entfernter Bericht"
+
+msgid "original report"
+msgstr "Originalbericht"
+
+msgid "target report"
+msgstr "Zielbericht"
+
+msgid "Key %s wird in Verfahren %s %s mal verwendet."
+msgstr ""
+
+msgid "years"
+msgstr "Jahre"
+
+msgid "days"
+msgstr "Tage"
+
+msgid "ago"
+msgstr "früher"
+
+msgid "not valid"
+msgstr "ungültig"
+
+msgid "The time for certification was exceeded."
+msgstr "Zertifizierungszeit wurde überschritten"
+
+msgid "Certificate deative"
+msgstr "Zertifikat deaktiviert"
+
+msgid "this window will close in "
+msgstr "Das Fenster wird geschlossen"
+
+msgid "Es existieren keine geplanten Prüfpunkte für die "
+msgstr ""
+
+msgid "Kategorie wählen"
+msgstr ""
+
+msgid "Delete device"
+msgstr "Gerät löschen"
+
+msgid "description"
+msgstr "Beschreibung"
+
+msgid "Duplicate device"
+msgstr "Gerät kopieren"
+
+msgid "Do you want to duplicate this device?"
+msgstr "Wollen Sie das Gerät kopieren?"
+
+msgid "Soll dieses Datum als Zertifizierungszeitpunkt verwendet werden?"
+msgstr ""
+
+msgid "Die folgenden Informationen wurden versendet"
+msgstr ""
+
+msgid "No description"
+msgstr "Keine Beschreibung"
+
+msgid "This device is deactive"
+msgstr "Das Gerät ist deaktiviert"
+
+msgid "Registration no"
+msgstr "Registrierungsnr."
+
+msgid "E-Checks"
+msgstr ""
+
+msgid "Es konnten keine zum Zielfeld unterschiedlichen Werte im Ursprungsfeld gefunden werden."
+msgstr ""
+
+msgid "Es werden nur Werte übernommen, die im Zielfeld noch nicht vorhanden sind."
+msgstr ""
+
+msgid "Werte kopieren"
+msgstr ""
+
+msgid "Orginal filename"
+msgstr "Originaler Dateiname"
+
+msgid "Back to examiners"
+msgstr "Zurück zur Prüferverwaltung"
+
+msgid "Send this certificate inforamtions per email"
+msgstr "Zertifizierungsinformationen per Email versenden"
+
+msgid "certifications"
+msgstr "Zertifizierungen"
+
+msgid "Show monitoring infos"
+msgstr "Überwachungsinformationen anzeigen"
+
+msgid "Scann function is deactiv."
+msgstr "Scannfunktion ist deaktiviert."
+
+msgid "Weitere Einträge werden geladen."
+msgstr ""
+
+msgid "Es werden weitere Einträge geladen"
+msgstr ""
+
+msgid "Keine weiteren Einträge."
+msgstr ""
+
+msgid "Zertifiziert am"
+msgstr ""
+
+msgid "Es ist ein Fehler aufgetreten, die Datei konnte nicht gespeichert werden."
+msgstr ""
+
+msgid "Rezertifizierung/Erneuerung beantragt"
+msgstr ""
+
+msgid "Beantragung Rezert./Erneuer. zurückziehen"
+msgstr ""
+
+msgid "Beantragung Rezert./Erneuer. stellen"
+msgstr ""
+
+msgid "Beantragung auf Rezertifizierung oder Erneuerung zurückziehen"
+msgstr ""
+
+msgid "Beantragung auf Rezertifizierung oder Erneuerung stellen"
+msgstr ""
+
+msgid "Show related files"
+msgstr "Zugehörige Dateien anzeigen"
+
+msgid "Delete Examiner"
+msgstr "Prüfer löschen"
+
+msgid "Select vision test file"
+msgstr "Sehtestdatei auswählen"
+
+msgid "Sehtest erstellt"
+msgstr ""
+
+msgid "hat eine ausreichende Sehfähigkeit für die folgenden Prüfverfahren:"
+msgstr ""
+
+msgid "VT"
+msgstr ""
+
+msgid "PT"
+msgstr ""
+
+msgid "MT"
+msgstr ""
+
+msgid "UT"
+msgstr ""
+
+msgid "Prüfaufsicht"
+msgstr ""
+
+msgid "Eine Sehhilfe ist"
+msgstr ""
+
+msgid "nicht"
+msgstr ""
+
+msgid "erforderlich."
+msgstr ""
+
+msgid "1. Nahsehen"
+msgstr ""
+
+msgid "2. Ausreichendes Farbsehvermögen/Kontrastsehvermögen"
+msgstr ""
+
+msgid "2.1 Bei Anamolien ist eine betriebstärztliche Beratung erfolgt"
+msgstr ""
+
+msgid "3. Gesichtsfelduntersuchung ist erfolgt"
+msgstr ""
+
+msgid "4. Sehfähigkeit für die Ferne"
+msgstr ""
+
+msgid "4.1 Mit Landolt Ringen"
+msgstr ""
+
+msgid "4.2 Mindestens auf einem Auge erreicht"
+msgstr ""
+
+msgid "4.3 Andere Art"
+msgstr ""
+
+msgid "invalid"
+msgstr "ungültig"
+
+msgid "This user is deactive"
+msgstr "Der Benutzer ist deaktiviert"
+
+msgid "Use this date for this vision test"
+msgstr "Das Datum für den Sehtest verwenden"
+
+msgid "Show vision test"
+msgstr "Sehtest anzeigen"
+
+msgid "Das Ende der Liste wurde erreicht."
+msgstr ""
+
+msgid "Search company related"
+msgstr "Firmenressourcen suchen"
+
+msgid "show vision test"
+msgstr "Sehtests anzeigen"
+
+msgid "Print selected weld labels"
+msgstr "Ausgewählte Filmtütenaufkleber drucken"
+
+msgid "Print main weld label"
+msgstr "Filmtütenaufkleber für die Naht drucken"
+
+msgid "No welds selected"
+msgstr "Keine Nähte ausgewählt"
+
+msgid "Delete additional"
+msgstr "Zusätzliche Services löschen"
+
+msgid "Creator"
+msgstr "Ersteller"
+
+msgid "saving - please wait a moment"
+msgstr "Speichervorgang - bitte warten Sie einen Moment."
+
+msgid "Modus"
+msgstr ""
+
+msgid "Anklicken um Prüfbereiche von"
+msgstr "Anklicken, um Prüfbereiche von"
+
+msgid "anzuzeigen"
+msgstr ""
+
+msgid "Anklicken um gesamte Naht"
+msgstr ""
+
+msgid "Nach dieser Zeitspanne wird dieser Prüfbericht automatisch geschlossen."
+msgstr ""
+
+msgid "Der Prüfbericht wurde erstmalig gedruckt am"
+msgstr ""
+
+msgid "Some values are still saving. Please try again in a few moments."
+msgstr ""
+
+msgid "Um dieses Bild in die PDF-Ausgabe aufzunehmen, aktivieren Sie bitte die Checkbox oben rechts im Bild."
+msgstr ""
+
+msgid "Um dieses Bild aus der PDF-Ausgabe zu entfernen, deaktivieren Sie bitte die Checkbox oben rechts im Bild."
+msgstr ""
+
+msgid "Previous topproject"
+msgstr "Vorheriges Projekt"
+
+msgid "Next topprroject"
+msgstr "Nächstes Projekt"
+
+msgid "Participiants"
+msgstr "Teilnehmer"
+
+msgid "Workshop"
+msgstr "Werkstatt"
+
+msgid "min"
+msgstr ""
+
+msgid "Prüfbericht wird geschlossen"
+msgstr ""
+
+msgid "ACHTUNG!"
+msgstr ""
+
+msgid "Dieser Prüfbericht wird geschlossen."
+msgstr ""
+
+msgid "Der Druckvorgang erfolgte"
+msgstr ""
+
+msgid "Das Zeitlimit betrug"
+msgstr ""
+
+msgid " min"
+msgstr ""
+
+msgid "Close window"
+msgstr "Fenster schließen"
+
+msgid "Bearbeitungskonflikt"
+msgstr ""
+
+msgid "WARNUNG!"
+msgstr ""
+
+msgid "Dieser Prüfbericht wurde eben bearbeitet von"
+msgstr ""
+
+msgid "Der zuletzt geänderte Wert"
+msgstr ""
+
+msgid "Previous report"
+msgstr "Vorheriger Bericht"
+
+msgid "Next report"
+msgstr "Nächster Bericht"
+
+msgid "Create signature for "
+msgstr "Unterschrift für "
+
+msgid "Edit weld label"
+msgstr "Filmtütenaufkleber bearbeiten"
+
+msgid "Description for weld label"
+msgstr "Beschreibung für den Filmtütenaufkleber"
+
+msgid "Edit strip"
+msgstr "Strip bearbeiten"
+
+msgid "Edit strip evaluation"
+msgstr "Auswertung bearbeiten"
+
+msgid "Strip Data"
+msgstr "Stripdaten bearbeiten"
+
+msgid "edit"
+msgstr "bearbeiten"
+
+msgid "Strip details"
+msgstr "Strip details"
+
+msgid "Batch No"
+msgstr "Chargennr."
+
+msgid "Sr"
+msgstr ""
+
+msgid "Cr"
+msgstr ""
+
+msgid "Processor Type"
+msgstr "Prozessor Typ"
+
+msgid "Processor F No"
+msgstr "Prozessor F-Nr."
+
+msgid "Developer Type"
+msgstr "Entwicklungszeit"
+
+msgid "Developer Temp"
+msgstr "Entwicklertemperatur"
+
+msgid "Developer Replenishment"
+msgstr "Entwickler Ersatz"
+
+msgid "Fixer Type"
+msgstr "Fixierer Typ"
+
+msgid "Fixer Temp"
+msgstr "Fixierertemperatur"
+
+msgid "Fixer Replenishment"
+msgstr "Fixierer Ersatz"
+
+msgid "Examination Object"
+msgstr "Prüfobjekt"
+
+msgid "Development"
+msgstr "Entwicklung"
+
+msgid "Related Strip Evaluations"
+msgstr "Zugehörige Auswertungen"
+
+msgid "D0"
+msgstr ""
+
+msgid "Dx"
+msgstr ""
+
+msgid "Dx4"
+msgstr ""
+
+msgid "Developer Fresh"
+msgstr "Entwickler frisch"
+
+msgid "Fixer Fresh"
+msgstr "Fixierer frisch"
+
+msgid "results"
+msgstr "Ergebnisse"
+
+msgid "Soll dieses Datum als Überwachungszeitpunkt verwendet werden?"
+msgstr ""
+
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+msgid "Show monitoring"
+msgstr "Überwachung anzeigen"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "Document name"
+msgstr "Dokumentname"
+
+msgid "Duplicate document"
+msgstr "Dokument kopieren"
+
+msgid "Do you want to duplicate this document?"
+msgstr "Wollen Sie das Dokument kopieren?"
+
+msgid "Document infos"
+msgstr "Dokumenteninformationen"
+
+msgid "Edit document"
+msgstr "Dokument bearbeiten"
+
+msgid "Dokument-Art"
+msgstr ""
+
+msgid "Dokument-Bezeichnung"
+msgstr ""
+
+msgid "Ausgabe"
+msgstr ""
+
+msgid "Datum"
+msgstr ""
+
+msgid "SAP-Nr."
+msgstr ""
+
+msgid "Anzeigen"
+msgstr ""
+
+msgid "Dokument-Titel"
+msgstr ""
+
+msgid "This document is deactive"
+msgstr "Das Dokument ist deaktiviert"
+
+msgid "Hide examiner infos"
+msgstr "Prüferinformation zeigen/verbergen"
+
+msgid "Zusätzliche Dokumente anzeigen und speichern"
+msgstr ""
+
+msgid "Show detail informations"
+msgstr "Detailinformationen anzeigen"
+
+msgid "Refresh this window"
+msgstr "Fenster aktualisieren"
+
+msgid "Factory-no"
+msgstr "Fabriknr."
+
+msgid "Initiator"
+msgstr "Veranlasser"
+
+msgid "Only available for welds evaluated as NE."
+msgstr "Nur für Nähte verfügbar, welche mit NE bewertet wurden."
+
+msgid "No welds selected for printing. Put your data for a universal label in the form below."
+msgstr "Es wurden keine Nähte zum Druck ausgewählt. Tragen Sie die Daten für ein universelles Etikett, im untenstehenden Formular ein."
+
+msgid "The monitoring has been deleted"
+msgstr "Die Überwachung wurde gelöscht"
+
+msgid "Responsible company"
+msgstr "Verantwortliches Unternehmen"
+
+msgid "certification not planned"
+msgstr "Zertifizierung nicht geplant"
+
+msgid "certification"
+msgstr "Zertifizierung"
+
+msgid "The qualification has been saved"
+msgstr "Die Qualifizierung wurde gespeichert"
+
+msgid "Certificates"
+msgstr "Zertifikate"
+
+msgid "Show qualifications"
+msgstr "Qualifikationen anzeigen"
+
+msgid "Show qualification"
+msgstr "Qualifikation anzeigen"
+
+msgid "Show certifacations"
+msgstr "Zertifikate anzeigen"
+
+msgid "Go to this certification"
+msgstr "Dieses Zertifikat anzeigen"
+
+msgid "Edit certification"
+msgstr "Zertifizierung bearbeiten"
+
+msgid "Delete certification"
+msgstr "Zertifizierung löschen"
+
+msgid "edit qualification"
+msgstr "Qualifikation bearbeiten"
+
+msgid "delete qualification"
+msgstr "Qualifikation löschen"
+
+msgid "Do you really want to delete this qualification?"
+msgstr "Wollen Sie diese Qualifikation wirklich löschen?"
+
+msgid "delete devicetestingmethod"
+msgstr "Prüfverfahren löschen"
+
+msgid "Invalid devicetestingmethod"
+msgstr "Ungültiges Prüfverfahren"
+
+msgid "The devicetestingmethod has been saved"
+msgstr "Das Prüfverfahren wurde gespeichert"
+
+msgid "The devicetestingmethod could not be saved. Please, try again."
+msgstr "Das Prüfverfahren konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+msgid "edit devicetestingmethod"
+msgstr "Prüfverfahren bearbeiten"
+
+msgid "DeviceTestingmethod deleted"
+msgstr "Das Prüfverfahren wurde gelöscht"
+
+msgid "DeviceTestingmethod was not deleted"
+msgstr "Das Prüfverfahren konnte nicht gelöscht werden"
+
+msgid "Unknown devicetestingmethod"
+msgstr "Unbekanntes Prüfverfahren"
+
+
+msgid "Add devicetestingmethod"
+msgstr "Prüfverfahren hinzufügen"
+
+
+msgid "Edit devicetestingmethod"
+msgstr "Prüfverfahren bearbeitet"
+
+
+msgid "DeviceTestingmethods"
+msgstr "Prüfverfahren"
+
+msgid "Print device list"
+msgstr "Inventarliste drucken"
+
+msgid "Intern-no."
+msgstr "Interne Nummer"
+
+
+msgid "search parameters"
+msgstr "Suchkriterien"
+
+msgid "next certification in"
+msgstr "Nächste Überprüfung in"
+
+msgid "Days"
+msgstr "Tagen"
+
+msgid "Weeks"
+msgstr "Wochen"
+
+msgid "Monate"
+msgstr "Months"
+
+msgid "Years"
+msgstr "Jahren"
+
+msgid "This test report is still being processed. Please try again later."
+msgstr "Dieser Prüfbericht befindet sich noch in der Bearbeitung, bitte versuchen Sie es später erneut."
+
+msgid "The test report has been replaced by a new version."
+msgstr "Dieser Prüfbericht wurde durch eine Revision ersetzt und ist nicht mehr gültig."
+
+msgid "The report has been deleted."
+msgstr "Dieser Prüfbericht wurde gelöscht und ist nicht mehr gültig."
+
+msgid "Report infos"
+msgstr "Infos"
+
+msgid "Object data"
+msgstr "Objektdaten"
+
+msgid "Testing data"
+msgstr "Prüftechische Daten"
+
+msgid "Evaluations"
+msgstr "Auswertungen"
+
+msgid "Too many results found"
+msgstr "Es wurden zu viele Ergebnisse gefunden"
+
+msgid "No matching results found"
+msgstr "Es wurden keine passenden Ergebnisse gefunden"
+
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+msgid  "choose category"
+msgstr "Kategorie wählen"
+
+msgid  "The database is searched"
+msgstr "Die Datenbank wird durchsucht"
+
+msgid  "All monitors selected"
+msgstr "Alle Überwachungen ausgewählt"
+
+msgid  "No monitoring selected"
+msgstr "Keine Überwachung ausgewählt"
+
+msgid  "Overview"
+msgstr "Übersicht"
+
+msgid  "All welds"
+msgstr "Alle Nähte"
+
+msgid  "E-welds"
+msgstr "E-Nähte"
+
+msgid  "NE-welds"
+msgstr "NE-Nähte"
+
+msgid  "Amount (all Welds)"
+msgstr "Anzahl (alle Nähte)"
+
+msgid  "Amount (Ne-Welds)"
+msgstr "Anzahl (Ne-Nähte)"
+
+msgid  "This diagram only contain ne-welds"
+msgstr "In diesem Diagramm werden nur nicht erfüllte Prüfbereiche ausgewertet"
+
+msgid  "list welding methods"
+msgstr "Schweißverfahren auflisten"
+
+msgid  "Add welding method"
+msgstr "Schweißverfahren hinzufügen"
+
+msgid  "Edit welding method"
+msgstr "Schweißverfahren bearbeiten"
+
+msgid  "Delete welding method"
+msgstr "Schweißverfahren löschen"
+
+msgid  "welding methods"
+msgstr "Schweißverfahren
+
+msgid  "Found %s evaluations in %s report(s)"
+msgstr "%s Bewertung(en) in %s Prüfbericht(en) gefunden"
+
+msgid "Search by eyechecks"
+msgstr "Suche nach Sehtests"
+
+msgid "Search by certificate"
+msgstr "Suche nach Zertifikaten"
+
+msgid  "This monitoring is extern"
+msgstr "Diese Überwachung findet extern statt."
+
+msgid  "This monitoring is intern"
+msgstr "Diese Überwachung findet intern statt."
+
+msgid  "This monitoring is extern and intern"
+msgstr "Diese Überwachung findet extern und intern statt."
+
+msgid  "The search result is too large. This system can evaluate a maximum of %s reports, please limit your search result."
+msgstr "Das Suchergebnis ist zu groß. Dieses System kann ein Maximum von %s Prüfberichten verarbeiten, bitte verkleinern Sie Ihr Suchergebnis"
+
+msgid  "To match results"
+msgstr "Zu viele Ergebnisse"
+
+msgid  "Import Generally"
+msgstr "Objektdaten importieren"
+
+msgid  "Import Specifice"
+msgstr "Prüfdaten importieren"
+
+msgid  "Import Evaluation"
+msgstr "Auswertungen importieren"
+
+
+msgid  "Order Data"
+msgstr "Objektdaten"
+
+msgid  "Testing Data"
+msgstr "Prüfdaten"
+
+msgid  "Evaluation Data"
+msgstr "Auswertungen"
+
+msgid  "created/edited"
+msgstr "erstellt/bearbeitet"
+
+msgid  "edited"
+msgstr "bearbeitet"
+
+msgid  "duplicated"
+msgstr "dupliziert"
+
+msgid  "Report printed"
+msgstr "Prüfbericht gedruckt"
+
+msgid  "Duplicated from Report"
+msgstr "Dupliziert aus Prüfbericht"
+
+msgid  "Duplicated in Report"
+msgstr "Dupliziert nach Prüfbericht"
+
+msgid  "all error codes removed"
+msgstr "alle Fehlercodes entfernt"
+
+msgid  "Mass action performed"
+msgstr "Massenaktion durchgeführt"
+
+msgid  "Report closed - level 1"
+msgstr "Prüfbericht geschlossen - Stufe 1"
+
+msgid  "Report reopened"
+msgstr "Prüfbericht geöffnet"
+
+msgid  "Report closed - level 2"
+msgstr "Prüfbericht geschlossen - Stufe 2"
+
+msgid  "Report reopened - level 1"
+msgstr "Prüfbericht geöffnet - Stufe 1"
+
+msgid  "Imagediscription"
+msgstr "Bildbeschreibung"
+
+msgid  "Image uploadet"
+msgstr "Bild gespeichert"
+
+msgid  "Handling time from creating to first printing"
+msgstr "Bearbeitungszeit von der Erstellung bis zum ersten Druck"
+
+msgid  "Create signature for"
+msgstr "Erstelle Unterschrift für"
+
+msgid  "This report will be closed automatically after signing."
+msgstr "Dieser Prüfbericht wird nach dem Unterschreiben automatisch geschlossen."
+
+msgid  "close sign pad"
+msgstr "Unterschriftenpad schließen"
+
+msgid  "open sign pad"
+msgstr "Unterschriftenpad öffnen"
+
+msgid  "No connected pads have been found. Make sure that a device is connected."
+msgstr "Es konnte kein Unterschriftenpad gefunden werden. Stellen Sie sicher, dass ein Gerät angeschlossen ist."
+
+msgid  "You can not sign the report after the first printing."
+msgstr "Nach dem Druck eines Prüfberichtes, können Diesem keine digitalen Unterschrifte mehr hinzugefügt werden."
+
+msgid  "This account has been suspended due to inactivity"
+msgstr "Dieser Account wurde, aus Sicherheitsgründen, wegen Inaktivität geschlossen"
+
+msgid  "This account is blocked, to many invalid login attempts"
+msgstr "Dieser Account wurde, aus Sicherheitsgründen, wegen zu vieler ungültiger Loginversuche geschlossen"
+
+msgid  "Blocked due to invalid logins"
+msgstr "Blockiert -  ungültige Logins"
+
+msgid  "Blocked due to inactivity"
+msgstr "Blockiert -  Inaktivität"
+
+msgid  "New password"
+msgstr "Neues Passwort"
+
+msgid  "Confirm new password"
+msgstr "Passwort wiederholen"
+
+msgid  "send"
+msgstr "senden"
+
+msgid  "send Report"
+msgstr "Prüfbericht senden"
+
+msgid  "The email was sent successfully"
+msgstr "Die E-Mail wurde erfolgreich versendet!"
+
+msgid  "You can not close the report until all required fields have been completed."
+msgstr "Sie können diesen Bericht erst schließen wenn alle Pflichtfelder ausgefüllt sind!"
+
+msgid  "show all revisions"
+msgstr "Revisionsverlauf anzeigen"
+
+msgid  "send report as E-mail"
+msgstr "Prüfbericht versenden"
+
+msgid  "print revisions"
+msgstr "Revisionsverlauf drucken"
+
+msgid  "revision started"
+msgstr "Revision gestartet"
+
+msgid  "report sent"
+msgstr "Prüfbericht versendet"
+
+msgid  "revision history printed"
+msgstr "Revisionsverlauf gedruckt"
+
+msgid  "File uploaded"
+msgstr "Datei hochgeladen"
+
+msgid  "Generally"
+msgstr "Allgemeine Daten"
+
+msgid  "Specific"
+msgstr "Prüfdaten"
+
+msgid  "No signature can be added after printing."
+msgstr "Achtung, nach dem Drucken können kein digitalen Unterschriften hinzugefügt werden."
+
+msgid  "Proof print"
+msgstr "Probedruck"
+
+msgid  "Print orginal report"
+msgstr "Orginalbericht drucken"
+
+msgid  "Print duplicate of report"
+msgstr "Duplikat drucken"
+
+msgid  "duplicate order"
+msgstr "Equipment duplizieren"
+
+msgid  "Do you want to duplicate this order?"
+msgstr "Soll dieses Equipment dupliziert werden?"
+
+msgid  "The order has been duplicated"
+msgstr "Das Equipment wurde dupliziert"
+
+msgid  "This function is not available."
+msgstr "Diese Funktion ist augenblicklich nicht verfügbar."
+
+msgid  "A revision is in progress."
+msgstr "Eine Revision ist aktiv."
+
+msgid  "No signature can be added after printing."
+msgstr "Nach dem Druck können keine digitalen Unterschriften mehr hinzugefügt werden."
+
+msgid  "Attention, this report is after printing for %s minutes editable."
+msgstr "Achtung, dieser Prüfbericht ist nach dem Drucken noch für %s Minuten bearbeitbar."
+
+msgid  "After this time this report will be closed automatically."
+msgstr "Nach dieser Zeitspanne wird dieser Prüfbericht automatisch geschlossen."
+
+msgid  "This version of the report was first printed on"
+msgstr "Diese Version des Prüfbericht wurde erstmalig gedruckt am"
+
+msgid  "For this report are available progress"
+msgstr "Für diesen Bericht sind nicht eingetragene Fortschritte vorhanden"
+
+msgid  "All required fields have been filled out."
+msgstr "Es wurden alle Pflichtfelder ausgefüllt."
+
+msgid  "All required fields have been filled out."
+msgstr "Es wurden alle Pflichtfelder ausgefüllt."
+
+msgid  "Required fields were not filled. The report can not be printed."
+msgstr "Es wurden nicht alle Pflichtfelder ausgefüllt. Der Bericht kann nicht gedruckt werden."
+
+msgid  "This report will be closed automatically after printing."
+msgstr "Der Prüfbericht wird nach dem Druck automatisch geschlossen."
+
+msgid  "revision reason"
+msgstr "Revisionsgrund"
+
+msgid  "Locating table"
+msgstr "Positionstabelle"
+
+msgid  "reports found"
+msgstr "Prüfberichte gefunden"
+
+msgid  "orders found"
+msgstr "Equipment(s) gefunden"
+
+msgid  "Non orders found"
+msgstr "Kein Equipment gefunden"
+
+msgid  "orders under this cascade"
+msgstr "Equipmentsverwaltung in dieser Cascade aktiv"
+
+msgid  "no orders under this cascade"
+msgstr "Equipmentsverwaltung in dieser Cascade deaktiv"
+
+msgid  "Search orders"
+msgstr "Suche Equipments"
+
+msgid  "Search testing reports"
+msgstr "Suche Prüfberichte"
+
+msgid  "Non testing reports found"
+msgstr "Keine Prüfberichte gefunden"
+
+msgid  "File manager"
+msgstr "Dateiverwaltung"
+
+msgid  "Image manager"
+msgstr "Bilderverwaltung"
+
+msgid  "Add Expediting"
+msgstr "Exediting hinzufügen"
+
+msgid  "Edit Expediting"
+msgstr "Expediting bearbeiten"
+
+msgid  "Overview Expediting (date)"
+msgstr "Übersicht Expediting (Termine bearbeiten)"
+
+msgid  "Critical (soll date > current date + waiting period)"
+msgstr "Kritisch (Solldatum > Heutiges Datum + Karenztage)"
+
+msgid  "Delayed (soll date > current date and <  current date + waiting period)"
+msgstr "Verspätet (Solldatum >  Heutiges Datum und < Heutiges Datum + Karenztage)"
+
+msgid  "In plan (soll date < current date)"
+msgstr "Im Plan (Solldatum < Heutiges Datum)"
+
+msgid  "No date informations stored"
+msgstr "Keine Terminangaben hinterlegt"
+
+msgid  "Completed"
+msgstr "Abgeschlossen"
+
+msgid  "equipments"
+msgstr "Ausrüstungen"
+
+msgid  "Soll Date"
+msgstr "Solldatum"
+
+msgid  "Is Date"
+msgstr "Istdatum"
+
+msgid  "For this equipment exists no epediting data."
+msgstr "Für diese Ausrüstung existieren keine Expeditingdaten"
+
+msgid  "File Exists"
+msgstr "Datei vorhanden"
+
+msgid  "Overview Expediting (only read)"
+msgstr "Übersicht Expediting (nur lesen)"
+
+msgid  "Expediting details"
+msgstr "Expeditiondetails - Termine"
+
+msgid  "Involved companies"
+msgstr "Beteiligte Unternehmen"
+
+msgid  "Stop all email shipping"
+msgstr "Alle E-Mailbenachrichtigungen stoppen"
+
+msgid  "Involved email adresses"
+msgstr "Involvierte E-Mail-Adressen"
+
+msgid  "Suppliere edit"
+msgstr "Bestellung bearbeiten"
+
+msgid  "Involved rolls for e-mail shipping"
+msgstr "Involvierte Benuzterrollen für den E-Mailversand"
+
+msgid  "Expediting was saved"
+msgstr "Die Bestellung wurde gespeichert"
+
+msgid  "choose supplier"
+msgstr "Lieferant wählen"
+
+msgid  "choose status"
+msgstr "Status wählen"
+
+msgid  "Show statistic of this selection"
+msgstr "Statistik dieser Auswahl anzeigen"
+
+msgid  "Upward"
+msgstr "Nach oben"
+
+msgid  "Count of Orders"
+msgstr "Anzahl Bestellungen"
+
+msgid  "Count of equipments"
+msgstr "Anzahl Equipments"
+
+msgid  "Total count of equipments"
+msgstr "Gesamtanzahl Equipments"
+
+msgid  "Count of ordered equipments"
+msgstr "Anzahl der bestellten Equipments"
+
+msgid  "Planned orders"
+msgstr "Geplante Bestellungen"
+
+msgid  "critical"
+msgstr "Kritisch"
+
+msgid  "delayed"
+msgstr "Verspätet"
+
+msgid  "plan"
+msgstr "Im Plan"
+
+msgid  "future"
+msgstr "Noch keine Terminangaben"
+
+msgid  "Beendet"
+msgstr "Geplante Bestellungen"
+
+
+msgid  "Overview of orders"
+msgstr "Übersicht Bestellungen"
+
+msgid  "Overview of Expeditings"
+msgstr "Übersicht Expeditings"
+
+msgid  "Overview Suppliers"
+msgstr "Übersicht Lieferanten"
+
+msgid  "Equipment list of this selection"
+msgstr "Equipmentliste dieser Auswahl anzeigen"
+
+msgid  "Show parent cascade"
+msgstr "Übergeordneten Bereich anzeigen"
+
+msgid  "Print current selection"
+msgstr "Aktuelle Auswahl drucken"
+
+msgid  "Email delivering is deactive, click to activate"
+msgstr "Das Versenden von Emails ist aktiviert, klicke um die Funktion zu deaktivieren"
+
+msgid  "Email delivering is active, click to deactivate"
+msgstr "Das Versenden von Emails ist deaktiviert, klicke um die Funktion zu aktivieren"
+
+msgid  "total"
+msgstr "Gesamt"
+
+msgid  "finished"
+msgstr "Abgeschlossen"
+
+msgid  "ordered by equipments and status"
+msgstr "geordnet nach Equipments und Status"
+
+msgid  "duplicate order"
+msgstr "Equipment duplizieren"
+
+msgid  "New name for"
+msgstr "Neuer Name für"
+
+msgid  "Do you want to delete this picture?"
+msgstr "Soll diess Bild gelöscht werden?"
+
+msgid  "Will you delete file"
+msgstr "Soll folgende Datei gelöscht werden"
+
+msgid  "choose ordered status"
+msgstr "Lieferstatus wählen"
+
+msgid  "not ordered"
+msgstr "Nicht bestellt"
+
+msgid  "ordered"
+msgstr "Bestellt"
+
+msgid  "choose planner"
+msgstr "Planer wählen"
+
+msgid  "choose area of responsibility"
+msgstr "Zuständigkeit wählen"
+
+msgid  "Count of planed Orders"
+msgstr "Geplante Bestellungen"
+
+msgid  "Count of ordered Orders"
+msgstr "Ausgelöste Bestellungen"
+
+msgid  "Count of open Orders"
+msgstr "Offene Bestellungen"
+
+msgid  "Total count of Orders"
+msgstr "Gesamtanzahl Bestellungen"
+
+msgid  "There are no orders from your testing company."
+msgstr "Es wurden keine Equipments gefunden oder Sie besitzen keine Berechtigung"
+
+msgid "Searching result"
+msgstr "Suchergebnisse"
+
+msgid "Search result"
+msgstr "Suchergebnisse"
+
+msgid "All existing signatures will be deleted."
+msgstr "Existierende digitale Unterschriften werden gelöscht."
+
+msgid "Deviations detected"
+msgstr "Es wurden Abweichungen von der Prüfanweisung festgestellt"
+
+msgid "Value according to test specification"
+msgstr "Eintrag gemäß Prüfanweisung"
+
+msgid "Current value in this testing report"
+msgstr "Aktueller Eintrag"
+
+
+msgid "This entry is not compatible with the test specification"
+msgstr "Dieser Eintrag ist nicht kompatibel mit der Prüfanweisung"
+
+msgid "This entry is an explanation"
+msgstr "Dieser Eintrag ist eine Erläuterung"
+
+msgid "This entry is an option"
+msgstr "Dieser Eintrag ist eine Option, der Eintrag in diesem Feld muss der Option sinngemäß entsprechen"
+
+msgid "This entry is a rule and must be adopted"
+msgstr "Dieser Eintrag ist eine Regel und muss exakt übernommen werden"
+
+msgid "Involved reports"
+msgstr "Beteiligte Prüfberichtsmappen"
+
+msgid "Involved testingmethods"
+msgstr "Beteiligte Prüfverfahren"
+
+msgid "Uploaded files"
+msgstr "Hochgeladene Dateien"
+
+msgid "duplicating"
+msgstr "duplizieren"
+
+msgid "Involved projects"
+msgstr "Involvierte Projekte"
+
+msgid "Involved projects with writelock"
+msgstr "Involvierte schreibgeschützte Projekte"
+
+msgid "Add cascade"
+msgstr "Kaskade hinzufügen"
+
+msgid "Cascade was saved"
+msgstr "Kaskade wurde gespeichert"
+
+msgid "Show repair history"
+msgstr "Reparaturverlauf anzeigen"
+
+msgid "Repair report created and in progress."
+msgstr "Es wurde ein Reparaturbericht erstellt."
+
+msgid "Repair report created and in progress, the report is not closed."
+msgstr "Es wurde ein Reparaturbericht erstellt, die Dokumentation ist nicht abgeschlossen."
+
+msgid "No repair reports created."
+msgstr "Es wurde kein Reparaturbericht erstellt."
+
+msgid "Repair completed successfully."
+msgstr "Die Reparatur wurde erfolgreich abgeschlossen."
+
+msgid "Repair failed."
+msgstr "Die Reparatur war nicht erfolgreich."
+
+msgid "Repair failed."
+msgstr "Die Reparatur war nicht erfolgreich."
+
+msgid "all testingmethods"
+msgstr "alle Prüfverfahren"
+
+msgid "search criteria"
+msgstr "Suchkriterien"
+
+msgid "Testing year"
+msgstr "Prüfjahr"
+
+msgid "Testing Reports"
+msgstr "Prüfberichte"
+
+msgid "Statistic result"
+msgstr "Statistische Auswertung"
+
+msgid "There are no searching data."
+msgstr "Keine Ergebnisse vorhanden."
+
+msgid "Show Search form"
+msgstr "Suchformular"
+
+msgid "Overview"
+msgstr "Übersicht"
+
+msgid "Welding mistakes"
+msgstr "Schweißnahtfehler"
+
+msgid "Welder overview"
+msgstr "Schweißerübersicht"
+
+msgid "Show statistic"
+msgstr "Statistik anzeigen"
+
+msgid "General overview"
+msgstr "Gesamtüberblick"
+
+msgid "Overview welding company"
+msgstr "Überblick Schweißfirmen"
+
+msgid "Overview welders of welding company"
+msgstr "Überblick Schweißer/Schweißfirma"
+
+msgid "Overview welding mistakes"
+msgstr "Überblick Schweißnahtfehler"
+
+msgid "Show repair report"
+msgstr "Reparaturbericht anzeigen"
+
+msgid "Create repair report of this mistake position"
+msgstr "Einen Reparaturbericht für diese Fehlerposition erstellen"
+
+msgid "Create repair report for all mistake positions of this report"
+msgstr "Einen Reparaturbericht für alle Fehlerpositionen dieses Berichtes erstellen"
+
+msgid "try"
+msgstr "Versuch"
+
+msgid "send report as email"
+msgstr "Diesen Prüfbericht per E-Mail versenden"
+
+msgid "This repair of the report %1$s was successful"
+msgstr "Die Reparatur des Prüfberichts %1$s war erfolgreich"
+
+msgid "This repair of the report %1$s was unsuccessful"
+msgstr "Die Reparatur des Prüfberichts %1$s war nicht erfolgreich"
+
+msgid "This repair of report %1$s is in progress"
+msgstr "Die Reparatur des Prüfberichts %1$s ist in Arbeit"
+
+msgid "Print repair report"
+msgstr "Reparaturbericht drucken"
+
+msgid "Error testingreports"
+msgstr "Prüfberichte mit Fehlern"
+
+msgid "Testingreport does not exist in this database"
+msgstr "Der angeforderte Prüfbericht konnte in der Datenbank nicht gefunden werden."
+
+msgid "Testingreport can not be displayed"
+msgstr "Sie haben keine Berechtigung de angeforderten Prüfbericht aufzurufen."
+
+msgid "Please click to deactivate the scanner"
+msgstr "Bitte anklicken um den Barcodescanner zu deaktivieren."
+
+msgid "Please click to activate the scanner"
+msgstr "Bitte anklicken um den Barcodescanner zu aktivieren."
+
+msgid "Scanner is active"
+msgstr "Barcodescanner ist aktiv"
+
+msgid "shortcut ctrl+c"
+msgstr "Tastaturbefehl Strg+b"
+
+msgid "Report deleted"
+msgstr "Prüfbericht gelöscht"
+
+msgid "export results"
+msgstr "Suchergebnisse exportieren"
+
+msgid "Search history"
+msgstr "Suchverlauf"
+
+msgid "Overload search form"
+msgstr "Daten in das Suchformular laden"
+
+msgid "Show search result"
+msgstr "Direkt zum Ergebnis"
+
+msgid "Download statistic as pdf file"
+msgstr "Diese Statistik als PDF-Datei herunterladen"
+
+msgid "Download statistic as csv file"
+msgstr "Diese Statistik als CSV-Datei herunterladen"
+
+msgid "Show Search results"
+msgstr "Zurück zu den Suchergebnissen"
+
+msgid "creation date of the testing reports"
+msgstr "Erstelldatum der Prüfberichte"
+
+msgid "found reports"
+msgstr "gefundene Berichte"
+
+msgid "There are no errors in this report"
+msgstr "In diesem Prüfbericht konnten keine Fehler gefunden werden"
+
+msgid "test areas"
+msgstr "Prüfbereiche"
+
+msgid "Repair report"
+msgstr "Reparaturbericht"
+
+msgid "successfully passed"
+msgstr "erfolgreich repariert"
+
+msgid "Welder test from"
+msgstr "Handfertigkeitstest vom"
+
+msgid "Technical Places"
+msgstr "Technische Plätze"
+
+msgid "Add new technical place"
+msgstr "Technischen Platz hinzufügen"
+
+msgid "Delete technical place"
+msgstr "Technischen Platz löschen"
+
+msgid "Delete this technical place?"
+msgstr "Diesen Technischen Platz löschen?"
+
+msgid "The technical place has been delete."
+msgstr "Der Technische Platz wurde gelöscht"
+
+msgid "Technical place was not deleted."
+msgstr "Der Technische Platz konnte nicht gelöscht werden"
+
+msgid "Add Testinginstruction Data"
+msgstr "Prüfanweisungsdaten hinzufügen."
+
+msgid "Add Testingstruction"
+msgstr "Prüfanweisung hinzufügen"
+
+msgid "Edit Testinginstruction"
+msgstr "Prüfanweisung bearbeiten"
+
+msgid "Edit Testingstruction Data"
+msgstr "Prüfanweisungsdaten bearbeiten"
+
+msgid "A summary of certificat information will be sent to the current email address."
+msgstr "Diese Informationen an die angegebene E-Mail-Adresse senden."
+
+msgid "A summary of eye check information will be sent to the current email address."
+msgstr "Diese Informationen an die angegebene E-Mail-Adresse senden."
+
+msgid "Deactivate checkbox of a messages to remove."
+msgstr "Um eine Information abzuwählen, deaktivien Sie die entsprechende Checkbox."
+
+msgid "There exist a qualification with higher level for these test methods."
+msgstr "Es existiert eine Qualifizierung mit höherem Level für dieses Verfahren."
+
+msgid "Certification is not planned"
+msgstr "Zertifizierung nicht vorgesehen"
+
+msgid "Additional documents"
+msgstr "Zusätzliche Dokumente anzeigen und speichern"
+
+msgid "Do you want to use this date as start for certificate periode?"
+msgstr "Soll dieses Datum als Startdatum für den Zertifizierungszeitraum verwendet werden?"
+
+msgid "To renew the certificate an application for recertification must be made."
+msgstr "Um diese Zertifikat zu verlängern, müssen Sie zunächst den Antrag auf Rezertifizierung stellen."
+
+msgid "To renew the certificate please use the following function."
+msgstr "Um diese Zertifikat zu verlängern benutzen Sie bitte folgende Funktion."
+
+msgid "Withdraw application for recertification or renewal."
+msgstr "Beantragung auf Rezertifizierung oder Erneuerung zurückziehen."
+
+msgid "Apply for recertification or renewal."
+msgstr "Beantragung auf Rezertifizierung oder Erneuerung stellen."
+
+msgid "Certification created on"
+msgstr "Zertifizierung erstellt am"
+
+msgid "There is no repair yet"
+msgstr "Reparatur nicht begonnen"
+
+msgid "test area"
+msgstr "Prüfbereich"
+
+msgid  "This repair of this report (%1$s) is in progress"
+msgstr "Die Reparatur von Prüfbericht (%1$s) ist in Arbeit"
+
+msgid  "This repair of this report (%1$s) was successful"
+msgstr "Die Reparatur von Prüfbericht (%1$s) war erfolgreich"
+
+msgid  "This repair of this report (%1$s) was unsuccessful"
+msgstr "Die Reparatur von Prüfbericht (%1$s) war nicht erfolgreich"
+
+msgid  "is a repair of report (%1$s) and contain"
+msgstr "ist einen Reparatur von Prüfbericht (%1$s) und enthält"
+
+msgid  "duplicate"
+msgstr "dupliziere"
+
+msgid  "new testing area"
+msgstr "neuer Auswertebereich"
+
+msgid  "Go to"
+msgstr "Gehe zu"
+
+msgid  "go to"
+msgstr "gehe zu"
+
+msgid  "complete area"
+msgstr "gesamter Prüfbereich"
+
+msgid  "Testing area"
+msgstr "Prüfbereich"
+
+msgid  "testing area"
+msgstr "Prüfbereich"
+
+msgid  "is displayed"
+msgstr "wird angezeigt"
+
+msgid  "Overview delivering dates"
+msgstr "Übersicht Liefertermine"
+
+msgid  "planned delivery"
+msgstr "Geplante Lieferung"
+
+msgid  "delivery made"
+msgstr "Erfolgte Lieferung"
+
+msgid  "Delay"
+msgstr "Verspätung"
+
+msgid  "Suppliers"
+msgstr "Lieferanten"
+
+msgid  "Download image"
+msgstr "Bild speichern"
+
+msgid  "Export data"
+msgstr "Daten speichern"
+
+msgid  "found equipments"
+msgstr "gefundene Equipments"
+
+msgid  "Show foundet orders"
+msgstr "Gefundene Equipments anzeigen"
+
+msgid  "Drop files her to upload"
+msgstr "Ziehen Sie Ihre hochzuladenden Datein in dieses Feld oder klicken Sie um Dateien zum Hochladen auszuwählen."
+
+msgid  "Drop images her to upload"
+msgstr "Ziehen Sie Ihre hochzuladenden Bilder in dieses Feld oder klicken Sie um Bilder zum Hochladen auszuwählen."
+
+msgid  "Show foundet reports"
+msgstr "Gefundene Berichte anzeigen"
+
+msgid  "Print examiner infos"
+msgstr "Drucken"
+
+msgid  "Information could not be saved, there is already a qualification with a higher level for this testingmethod."
+msgstr "Die Informationen konnten nicht gespeichert werden, für dieses Prüfverfahren existiert eine Qualifikation mit höheren Level."
+
+msgid  "Testing instructions"
+msgstr "Prüfanweisungen"
+
+msgid  "Testing instruction"
+msgstr "Prüfanweisung"
+
+msgid  "Testing Instructions Data"
+msgstr "Prüfanweisung Details"
+
+msgid  "Edit Testing Instruction"
+msgstr "Prüfanweisung bearbeiten"
+
+msgid  "The testinginstruction has been saved"
+msgstr "Die Prüfanweisung wurde gespeichert"
+
+msgid  "No deviations detected"
+msgstr "Keine Abweichungen zur Prüfanweisung festgestellt"
+
+msgid  "irregularities"
+msgstr "Unregelmäßigkeit(en)"
+
+msgid  "Reason"
+msgstr "Grund für die Abweichung"
+
+msgid  "Added dependent values"
+msgstr "Abhängige Werte hinzugefügt"
+
+msgid  "Value was saved"
+msgstr "Der Wert wurde gespeichert"
+
+msgid  "Value could not be saved. Please, try again."
+msgstr "Der Wert konnte nicht gespeichert werden. Versuchen Sie es erneut"
+
+msgid  "Please select at least one company"
+msgstr "Bitte wählen Sie mindestens ein Unternehmen"
+
+msgid  "Selectable items"
+msgstr "Auswählbare Elemente"
+
+msgid  "Edit cascade"
+msgstr "Kaskade bearbeiten"
+
+msgid  "Delete cascade"
+msgstr "Kaskade löschen"
+
+msgid  "Selection items"
+msgstr "Ausgewählte Elemente"

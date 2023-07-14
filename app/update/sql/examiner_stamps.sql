@@ -1,0 +1,15 @@
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+CREATE TABLE IF NOT EXISTS `examiner_stamps` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `examiner_id` int(11) NOT NULL,
+  `file_name` varchar(200) NOT NULL,
+  `created` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=178 DEFAULT CHARSET=latin1;
+
+COMMIT;

@@ -1,0 +1,1 @@
+<div class="error"><p><?php echo __('No rights for this function', true);?></p></div>

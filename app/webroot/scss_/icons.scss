@@ -1,0 +1,468 @@
+	a.refresh {
+		background-image: url(../svg/icon_refresh.svg);
+	}
+	a.progresstool, li.icon_progress span {
+		background-image: url(../svg/icon_progress.svg);
+	}
+	a.development_open {
+		background-image: url(../svg/icon_progress.svg);
+		background-color: $deactive_color !important;
+	}
+	a.development_rep {
+		background-image: url(../svg/icon_progress.svg);
+		background-color: $error_color !important;
+	}
+	a.development_ok {
+		background-image: url(../svg/icon_progress.svg);
+		background-color: $success_color !important;
+	}
+	a.devicelink {
+		background-image: url(../svg/icon_devices.svg);
+	}
+	a.examinerlink {
+		background-image: url(../svg/icon_examiner.svg);
+	}
+	a.documentlink {
+		background-image: url(../svg/icon_documents.svg);
+	}
+	a.testinginstructionlink {
+		background-image: url(../svg/icon_testinstructions.svg);
+	}
+	a.dropdownsmasterlink {
+		background-image: url(../svg/icon_download_master.svg);
+	}
+	a.addsearchingmonitoring {
+		background-image: url(../svg/icon_search_certificate.svg);
+	}
+	a.icon_stamp  {
+		background-image: url(../svg/icon_stamp.svg);
+	}
+
+	a.last_ten {
+		background-image: url(../svg/icon_last_ten.svg);
+	}
+	a.statistik {
+		background-image: url(../svg/icon_statistic.svg);
+	}
+	a.welderlink {
+		background-image: url(../svg/icon_welder.svg);
+	}
+	a.welderlink_okay {
+		background-image: url(../svg/icon_welder.svg);
+		background-color: $success_color !important;
+	}
+	a.welderlink_open {
+		background-image: url(../svg/icon_welder.svg);
+		background-color: $hint_color !important;
+	}
+	a.welderlink_error {
+		background-image: url(../svg/icon_welder.svg);
+		background-color: $error_color !important;
+	}
+
+	a.userimage {
+		background-image: url(../svg/icon_user_image.svg);
+	}
+	a.addlink, a.icon_load_infos, li.icon_add span {
+		background-image: url(../svg/icon_add.svg);
+	}
+	a.settingslink {
+		background-image: url(../svg/icon_settings.svg);
+	}
+	a.minimizemodal {
+		background-image: url(../svg/icon_min.svg);
+	}
+	a.closemodal {
+		background-image: url(../svg/icon_close.svg);
+	}
+	a.backlink  {
+		background-image: url(../svg/icon_prev.svg);
+	}
+	a.expediting {
+		background-image: url(../svg/icon_expediting.svg);
+	}
+	a.addsearching {
+		background-image: url(../svg/icon_searching.svg);
+	}
+	a.editlink  {
+		background-image: url(../svg/icon_edit.svg);
+	}
+	a.icon_next {
+		background-image: url(../svg/icon_next.svg);
+	}
+	a.icon_prev {
+		background-image: url(../svg/icon_prev.svg);
+	}
+	a.icon_top {
+		background-image: url(../svg/icon_top.svg);
+	}
+	a.icon_rev_in {
+		background-image: url(../svg/icon_revision_in.svg);
+	}
+	a.copylink, a.icon_dupli, li.icon_dublicate span {
+		background-image: url(../svg/icon_dublicate.svg);
+	}
+	a.icon_view, li.icon_view span {
+		background-image: url(../svg/icon_view.svg);
+	}
+	a.icon_del, a.icon_remove_assignment {
+		background-image: url(../svg/icon_delete.svg);
+	}
+	a.enforce.active {
+		background-image: url(../svg/icon_sub_active.svg);
+		background-color: $a_round_bg_color_active !important;
+	}
+	a.enforce {
+		background-image: url(../svg/icon_sub_deactive.svg);
+		background-color: $a_round_bg_color_hover !important;
+	}
+	a.icon_label {
+		background-image: url(../svg/icon_label.svg);
+	}
+	a.icon_add  {
+		background-image: url(../svg/icon_add.svg);
+	}
+	a.icon_clock  {
+		background-image: url(../svg/icon_clock.svg);
+	}
+	a.icon_exam_part  {
+		background-image: url(../svg/icon_exam_area.svg);
+	}
+	a.icon_weld  {
+		background-image: url(../svg/icon_exam_weld.svg);
+	}
+	a.icon_email_eyecheck  {
+		background-image: url(../svg/icon_eyecheck_mail.svg);
+	}
+	a.icon_email_certificate  {
+		background-image: url(../svg/icon_certificate_mail.svg);
+	}
+	a.icon_infos, a.icon_summary_infos, li.icon_info span  {
+		background-image: url(../svg/icon_hint.svg);
+	}
+	a.icon_examiners_add  {
+		background-image: url(../svg/icon_add.svg);
+	}
+	a.eyecheck_error  {
+		background-image: url(../svg/icon_eyecheck.svg);
+		background-color: $error_color !important;
+	}
+	a.eyecheck_valide  {
+		background-image: url(../svg/icon_eyecheck.svg);
+		background-color: $success_color !important;
+	}
+	a.eyecheck_warnings  {
+		background-image: url(../svg/icon_eyecheck.svg);
+		background-color: $hint_color !important;
+	}
+	a.monitoring_hints  {
+		background-image: url(../svg/icon_monitorings.svg);
+		background-color: $success_color !important;
+	}
+	a.monitoring_errors  {
+		background-image: url(../svg/icon_monitorings.svg);
+		background-color: $error_color !important;
+	}
+	a.monitoring_warnings  {
+		background-image: url(../svg/icon_monitorings.svg);
+		background-color: $hint_color !important;
+	}
+	a.icon_hide_infos  {
+		background-image: url(../svg/icon_min.svg);
+	}
+	a.icon_show_infos  {
+		background-image: url(../svg/icon_max.svg);
+	}
+	a.icon_edit_examiner  {
+		background-image: url(../svg/icon_edit_examiner.svg);
+	}
+	a.icon_devices_pdf, li.icon_print span  {
+		background-image: url(../svg/icon_print.svg);
+	}
+	a.icon_devices_pdf_negative {
+		background-image: url(../svg/icon_print.svg);
+		background-color: $deactive_color !important;
+	}
+	a.icon_file, a.icon_file_approval, li.icon_files span  {
+		background-image: url(../svg/icon_files.svg);
+	}
+	a.icon_add_qualification  {
+		background-image: url(../svg/icon_add.svg);
+	}
+	a.icon_show_certificates, a.icon_monitoring_file {
+		background-image: url(../svg/icon_certificate.svg);
+	}
+	a.icon_show_qualifications  {
+		background-image: url(../svg/icon_qualification.svg);
+	}
+	a.icon_small_single_edit_qualification, a.icon_edit_welder {
+		background-image: url(../svg/icon_edit.svg);
+	}
+	a.icon_small_single_file {
+		background-image: url(../svg/icon_files.svg);
+	}
+	a.icon_small_delete {
+		background-image: url(../svg/icon_delete.svg);
+	}
+	a.certification_valid {
+		background-image: url(../svg/icon_check_one.svg);
+		background-color: $success_color !important;
+	}
+	a.certification_not_valid {
+		background-image: url(../svg/icon_hint.svg);
+		background-color: $error_color !important;
+	}
+	a.certification_not_valid_soon,
+	a.certification_time_reached
+	{
+		background-image: url(../svg/icon_hint.svg);
+		background-color: $hint_color !important;
+	}
+	a.icon_edit, li.icon_edit span {
+		background-image: url(../svg/icon_edit.svg);
+	}
+	li.icon_status_open span {
+		background-image: url(../svg/icon_unlock.svg);
+	}
+	li.icon_status_close span {
+		background-image: url(../svg/icon_lock.svg);
+	}
+	a.icon_upload_red {
+		background-image: url(../svg/icon_upload.svg);
+		background-color: $error_color !important;
+	}
+	a.icon_certificate {
+		background-image: url(../svg/icon_certificate.svg);
+	}
+	a.icon_certificate_success {
+		background-image: url(../svg/icon_certificate.svg);
+		background-color: $success_color !important;
+}
+	a.icon_ask_replace {
+		background-image: url(../svg/icon_ask_replace.svg);
+	}
+	a.icon_replace {
+		background-image: url(../svg/icon_replace.svg);
+	}
+	a.icon_history {
+		background-image: url(../svg/icon_history.svg);
+	}
+	a.assigned, a.icon_assigned {
+		background-image: url(../svg/icon_assigned.svg);
+	}
+	a.close {
+		background-image: url(../svg/icon_lock_open.svg);
+	}
+	a.closed1 {
+		background-image: url(../svg/icon_check_one.svg);
+	}
+	a.closed2 {
+		background-image: url(../svg/icon_check_third.svg);
+	}
+	a.closed3 {
+		background-image: url(../svg/icon_check_third.svg);
+	}
+	a.icon_monitoring_add {
+		background-image: url(../svg/icon_add.svg);
+	}
+	a.dellink, li.icon_delete span  {
+		background-image: url(../svg/icon_delete.svg);
+	}
+	a.icon_devices_add  {
+		background-image: url(../svg/icon_add.svg);
+	}
+	a.icon_devices_edit  {
+		background-image: url(../svg/icon_edit.svg);
+	}
+	a.icon_documents_add  {
+		background-image: url(../svg/icon_add.svg);
+	}
+	a.icon_documents_edit  {
+		background-image: url(../svg/icon_edit.svg);
+	}
+	a.icon_statistik  {
+		background-image: url(../svg/icon_statistic.svg);
+	}
+	a.icon_expediting  {
+		background-image: url(../svg/icon_expediting.svg);
+	}
+	a.icon_print  {
+		background-image: url(../svg/icon_print.svg);
+	}
+	a.icon_export  {
+		background-image: url(../svg/icon_export.svg);
+	}
+	a.icon_upward  {
+		background-image: url(../svg/icon_top.svg);
+	}
+	a.icon_plan_overview  {
+		background-image: url(../svg/icon_hint.svg);
+		background-color: $intime_color !important;
+	}
+	a.icon_finished_overview  {
+		background-image: url(../svg/icon_hint.svg);
+		background-color: $success_color !important;
+	}
+	a.icon_future_overview  {
+		background-image: url(../svg/icon_hint.svg);
+		background-color: $deactive_color !important;
+	}
+	a.icon_critical_overview  {
+		background-image: url(../svg/icon_hint.svg);
+		background-color: $error_color !important;
+	}
+	a.icon_delayed_overview  {
+		background-image: url(../svg/icon_hint.svg);
+		background-color: $hint_color !important;
+	}
+	a.icon_image, li.icon_images span  {
+		background-image: url(../svg/icon_images.svg);
+	}
+	a.summary_fieles  {
+		background-image: url(../svg/icon_files.svg);
+	}
+	a.summary_expediting   {
+		background-image: url(../svg/icon_expediting.svg);
+	}
+	a.icon_finished  {
+		background-color: $success_color !important;
+		background-image: url(../svg/icon_expediting.svg);
+	}
+	a.icon_future  {
+		background-color: $deactive_color !important;
+		background-image: url(../svg/icon_expediting.svg);
+	}
+	a.icon_critical  {
+		background-color: $error_color !important;
+		background-image: url(../svg/icon_expediting.svg);
+	}
+	a.icon_plan  {
+		background-color: $intime_color !important;
+		background-image: url(../svg/icon_expediting.svg);
+	}
+	a.icon_delayed  {
+		background-color: $hint_color !important;
+		background-image: url(../svg/icon_expediting.svg);
+	}
+	a.icon_on_mail, a.icon_email_welder   {
+		background-image: url(../svg/icon_mail.svg);
+	}
+	a.icon_stop_mail   {
+		background-image: url(../svg/icon_mail.svg);
+		background-color: $standart_color_icon_bg_inactive !important;
+	}
+	a.icon_delete    {
+		background-image: url(../svg/icon_delete.svg);
+	}
+	a.icon_repair    {
+		background-image: url(../svg/icon_repair_report.svg);
+	}
+	a.icon_repair_status_    {
+		background-image: url(../svg/fabric/weld_error.svg);
+		background-color: $deactive_color !important;
+	}
+	a.icon_repair_status_0    {
+		background-image: url(../svg/fabric/weld_error.svg);
+		background-color: $hint_color !important;
+	}
+	a.icon_repair_status_1    {
+		background-image: url(../svg/fabric/weld_error.svg);
+		background-color: $success_color !important;
+	}
+	a.icon_repair_status_2    {
+		background-image: url(../svg/fabric/weld_error.svg);
+		background-color: $error_color !important;
+	}
+
+	a.icon_this_repair_status_0    {
+		background-image: url(../svg/icon_repair.svg);
+		background-color: $hint_color !important;
+		height: 10px;
+		width: 10px;
+	}
+	a.icon_this_repair_status_0, span.icon_this_repair_status_0 {
+		background-image: url(../svg/icon_repair.svg);
+		background-color: $deactive_color !important;
+		background-size: 22px auto !important;
+		height: 20px !important;
+		width: 20px !important;
+	}
+	a.icon_this_repair_status_2    {
+		background-image: url(../svg/icon_repair.svg);
+		background-color: $error_color !important;
+	}
+
+
+	li.icon_plan span  {
+		background-image: url(../svg/icon_expediting.svg);
+		background-color: $intime_color !important;
+	}
+	li.icon_future span  {
+		background-image: url(../svg/icon_expediting.svg);
+		background-color: $deactive_color !important;
+	}
+	li.icon_delayed span  {
+		background-image: url(../svg/icon_expediting.svg);
+		background-color: $hint_color !important;
+	}
+	li.icon_critical span  {
+		background-image: url(../svg/icon_expediting.svg);
+		background-color: $error_color !important;
+	}
+	li.icon_finished span  {
+		background-image: url(../svg/icon_expediting.svg);
+		background-color: $success_color !important;
+	}
+	a.icon_blocked {
+		background-image: url(../svg/icon_close.svg);
+		background-color: $error_color !important;
+	}
+	a.icon_time_blocked {
+		background-image: url(../svg/icon_waiting.svg);
+		background-color: $error_color !important;
+	}
+	a.icon_deactive {
+		background-image: url(../svg/icon_close.svg);
+		background-color: $deactive_color !important;
+	}
+	a.icon_download {
+		background-image: url(../svg/icon_download.svg);
+	}
+	a.icon_certificate_file {
+		background-image: url(../svg/icon_certificate_sheet.svg);
+	}
+	a.icon_tests {
+		background-image: url(../svg/icon_welder_check.svg);
+	}
+	a.icon_weldertest_add {
+		background-image: url(../svg/icon_weldercheck_add.svg);
+	}
+	a.icon_edit_examiner {
+		background-image: url(../svg/edit_user.svg);
+	}
+	a.icon_certificate {
+		background-image: url(../svg/icon_certificate_sheet.svg);
+	}
+	a.icon_linking {
+		background-image: url(../svg/icon_linking.svg);
+	}
+	a.certification_not_planned {
+		background-image: url(../svg/icon_certificate.svg);
+		background-color: $deactive_color !important;
+	}
+	a.icon_barcode {
+		background-image: url(../svg/icon_barcode.svg);
+		background-color: $deactive_color !important;
+	}
+	a.icon_barcode_deactive {
+		background-image: url(../svg/icon_barcode.svg);
+		background-color: $deactive_color !important;
+	}
+	a.icon_barcode_error {
+		background-image: url(../svg/icon_barcode.svg);
+		background-color: $error_color !important;
+	}
+	a.icon_barcode_active {
+		background-image: url(../svg/icon_barcode.svg);
+		background-color: $success_color !important;
+	}

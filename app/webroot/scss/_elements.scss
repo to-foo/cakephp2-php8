@@ -1,0 +1,174 @@
+form.dropzone {
+  margin: 1em !important;
+  border-top: 3px dotted !important;
+  border: 3px dotted;
+  border-radius: 3px;
+  background: #fff !important;
+
+  div.dz-message button.dz-button {
+    background: #fff !important;
+    border: none !important;
+    color: #425f7a !important;
+  }
+  div.dz-preview.dz-file-preview {
+    div.dz-progress {
+      top: 1.5em;
+    }
+    a.dz-remove {
+      background-color: #ff0000;
+      background-image: url(../svg/icon_close.svg);
+      background-position: center center;
+      background-size: 22px auto;
+      height: 20px;
+      width: 20px;
+      overflow: hidden;
+      border-radius: 20px;
+      line-height: 50px;
+      margin: -25px 0 0 5px;
+      position: absolute;
+      z-index: 10000;
+    }
+    div.dz-image {
+      border-radius: 3px;
+      background: #aebbc8;
+    }
+    div.dz-details {
+      padding: 3em 1em;
+
+      div.dz-size {
+        margin-bottom: 0;
+
+        span {
+          background: inherit;
+          color: #425f7a;
+        }
+      }
+      div.dz-filename {
+        margin-bottom: 0;
+
+        span {
+          background: inherit;
+          color: #425f7a;
+        }
+      }
+    }
+    div.dz-progress {
+      top: 1.5em;
+
+    }
+    a.dz-remove {
+      background-color: #ff0000;
+      background-image: url(../svg/icon_close.svg);
+      background-position: center center;
+      background-size: 22px auto;
+      height: 20px;
+      width: 20px;
+      overflow: hidden;
+      border-radius: 20px;
+      line-height: 50px;
+      margin: -25px 0 0 5px;
+      position: absolute;
+      z-index: 10000;
+    }
+    div.dz-image {
+      border-radius: 3px;
+      background: #aebbc8;
+    }
+    div.dz-details {
+      padding: 3em 1em;
+
+      div.dz-size {
+        margin-bottom: 0;
+
+        span {
+          background: inherit;
+          color: #425f7a;
+        }
+      }
+    }
+  }
+}
+
+/*
+form.dropzone div.dz-preview.dz-file-preview div.dz-image {
+  border-radius: 3px;
+  background: #aebbc8;
+}
+form.dropzone div.dz-preview.dz-file-preview div.dz-details {
+  padding: 3em 1em;
+}
+form.dropzone div.dz-preview.dz-file-preview div.dz-details div.dz-size {
+  margin-bottom: 0;
+}
+form.dropzone div.dz-preview.dz-file-preview div.dz-details div.dz-size span {
+  background: inherit;
+  color: #425f7a;
+}
+form.dropzone div.dz-preview.dz-file-preview div.dz-details div.dz-filename {
+  margin-bottom: 0;
+}
+form.dropzone div.dz-preview.dz-file-preview div.dz-details div.dz-filename span {
+  background: inherit;
+  color: #425f7a;
+}
+form.dropzone div.dz-preview.dz-file-preview div.dz-progress {
+  top: 1.5em;
+}
+form.dropzone div.dz-preview.dz-file-preview a.dz-remove {
+  background-color: #ff0000;
+  background-image: url(../svg/icon_close.svg);
+  background-position: center center;
+  background-size: 22px auto;
+  height: 20px;
+  width: 20px;
+  overflow: hidden;
+  border-radius: 20px;
+  line-height: 50px;
+  margin: -25px 0 0 5px;
+  position: absolute;
+  z-index: 10000;
+}
+form.dropzone div.dz-preview.dz-image-preview div.dz-image {
+  border-radius: 3px;
+  background: #aebbc8;
+}
+form.dropzone div.dz-preview.dz-image-preview div.dz-details {
+  padding: 3em 1em;
+}
+form.dropzone div.dz-preview.dz-image-preview div.dz-details div.dz-size {
+  margin-bottom: 0;
+}
+form.dropzone div.dz-preview.dz-image-preview div.dz-details div.dz-size span {
+  background: inherit;
+  color: #425f7a;
+}
+form.dropzone div.dz-preview.dz-image-preview div.dz-details div.dz-filename {
+  margin-bottom: 0;
+}
+form.dropzone div.dz-preview.dz-image-preview div.dz-details div.dz-filename span {
+  background: inherit;
+  color: #425f7a;
+}
+form.dropzone div.dz-preview.dz-image-preview div.dz-progress {
+  top: 1.5em;
+}
+form.dropzone div.dz-preview.dz-image-preview a.dz-remove {
+  background-color: #ff0000;
+  background-image: url(../svg/icon_close.svg);
+  background-position: center center;
+  background-size: 22px auto;
+  height: 20px;
+  width: 20px;
+  overflow: hidden;
+  border-radius: 20px;
+  line-height: 50px;
+  margin: -25px 0 0 5px;
+  position: absolute;
+  z-index: 10000;
+}
+form.dropzone div.dz-message button.dz-button {
+  background: #fff !important;
+  border: none !important;
+  color: #425f7a !important;
+}
+*/

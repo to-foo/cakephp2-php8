@@ -1,0 +1,26 @@
+[
+  {
+    "modus":"insert",
+    "model":"Reportimage",
+    "field":"size",
+    "string":"ALTER TABLE `reportimages` ADD `size` INT NOT NULL DEFAULT '100' AFTER `print`;"
+  },
+  {
+    "modus":"insert",
+    "model":"Reportimage",
+    "field":"max_size",
+    "string":"ALTER TABLE `reportimages` ADD `max_size` INT NOT NULL DEFAULT '0' AFTER `size`;"
+  },
+  {
+    "modus":"insert",
+    "model":"Reportimage",
+    "field":"border",
+    "string":"ALTER TABLE `reportimages` ADD `border` TINYINT NOT NULL DEFAULT '1' AFTER `max_size`;"
+  },
+  {
+    "modus":"insert",
+    "model":"Reportimage",
+    "field":"position",
+    "string":"ALTER TABLE `reportimages` ADD `position` TINYINT NOT NULL DEFAULT '0' AFTER `border`;"
+  }  
+]

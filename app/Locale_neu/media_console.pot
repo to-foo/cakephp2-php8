@@ -1,0 +1,119 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/Media/Console/Command/MediaShell.php:74
+msgid "Media Shell"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:84
+msgid "[I]nitialize Media Directory"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:85
+msgid "[P]rotect Transfer Directory"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:86
+msgid "[S]ynchronize"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:87
+msgid "[M]ake"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:88
+msgid "[H]elp"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:89
+msgid "[Q]uit"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:92
+msgid "What would you like to do?"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:130
+msgid "Do you want to create missing media directories now?"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:176
+msgid "Remember to set the correct permissions on transfer and filter directory."
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:186
+msgid "The content of the transfer directory is not served."
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:193
+msgid "%s is already present."
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:197
+msgid "%s is not in your webroot."
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:200
+msgid "Your transfer directory is missing a htaccess file to block requests."
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:202
+msgid "Do you want to create it now?"
+msgstr ""
+
+#: Plugin/Media/Console/Command/MediaShell.php:211
+msgid "%s created."
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:43
+msgid "Model"
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:48
+msgid "Model `%s` has the `Generator` behavior not attached to it."
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:53
+msgid "Source directory"
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:55
+msgid "Regex (matches against the basenames of the files) for source inclusion:"
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:59
+msgid "Base"
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:60
+msgid "Source"
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:61
+msgid "Destination"
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:62
+msgid "Overwrite existing"
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:63
+msgid "Create directories"
+msgstr ""
+
+#: Plugin/Media/Console/Command/Task/MakeTask.php:65
+msgid "Looks OK?"
+msgstr ""
+

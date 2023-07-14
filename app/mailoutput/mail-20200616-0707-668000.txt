@@ -1,0 +1,66 @@
+To: torsten.foth@mbq-gmbh.de
+Subject: Dateiimport German Pipe
+From: info@zfp-datenbank.de
+X-Mailer: CakePHP Email
+Date: Tue, 16 Jun 2020 09:07:06 +0200
+Message-ID: <5ee86f9a24a4472781c84cc4ca2c54d2@TODD>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="764194791e2e7e9c91c7394137040b87"
+Content-Transfer-Encoding: 8bit
+
+--764194791e2e7e9c91c7394137040b87
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Es wurden neue Auftragsdaten bereitgestellt.
+Folgende Dateien werden importiert.
+
+1592291157_0.csv
+##################################################
+Datei 1592291157_0.csv
+31 Datensätze gefunden
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079336
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079340
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079341
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079342
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079343
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079344
+Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079345
+23 Datensätze eingefügt
+
+This email was sent using the CakePHP Framework, http://cakephp.org.
+
+--764194791e2e7e9c91c7394137040b87
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+	<title>Emails\html</title>
+</head>
+<body>
+	<p> Es wurden neue Auftragsdaten bereitgestellt.</p>
+<p> Folgende Dateien werden importiert.</p>
+<p> </p>
+<p> 1592291157_0.csv</p>
+<p> ##################################################</p>
+<p> Datei 1592291157_0.csv</p>
+<p> 31 Datensätze gefunden</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079336</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079340</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079341</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079342</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079343</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079344</p>
+<p> Der folgende Auftrag ist bereits vorhanden und wird nicht importiert: 70079345</p>
+<p> 23 Datensätze eingefügt</p>
+<p> </p>
+
+	<p>This email was sent using the <a href="http://cakephp.org">CakePHP Framework</a></p>
+</body>
+</html>
+
+
+--764194791e2e7e9c91c7394137040b87--
+

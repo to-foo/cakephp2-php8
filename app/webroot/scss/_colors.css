@@ -1,0 +1,9 @@
+@keyframes mymove {
+  50% {
+    box-shadow: #a122c0 0px 0px 16px; } }
+@keyframes mymove_success {
+  50% {
+    box-shadow: #038000 0px 0px 16px; } }
+@keyframes mymove_error {
+  50% {
+    box-shadow: #ff0000 0px 0px 16px; } }

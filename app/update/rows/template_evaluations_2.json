@@ -1,0 +1,8 @@
+[
+  {
+    "modus":"insert",
+    "model":"TemplatesEvaluation",
+    "field":"modified",
+    "string":"ALTER TABLE `templates_evaluations` ADD `modified` DATETIME NULL AFTER `type`;"
+  }
+]
